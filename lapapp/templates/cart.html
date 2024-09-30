@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Cart</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        h2 {
+            margin: 20px 0;
+            color: #222;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 32px;
+        }
+        .cart {
+            width: 80%;
+            margin-top: 20px;
+        }
+        .cart-item {
+            display: flex;
+            align-items: center;
+            border-bottom: 1px solid #ddd;
+            padding: 15px 0;
+        }
+        .cart-item:last-child {
+            border-bottom: none;
+        }
+        .cart-item img {
+            max-width: 100px;
+            border-radius: 6px;
+            margin-right: 20px;
+        }
+        .cart-item-info {
+            flex: 1;
+        }
+        .cart-item-title {
+            font-size: 24px;
+            margin-bottom: 8px;
+            color: #333;
+        }
+        .cart-item-details {
+            color: #666;
+            font-size: 18px;
+        }
+        .quantity-buttons {
+            display: flex;
+            align-items: center;
+            margin-top: 10px;
+        }
+        .quantity-btn {
+            cursor: pointer;
+            padding: 4px 8px;
+            font-size: 16px;
+            border: none;
+            border-radius: 4px;
+            margin-right: 6px;
+            transition: background-color 0.3s ease;
+        }
+        .quantity-btn:hover {
+            background-color: #ddd;
+        }
+        .total-price {
+            font-size: 22px;
+            font-weight: bold;
+            margin-top: 20px;
+            margin-bottom: 15px;
+            color: #333;
+        }
+        .action-buttons {
+            margin-top: 20px;
+            display: flex;
+            gap: 15px;
+        }
+        .btn {
+            padding: 10px 20px;
+            font-size: 18px;
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            transition: background-color 0.3s ease;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+        .btn-primary {
+            background-color: #2196f3;
+        }
+        .btn-primary:hover {
+            background-color: #1976d2;
+        }
+    </style>
+</head>
+<body>
+    <h2>Your Cart</h2>
+    <div class="cart">
+        {% for item in cart_items %}
+        <div class="cart-item">
+            <img src="{{ item.product.image.url }}" alt="{{ item.product.name }}">
+            <div class="cart-item-info">
+                <div class="cart-item-title">{{ item.product.name }}</div>
+                <div class="cart-item-details">
+                    <div>Price: &#8377;{{ item.product.price }}</div>
+                    <div>Quantity: {{ item.quantity }}</div>
+                    <div class="quantity-buttons">
+                        <form method="post" action="{% url 'add_to_cart' item.product.id %}">
+                            {% csrf_token %}
+                            <button type="submit" class="quantity-btn">+</button>
+                        </form>
+                        <form method="post" action="{% url 'remove_from_cart' item.id %}">
+                            {% csrf_token %}
+                            <button type="submit" class="quantity-btn">-</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <p class="total-price">Total Price: {{ total_price }}</p>
+    <div class="action-buttons">
+        <a href="{% url 'checkout' %}" class="btn btn-primary">Proceed to Checkout</a>
+        <a href="{% url 'index' %}" class="btn btn-primary">Continue Shopping</a>
+    </div>
+</body>
+</html>

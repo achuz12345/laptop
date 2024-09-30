@@ -1,0 +1,177 @@
+<div id="chat-container">
+    <h2 class="header">Chat</h2>
+    <div id="chat-messages" class="chat-box">
+        <!-- Chat messages will appear here -->
+    </div>
+    <form id="chat-form" class="input-group">
+        {% csrf_token %}
+        <input type="text" id="user-input" name="user_input" class="input-field" placeholder="Type your message..." autofocus>
+        <button type="submit" class="send-button">Send</button>
+    </form>
+</div>
+
+<script>
+document.getElementById('chat-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+    var userInput = document.getElementById('user-input').value.trim();
+    var chatMessages = document.getElementById('chat-messages');
+    
+    if (userInput) {
+        // Add user message to chat with animation
+        chatMessages.innerHTML += '<div class="message user-message"><div class="message-content">' + userInput + '</div></div>';
+        
+        // Scroll to the bottom of the chat
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+        
+        // Clear input field
+        document.getElementById('user-input').value = '';
+
+        // Simulate typing indicator
+        chatMessages.innerHTML += '<div id="typing-indicator" class="message bot-message typing"><div class="message-content">...</div></div>';
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+
+        // Send request to server
+        fetch('{% url "chatbot" %}', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'X-CSRFToken': '{{ csrf_token }}'
+            },
+            body: 'user_input=' + encodeURIComponent(userInput)
+        })
+        .then(response => response.json())
+        .then(data => {
+            // Remove typing indicator
+            document.getElementById('typing-indicator').remove();
+            
+            // Add bot response to chat with animation
+            chatMessages.innerHTML += '<div class="message bot-message"><div class="message-content">' + data.response + '</div></div>';
+            
+            // Scroll to the bottom of the chat
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        });
+    }
+});
+</script>
+
+<style>
+    /* Chat container styling */
+    #chat-container {
+        max-width: 800px;
+        margin: auto;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        background-color: #f4f4f4;
+    }
+
+    /* Header styling */
+    .header {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+    /* Chat box styling */
+    .chat-box {
+        background: #fff;
+        border-radius: 10px;
+        border: 1px solid #ddd;
+        padding: 15px;
+        height: 400px;
+        overflow-y: auto;
+        box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.05);
+    }
+
+    /* Chat message styling */
+    .message {
+        display: flex;
+        margin-bottom: 10px;
+        animation: fade-in 0.5s ease-in-out;
+    }
+    .message-content {
+        padding: 10px 15px;
+        border-radius: 20px;
+        max-width: 70%;
+        word-wrap: break-word;
+        font-size: 16px;
+    }
+    .user-message .message-content {
+        background-color: #007bff;
+        color: white;
+        align-self: flex-end;
+        border-radius: 20px 20px 0 20px;
+    }
+    .bot-message .message-content {
+        background-color: #e1e1e1;
+        color: #333;
+        align-self: flex-start;
+        border-radius: 20px 20px 20px 0;
+    }
+
+    /* Typing indicator */
+    .typing {
+        font-weight: bold;
+        color: #888;
+        animation: blink 1s infinite;
+    }
+
+    /* Form and button styling */
+    .input-group {
+        display: flex;
+        margin-top: 20px;
+    }
+    .input-field {
+        flex: 1;
+        padding: 10px;
+        border-radius: 20px;
+        border: 1px solid #ddd;
+        font-size: 16px;
+        margin-right: 10px;
+        outline: none;
+    }
+    .input-field:focus {
+        border-color: #007bff;
+    }
+    .send-button {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 20px;
+        background: linear-gradient(90deg, #007bff, #00bfff);
+        color: white;
+        cursor: pointer;
+        font-size: 16px;
+    }
+    .send-button:hover {
+        background: linear-gradient(90deg, #0056b3, #0099cc);
+    }
+
+    /* Fade-in animation for chat messages */
+    @keyframes fade-in {
+        0% { opacity: 0; transform: translateY(10px); }
+        100% { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Typing indicator animation */
+    @keyframes blink {
+        0% { opacity: 0.5; }
+        50% { opacity: 1; }
+        100% { opacity: 0.5; }
+    }
+
+    /* Custom scrollbar styling */
+    #chat-messages {
+        scrollbar-width: thin;
+        scrollbar-color: #007bff #f4f4f4;
+    }
+    #chat-messages::-webkit-scrollbar {
+        width: 8px;
+    }
+    #chat-messages::-webkit-scrollbar-thumb {
+        background-color: #007bff;
+        border-radius: 10px;
+    }
+    #chat-messages::-webkit-scrollbar-track {
+        background-color: #f4f4f4;
+    }
+</style>

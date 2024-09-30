@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #4A90E2;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin-bottom: 40px;
+        }
+        .chart-container {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+            padding: 20px;
+            width: 400px;
+        }
+        h2 {
+            color: #4A90E2;
+        }
+        pre {
+            background: #e8e8e8;
+            padding: 10px;
+            border-radius: 5px;
+            overflow: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dashboard</h1>
+    
+    <div class="container">
+        <div class="chart-container">
+            <canvas id="productsPerCategory"></canvas>
+        </div>
+        <div class="chart-container">
+            <canvas id="topProducts"></canvas>
+        </div>
+        <div class="chart-container">
+            <canvas id="topSuppliers"></canvas>
+        </div>
+    </div>
+
+    <script>
+        
+
+        // Function to create charts
+        function createChart(ctx, type, labels, data, label, title) {
+            return new Chart(ctx, {
+                type: type,
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: label,
+                        data: data,
+                        backgroundColor: [
+                            'rgba(255, 99, 132, 0.8)',
+                            'rgba(54, 162, 235, 0.8)',
+                            'rgba(255, 206, 86, 0.8)',
+                            'rgba(75, 192, 192, 0.8)',
+                            'rgba(153, 102, 255, 0.8)',
+                        ],
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: title,
+                            padding: {
+                                top: 10,
+                                bottom: 10
+                            },
+                            font: {
+                                size: 16,
+                                weight: 'bold'
+                            }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: {
+                                color: '#e0e0e0'
+                            }
+                        },
+                        x: {
+                            grid: {
+                                color: '#e0e0e0'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Create charts with error handling
+        try {
+            var productsPerCategory = {{ products_per_category|safe }};
+            var ctx1 = document.getElementById('productsPerCategory').getContext('2d');
+            createChart(ctx1, 'pie', 
+                productsPerCategory.map(item => item.category),
+                productsPerCategory.map(item => item.count),
+                'Product Count', 'Products per Category');
+        } catch (error) {
+            console.error('Error creating Products per Category chart:', error);
+        }
+
+        try {
+            var topProducts = {{ top_products|safe }};
+            var ctx2 = document.getElementById('topProducts').getContext('2d');
+            createChart(ctx2, 'bar', 
+                topProducts.map(item => item.product__name),
+                topProducts.map(item => item.order_count),
+                'Order Count', 'Top 5 Products by Order Count');
+        } catch (error) {
+            console.error('Error creating Top Products chart:', error);
+        }
+
+        try {
+            var topSuppliers = {{ top_suppliers|safe }};
+            var ctx3 = document.getElementById('topSuppliers').getContext('2d');
+            createChart(ctx3, 'bar', 
+                topSuppliers.map(item => item.name),
+                topSuppliers.map(item => item.product_count),
+                'Product Count', 'Top 5 Suppliers by Product Count');
+        } catch (error) {
+            console.error('Error creating Top Suppliers chart:', error);
+        }
+    </script>
+</body>
+</html>

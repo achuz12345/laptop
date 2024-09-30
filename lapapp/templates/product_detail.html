@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Page</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        h2 {
+            color: #7c7777;
+        }
+
+        .container {
+            margin-top: 50px;
+        }
+
+        .product-list {
+            margin-bottom: 50px;
+        }
+
+        .img-thumbnail {
+            width: 100%;
+            height: auto;
+        }
+
+        .price {
+            color: #333;
+            font-weight: bold;
+        }
+
+        .buy-now-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+
+        .buy-now-button:hover {
+            background-color: #0056b3;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="{% url 'index' %}">eBags</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <!-- Left side of the navbar -->
+            <div class="mr-auto">
+                <form method="GET" action="{% url 'product_list' %}" class="form-inline">
+                    <input type="text" name="search" placeholder="Search for products.." class="form-control mr-2">
+                    <button type="submit" class="btn btn-outline-success">Search</button>
+                </form>
+            </div>
+            <!-- Right side of the navbar -->
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'product_list' %}">ALL PRODUCTS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'view_cart' %}">Cart</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'orders' %}">Orders</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Categories
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="{% url 'index' %}?category=1">TOTE BAGS</a>
+                        <a class="dropdown-item" href="{% url 'index' %}?category=5">TRAVEL BAG</a>
+                        <a class="dropdown-item" href="{% url 'index' %}?category=2">HP BAG</a>
+                        <a class="dropdown-item" href="{% url 'index' %}?category=3">HAND BAG</a>
+                    </div>
+                    
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'view_profile' %}">Profile</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{% url 'logout' %}" style="color: orangered;">Logout</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="product-list">
+            <table class="table">
+                <tr>
+                    <td>
+                        <img src="{{ product.image.url }}" style="min-width: 400px; min-height: 400px;" alt="{{ product.name }}" class="img-thumbnail">
+                    </td>
+                    <td style="padding-left: 50px; min-width: 400px;">
+                        <h2>{{ product.name }}</h2>
+                        <p><b>Description:</b> {{ product.description }}</p>
+                        <p class="price">Price: &#8377;{{ product.price }} INR</p>
+                        <p><b>Category:</b> {{ product.category }}</p>
+                        <p><b>Manufacture:</b> {{ product.manufacture }}</p>
+                        <p><b>Availability:</b> {{ product.quantity }}</p>
+                        <p><b>Operating System:</b> {{ product.os }}</p> <!-- Added field -->
+                        <p><b>RAM:</b> {{ product.ram }}GB</p> <!-- Added field -->
+                        <p><b>Processor:</b> {{ product.processor }}</p> <!-- Added field -->
+                        <a class="buy-now-button" href="{% url 'add_to_cart' product.id %}">Add to Cart</a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+</html>

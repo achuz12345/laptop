@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Product | Lap_world Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8; /* Updated background color */
+        }
+
+        h1 {
+            text-align: center;
+            margin: 50px 0 30px; /* Adjusted margin */
+            color: #333;
+        }
+
+        form {
+            width: 80%;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #fff;
+            border-radius: 10px; /* Rounded corners */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+        }
+
+        input[type="text"],
+        textarea,
+        input[type="number"],
+        input[type="file"] {
+            width: calc(100% - 22px);
+            padding: 12px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd; /* Lighter border */
+            border-radius: 5px;
+            outline: none;
+            transition: border-color 0.3s;
+            box-sizing: border-box; /* Ensure padding doesn't affect width */
+        }
+
+        input[type="text"]:focus,
+        textarea:focus,
+        input[type="number"]:focus,
+        input[type="file"]:focus {
+            border-color: #555;
+        }
+
+        button[type="submit"] {
+            width: calc(100% - 22px);
+            padding: 12px;
+            border: none;
+            border-radius: 5px;
+            background-color: #4CAF50;
+            color: #fff;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        /* Style for popup message */
+        .popup {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            z-index: 999;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Add Product</h1>
+
+    <form id="productForm" action="/add-product/" method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+
+        <!-- Removed Product Name field -->
+
+        <!-- Assuming Quantity is a field in your form -->
+        {{ form.as_p }}
+
+        <!-- Additional fields for OS, RAM, and Processor moved below Quantity -->
+    
+        <button type="submit">Add Lap</button>
+    </form>
+
+    <!-- Popup message -->
+    <div id="popupMessage" class="popup">
+        <p>The product is already in stock.</p>
+    </div>
+
+    <!-- Include JavaScript -->
+    <script>
+        // Check for duplicate product
+        document.getElementById('productForm').addEventListener('submit', function(event) {
+            event.preventDefault(); // Prevent form submission
+
+            // Add logic to check if the product already exists in your database
+            var productAlreadyExists = false; // Replace with actual logic
+
+            if (productAlreadyExists) {
+                document.getElementById('popupMessage').style.display = 'block'; // Display popup message
+            } else {
+                this.submit(); // Submit the form if product doesn't exist
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Supply Request</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f6f9;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            min-height: 100vh;
+            color: #333;
+        }
+        h1 {
+            color: #444;
+            margin-top: 20px;
+            text-align: center;
+        }
+        p {
+            background-color: #fff;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 600px;
+        }
+        form {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        button[name="action"][value="accept"] {
+            background-color: #28a745;
+            color: #fff;
+        }
+        button[name="action"][value="accept"]:hover {
+            background-color: #218838;
+        }
+        button[name="action"][value="reject"] {
+            background-color: #dc3545;
+            color: #fff;
+        }
+        button[name="action"][value="reject"]:hover {
+            background-color: #c82333;
+        }
+    </style>
+</head>
+<body>
+
+  <h1>Manage Supply Request</h1>
+  <p>Product: {{ supply_request.product.name }}</p>
+  <p>Supplier: {{ supply_request.supplier.name }}</p>
+  <p>Quantity: {{ supply_request.quantity }}</p>
+  <p>Status: {{ supply_request.get_status_display }}</p>
+
+  <form method="post">
+    {% csrf_token %}
+    <button type="submit" name="action" value="accept">Accept</button>
+    <button type="submit" name="action" value="reject">Reject</button>
+  </form>
+
+</body>
+</html>

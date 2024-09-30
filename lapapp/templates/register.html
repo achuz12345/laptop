@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        h2 {
+            color: #4a90e2;
+            margin-bottom: 20px;
+            text-align: center;
+            font-weight: bold;
+            font-size: 36px;
+        }
+
+        .container {
+            max-width: 600px;
+            padding: 40px;
+            box-sizing: border-box;
+            box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.1);
+            border-radius: 10px;
+            background-color: #fff;
+        }
+
+        .form-row {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 0 -15px;
+        }
+
+        .form-group {
+            padding: 0 15px;
+            flex: 1;
+            margin-bottom: 20px;
+        }
+
+        .form-group.full-width {
+            flex-basis: 100%;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: border-color 0.3s ease-in-out;
+            box-sizing: border-box;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="password"]:focus {
+            border-color: #4a90e2;
+        }
+
+        button[type="submit"] {
+            width: 100%;
+            padding: 10px 0;
+            background-color: #4a90e2;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-weight: bold;
+            text-align: center;
+            cursor: pointer;
+            transition: background-color 0.3s ease-in-out;
+            font-size: 18px;
+        }
+
+        button[type="submit"]:hover {
+            background-color: #357bd8;
+        }
+
+        .alert {
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            color: #721c24;
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+        }
+
+        a.login-link {
+            color: #4a90e2;
+            text-decoration: none;
+        }
+
+        a.login-link:hover {
+            color: #357bd8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Create an Account</h2>
+        
+        <form method="post">
+            {% csrf_token %}
+            <div>
+                {% if user_form.errors %}
+                <div class="alert alert-danger" role="alert">
+                    <strong>Error!</strong> Please correct the following errors:
+                    <ul>
+                        {% for field in user_form %}
+                        {% for error in field.errors %}
+                        <li>{{ error }}</li>
+                        {% endfor %}
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Username:</label>
+                        {{ user_form.username }}
+                        {% if user_form.username.errors %}
+                        <ul class="errorlist" style="color: red;">
+                            {% for error in user_form.username.errors %}
+                            <li>{{ error }}</li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                    </div>
+                    <div class="form-group">
+                        <label>Name:</label>
+                        {{ user_form.name }}
+                        {% if user_form.name.errors %}
+                        <ul class="errorlist" style="color: red;">
+                            {% for error in user_form.name.errors %}
+                            <li>{{ error }}</li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Email:</label>
+                        {{ user_form.email }}
+                        {% if user_form.email.errors %}
+                        <ul class="errorlist" style="color: red;">
+                            {% for error in user_form.email.errors %}
+                            <li>{{ error }}</li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                    </div>
+                    <div class="form-group">
+                        <label>Phone:</label>
+                        {{ user_form.phone }}
+                        {% if user_form.phone.errors %}
+                        <ul class="errorlist" style="color: red;">
+                            {% for error in user_form.phone.errors %}
+                            <li>{{ error }}</li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Password:</label>
+                        {{ user_form.password }}
+                        {% if user_form.password.errors %}
+                        <ul class="errorlist" style="color: red;">
+                            {% for error in user_form.password.errors %}
+                            <li>{{ error }}</li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                    </div>
+                    <div class="form-group">
+                        <label>Confirm Password:</label>
+                        <input type="password" name="confirm_password" class="form-control" required>
+                        {% if user_form.confirm_password.errors %}
+                        <ul class="errorlist" style="color: red;">
+                            {% for error in user_form.confirm_password.errors %}
+                            <li>{{ error }}</li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                    </div>
+                </div>                                          
+                <div class="form-group full-width">
+                    <button type="submit" class="btn btn-primary">Register</button>
+                </div>
+            </div>
+        </form>
+        <p style="text-align: center;">
+            If you already have an account,
+            <a href="{% url 'login' %}" class="login-link">Login</a> instead.
+        </p>
+    </div>
+</body>
+</html>

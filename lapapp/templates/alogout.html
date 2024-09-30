@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Logout | lap_world</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #ffffff, #003366);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 400px;
+            padding: 30px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            text-align: center;
+        }
+
+        h3 {
+            color: #0056b3;
+            margin-bottom: 20px;
+        }
+
+        h4 {
+            font-size: 1.1rem;
+            color: #333;
+        }
+
+        a {
+            text-decoration: none;
+            font-weight: bold;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin: 0 10px;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        a:hover {
+            opacity: 0.8;
+        }
+
+        .btn-yes {
+            background-color: #dc3545;
+            color: #fff;
+        }
+
+        .btn-no {
+            background-color: #28a745;
+            color: #fff;
+        }
+
+        .btn-yes:hover {
+            background-color: #c82333;
+        }
+
+        .btn-no:hover {
+            background-color: #218838;
+        }
+    </style>
+
+    <script>
+        function disableBackButton() {
+            window.history.forward();
+        }
+    </script>
+</head>
+<body onunload="disableBackButton()" onload="disableBackButton()">
+    <div class="container">
+        <h3>Are You Sure You Want to <b>Log Out?</b></h3>
+        <h4>
+            <a href="../login" class="btn-yes">Yes</a>
+            <a href="../home" class="btn-no">No</a>
+        </h4>
+    </div>
+</body>
+</html>
