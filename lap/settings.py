@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure--w7ajaq(29)!xvpg-57!3)i3fo!3aa&#wd#efxxjo12)9+gd22
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 GEMINI_API_KEY = "AIzaSyDyQpGiI2WuqF3Pz2V51m7Fn20AIekvolQ"
 # Application definition

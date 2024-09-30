@@ -118,33 +118,33 @@
             color: #ffffff;
         }
         .pagination {
-    text-align: center; /* Center the text */
-    margin: 20px 0; /* Add space above and below */
-}
+            text-align: center; /* Center the text */
+            margin: 20px 0; /* Add space above and below */
+        }
 
-.pagination a {
-    margin: 0 5px; /* Space between links */
-    padding: 8px 12px; /* Padding for better click area */
-    border: 1px solid #007bff; /* Border for the links */
-    border-radius: 5px; /* Rounded corners */
-    color: #007bff; /* Link color */
-    text-decoration: none; /* Remove underline */
-}
+        .pagination a {
+            margin: 0 5px; /* Space between links */
+            padding: 8px 12px; /* Padding for better click area */
+            border: 1px solid #007bff; /* Border for the links */
+            border-radius: 5px; /* Rounded corners */
+            color: #007bff; /* Link color */
+            text-decoration: none; /* Remove underline */
+        }
 
-.pagination a:hover {
-    background-color: #007bff; /* Background on hover */
-    color: white; /* Text color on hover */
-}
+        .pagination a:hover {
+            background-color: #007bff; /* Background on hover */
+            color: white; /* Text color on hover */
+        }
 
-.pagination .current {
-    margin: 0 5px; /* Space for the current page */
-    padding: 8px 12px; /* Padding */
-    border-radius: 5px; /* Rounded corners */
-    background-color: #007bff; /* Background color */
-    color: white; /* Text color */
-}
+        .pagination .current {
+            margin: 0 5px; /* Space for the current page */
+            padding: 8px 12px; /* Padding */
+            border-radius: 5px; /* Rounded corners */
+            background-color: #007bff; /* Background color */
+            color: white; /* Text color */
+        }
 
-</style>
+    </style>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light">
@@ -163,15 +163,13 @@
                 <li class="nav-item"><a class="nav-link" href="{% url 'recommendation' %}">Recommendation</a></li>
                 <li class="nav-item"><a class="nav-link" href="{% url 'chatbot' %}">Chatbot</a></li>
                 
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="{% url 'index' %}?category=1">HP</a>
-                        <a class="dropdown-item" href="{% url 'index' %}?category=5">DELL</a>
-                        <a class="dropdown-item" href="{% url 'index' %}?category=2">ASUS</a>
-                        <a class="dropdown-item" href="{% url 'index' %}?category=3">APPLE</a>
-                    </div>
+                <!-- Removed Categories Dropdown -->
+                
+                <!-- Added Prediction Link -->
+                <li class="nav-item">
+                    <a class="nav-link" href="https://9dgjqmlksld9prbrhvxpca.streamlit.app/">Price prediction</a>
                 </li>
+                
                 <li class="nav-item"><a class="nav-link" href="{% url 'view_profile' %}">Profile</a></li>
                 <li class="nav-item"><a class="nav-link text-danger" href="{% url 'logout' %}">Logout</a></li>
             </ul>
