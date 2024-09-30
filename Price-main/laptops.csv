@@ -1,0 +1,1001 @@
+userid,phone_no,brand,description,os,ram,screen_size,processor,gpu,price,warranty
+user6702,+91 7372172620,hp,"hp laptop with 32gb RAM, 16-inch screen, ryzen 9 processor, and gtx 1650 GPU",linux,32gb,16,ryzen 9,gtx 1650,220224,no
+user7007,+91 9262659300,hp,"hp laptop with 8gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3060 GPU",linux,8gb,17,ryzen 7,rtx 3060,119661,yes
+user1788,+91 9551021451,apple,"apple laptop with 4gb RAM, 16-inch screen, i7 processor, and rtx 3070 GPU",macos,4gb,16,i7,rtx 3070,173000,no
+user7500,+91 9395851657,acer,"acer laptop with 8gb RAM, 17-inch screen, ryzen 9 processor, and rtx 3070 GPU",linux,8gb,17,ryzen 9,rtx 3070,115254,yes
+user3045,+91 8345998765,lenovo,"lenovo laptop with 16gb RAM, 14-inch screen, i9 processor, and rtx 3070 GPU",windows,16gb,14,i9,rtx 3070,108514,yes
+user7497,+91 7065279052,acer,"acer laptop with 8gb RAM, 16-inch screen, i9 processor, and rtx 2060 GPU",windows,8gb,16,i9,rtx 2060,129325,no
+user9648,+91 8763135987,mi,"mi laptop with 4gb RAM, 13-inch screen, ryzen 9 processor, and gtx 1650 GPU",windows,4gb,13,ryzen 9,gtx 1650,53840,yes
+user3308,+91 7981864185,lenovo,"lenovo laptop with 16gb RAM, 17-inch screen, i5 processor, and gtx 1650 GPU",linux,16gb,17,i5,gtx 1650,139035,no
+user8884,+91 7689408935,acer,"acer laptop with 16gb RAM, 13-inch screen, i3 processor, and rtx 3060 GPU",macos,16gb,13,i3,rtx 3060,161438,yes
+user7618,+91 8342335801,lenovo,"lenovo laptop with 4gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3060 GPU",windows,4gb,13,ryzen 3,rtx 3060,49110,yes
+user1391,+91 8582050372,asus,"asus laptop with 16gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3080 GPU",windows,16gb,15,ryzen 7,rtx 3080,115595,no
+user9453,+91 9152107297,mi,"mi laptop with 8gb RAM, 14-inch screen, i9 processor, and rtx 3070 GPU",linux,8gb,14,i9,rtx 3070,77183,yes
+user1945,+91 8567207165,hp,"hp laptop with 4gb RAM, 16-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,4gb,16,ryzen 7,rtx 3080,59923,no
+user9049,+91 8535490951,mi,"mi laptop with 16gb RAM, 15-inch screen, i5 processor, and rtx 3080 GPU",linux,16gb,15,i5,rtx 3080,114194,no
+user9382,+91 7610492715,hp,"hp laptop with 16gb RAM, 15-inch screen, i5 processor, and rtx 2060 GPU",linux,16gb,15,i5,rtx 2060,80314,yes
+user1489,+91 8763103089,asus,"asus laptop with 4gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3070 GPU",macos,4gb,16,ryzen 3,rtx 3070,49027,no
+user5063,+91 9843600010,mi,"mi laptop with 32gb RAM, 13-inch screen, i3 processor, and gtx 1050 GPU",macos,32gb,13,i3,gtx 1050,268936,no
+user8127,+91 9793473153,apple,"apple laptop with 32gb RAM, 15-inch screen, i5 processor, and rtx 2060 GPU",macos,32gb,15,i5,rtx 2060,200381,no
+user6870,+91 8080559096,mi,"mi laptop with 4gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3080 GPU",macos,4gb,15,ryzen 3,rtx 3080,61411,no
+user5239,+91 9064856158,mi,"mi laptop with 2gb RAM, 15-inch screen, ryzen 3 processor, and gtx 1050 GPU",macos,2gb,15,ryzen 3,gtx 1050,33766,yes
+user4108,+91 8289127962,apple,"apple laptop with 4gb RAM, 15-inch screen, i3 processor, and gtx 1650 GPU",macos,4gb,15,i3,gtx 1650,162000,no
+user8807,+91 8018949144,mi,"mi laptop with 8gb RAM, 15-inch screen, i5 processor, and rtx 3070 GPU",windows,8gb,15,i5,rtx 3070,59127,yes
+user1601,+91 8723444609,asus,"asus laptop with 32gb RAM, 14-inch screen, ryzen 3 processor, and rtx 3070 GPU",windows,32gb,14,ryzen 3,rtx 3070,240161,no
+user2376,+91 8218850562,lenovo,"lenovo laptop with 4gb RAM, 14-inch screen, i3 processor, and rtx 3060 GPU",macos,4gb,14,i3,rtx 3060,52451,yes
+user5722,+91 8139795891,lenovo,"lenovo laptop with 8gb RAM, 13-inch screen, i5 processor, and gtx 1650 GPU",macos,8gb,13,i5,gtx 1650,55583,yes
+user3416,+91 9621721592,hp,"hp laptop with 8gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3060 GPU",linux,8gb,16,ryzen 3,rtx 3060,63610,no
+user5998,+91 8430725316,lenovo,"lenovo laptop with 4gb RAM, 15-inch screen, i7 processor, and gtx 1650 GPU",windows,4gb,15,i7,gtx 1650,50483,yes
+user3893,+91 9042484381,asus,"asus laptop with 32gb RAM, 16-inch screen, ryzen 9 processor, and gtx 1650 GPU",windows,32gb,16,ryzen 9,gtx 1650,273380,no
+user9998,+91 8432899978,acer,"acer laptop with 16gb RAM, 13-inch screen, i9 processor, and rtx 3060 GPU",windows,16gb,13,i9,rtx 3060,87657,yes
+user8011,+91 8533782861,lenovo,"lenovo laptop with 4gb RAM, 13-inch screen, i5 processor, and rtx 2060 GPU",windows,4gb,13,i5,rtx 2060,55175,yes
+user9339,+91 7021631717,asus,"asus laptop with 2gb RAM, 15-inch screen, i3 processor, and gtx 1050 GPU",linux,2gb,15,i3,gtx 1050,35283,no
+user5176,+91 8574850949,hp,"hp laptop with 2gb RAM, 17-inch screen, i9 processor, and rtx 3080 GPU",linux,2gb,17,i9,rtx 3080,49800,no
+user8586,+91 9516718949,acer,"acer laptop with 16gb RAM, 13-inch screen, ryzen 3 processor, and rtx 2060 GPU",macos,16gb,13,ryzen 3,rtx 2060,73969,no
+user8239,+91 8217715360,acer,"acer laptop with 8gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,8gb,15,ryzen 7,rtx 3080,98196,no
+user4076,+91 9271382924,lenovo,"lenovo laptop with 2gb RAM, 13-inch screen, i9 processor, and rtx 3070 GPU",macos,2gb,13,i9,rtx 3070,44534,no
+user5507,+91 8574255902,apple,"apple laptop with 2gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,2gb,15,ryzen 3,rtx 3060,165000,yes
+user4995,+91 7482318028,apple,"apple laptop with 8gb RAM, 17-inch screen, ryzen 3 processor, and rtx 2060 GPU",macos,8gb,17,ryzen 3,rtx 2060,165000,yes
+user2262,+91 8356479810,acer,"acer laptop with 16gb RAM, 15-inch screen, i7 processor, and rtx 3070 GPU",macos,16gb,15,i7,rtx 3070,130424,yes
+user6818,+91 9121220127,mi,"mi laptop with 4gb RAM, 17-inch screen, i3 processor, and rtx 3080 GPU",windows,4gb,17,i3,rtx 3080,65525,yes
+user6229,+91 9231869257,mi,"mi laptop with 16gb RAM, 14-inch screen, i9 processor, and rtx 3070 GPU",macos,16gb,14,i9,rtx 3070,118790,no
+user6314,+91 8320350997,apple,"apple laptop with 8gb RAM, 14-inch screen, ryzen 3 processor, and rtx 2060 GPU",macos,8gb,14,ryzen 3,rtx 2060,162000,no
+user8604,+91 8006090941,apple,"apple laptop with 2gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,2gb,13,ryzen 7,rtx 3080,171000,yes
+user2816,+91 9665257221,mi,"mi laptop with 32gb RAM, 13-inch screen, i5 processor, and gtx 1650 GPU",macos,32gb,13,i5,gtx 1650,201519,no
+user2509,+91 8165403415,apple,"apple laptop with 32gb RAM, 15-inch screen, i5 processor, and rtx 3060 GPU",macos,32gb,15,i5,rtx 3060,198487,no
+user6460,+91 9682084756,lenovo,"lenovo laptop with 4gb RAM, 13-inch screen, i9 processor, and rtx 3080 GPU",windows,4gb,13,i9,rtx 3080,54142,yes
+user2536,+91 9446034179,lenovo,"lenovo laptop with 4gb RAM, 15-inch screen, i3 processor, and rtx 3070 GPU",macos,4gb,15,i3,rtx 3070,62188,no
+user9119,+91 7625184847,mi,"mi laptop with 2gb RAM, 16-inch screen, i9 processor, and gtx 1650 GPU",windows,2gb,16,i9,gtx 1650,41051,no
+user4828,+91 7492064985,apple,"apple laptop with 4gb RAM, 13-inch screen, i3 processor, and rtx 3080 GPU",macos,4gb,13,i3,rtx 3080,168000,yes
+user8486,+91 8527724400,mi,"mi laptop with 2gb RAM, 14-inch screen, i3 processor, and rtx 2060 GPU",linux,2gb,14,i3,rtx 2060,34579,no
+user9369,+91 8150775889,apple,"apple laptop with 4gb RAM, 15-inch screen, ryzen 5 processor, and gtx 1650 GPU",macos,4gb,15,ryzen 5,gtx 1650,163000,no
+user2983,+91 8019716975,lenovo,"lenovo laptop with 8gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3070 GPU",macos,8gb,17,ryzen 5,rtx 3070,97100,yes
+user9280,+91 7453778409,hp,"hp laptop with 8gb RAM, 13-inch screen, i9 processor, and gtx 1050 GPU",macos,8gb,13,i9,gtx 1050,119895,no
+user7882,+91 8604461298,hp,"hp laptop with 4gb RAM, 13-inch screen, ryzen 9 processor, and gtx 1650 GPU",macos,4gb,13,ryzen 9,gtx 1650,43348,yes
+user3261,+91 8045491128,lenovo,"lenovo laptop with 4gb RAM, 15-inch screen, ryzen 5 processor, and gtx 1050 GPU",macos,4gb,15,ryzen 5,gtx 1050,48392,yes
+user8804,+91 9519967443,mi,"mi laptop with 32gb RAM, 15-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,32gb,15,ryzen 5,rtx 3080,282149,no
+user4897,+91 7354964243,asus,"asus laptop with 2gb RAM, 15-inch screen, ryzen 5 processor, and gtx 1050 GPU",macos,2gb,15,ryzen 5,gtx 1050,37285,no
+user3770,+91 9100833390,hp,"hp laptop with 16gb RAM, 17-inch screen, ryzen 5 processor, and rtx 2060 GPU",windows,16gb,17,ryzen 5,rtx 2060,164689,yes
+user4063,+91 8137652325,acer,"acer laptop with 4gb RAM, 16-inch screen, i7 processor, and gtx 1050 GPU",windows,4gb,16,i7,gtx 1050,43531,yes
+user5585,+91 7877251229,mi,"mi laptop with 32gb RAM, 13-inch screen, i7 processor, and rtx 3060 GPU",windows,32gb,13,i7,rtx 3060,224653,no
+user7828,+91 9115492136,lenovo,"lenovo laptop with 32gb RAM, 17-inch screen, ryzen 7 processor, and rtx 2060 GPU",linux,32gb,17,ryzen 7,rtx 2060,216940,no
+user8228,+91 9781270001,apple,"apple laptop with 2gb RAM, 16-inch screen, ryzen 7 processor, and rtx 2060 GPU",macos,2gb,16,ryzen 7,rtx 2060,168000,yes
+user8959,+91 7949815673,lenovo,"lenovo laptop with 32gb RAM, 15-inch screen, ryzen 5 processor, and rtx 2060 GPU",linux,32gb,15,ryzen 5,rtx 2060,185569,no
+user8900,+91 8417565179,acer,"acer laptop with 8gb RAM, 16-inch screen, i3 processor, and rtx 3080 GPU",windows,8gb,16,i3,rtx 3080,62914,yes
+user3839,+91 7211665008,lenovo,"lenovo laptop with 8gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3080 GPU",macos,8gb,16,ryzen 9,rtx 3080,70895,yes
+user8336,+91 9929171476,mi,"mi laptop with 4gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3060 GPU",windows,4gb,13,ryzen 3,rtx 3060,57118,no
+user9230,+91 7404968454,acer,"acer laptop with 4gb RAM, 13-inch screen, i7 processor, and rtx 2060 GPU",macos,4gb,13,i7,rtx 2060,60366,no
+user8749,+91 8254039482,apple,"apple laptop with 2gb RAM, 16-inch screen, ryzen 7 processor, and gtx 1050 GPU",macos,2gb,16,ryzen 7,gtx 1050,164000,no
+user2823,+91 7554526998,acer,"acer laptop with 4gb RAM, 15-inch screen, i7 processor, and rtx 3070 GPU",macos,4gb,15,i7,rtx 3070,49833,no
+user3400,+91 7475387795,apple,"apple laptop with 2gb RAM, 17-inch screen, i5 processor, and rtx 3080 GPU",macos,2gb,17,i5,rtx 3080,174000,no
+user5162,+91 9084258378,hp,"hp laptop with 16gb RAM, 15-inch screen, ryzen 9 processor, and rtx 3080 GPU",macos,16gb,15,ryzen 9,rtx 3080,149776,no
+user4834,+91 8799058594,lenovo,"lenovo laptop with 4gb RAM, 15-inch screen, i7 processor, and rtx 2060 GPU",macos,4gb,15,i7,rtx 2060,47223,yes
+user3876,+91 7064322029,asus,"asus laptop with 8gb RAM, 16-inch screen, ryzen 7 processor, and gtx 1050 GPU",macos,8gb,16,ryzen 7,gtx 1050,80593,no
+user6846,+91 9533409220,lenovo,"lenovo laptop with 2gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3070 GPU",linux,2gb,14,ryzen 5,rtx 3070,41417,yes
+user4960,+91 8220831124,lenovo,"lenovo laptop with 8gb RAM, 13-inch screen, ryzen 7 processor, and rtx 2060 GPU",linux,8gb,13,ryzen 7,rtx 2060,93779,yes
+user6858,+91 8303356476,mi,"mi laptop with 16gb RAM, 17-inch screen, i5 processor, and rtx 3080 GPU",macos,16gb,17,i5,rtx 3080,173639,no
+user7483,+91 8177790016,asus,"asus laptop with 32gb RAM, 14-inch screen, i5 processor, and gtx 1050 GPU",macos,32gb,14,i5,gtx 1050,205758,yes
+user5998,+91 9535876823,lenovo,"lenovo laptop with 32gb RAM, 15-inch screen, ryzen 5 processor, and gtx 1050 GPU",linux,32gb,15,ryzen 5,gtx 1050,205162,no
+user1690,+91 7261360827,lenovo,"lenovo laptop with 4gb RAM, 17-inch screen, ryzen 5 processor, and rtx 2060 GPU",macos,4gb,17,ryzen 5,rtx 2060,50274,yes
+user6548,+91 9065622655,hp,"hp laptop with 2gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3070 GPU",windows,2gb,16,ryzen 3,rtx 3070,39253,no
+user6762,+91 8671477645,acer,"acer laptop with 8gb RAM, 15-inch screen, i5 processor, and rtx 2060 GPU",macos,8gb,15,i5,rtx 2060,100650,no
+user4020,+91 9775628413,hp,"hp laptop with 4gb RAM, 13-inch screen, i3 processor, and gtx 1050 GPU",macos,4gb,13,i3,gtx 1050,37355,yes
+user5342,+91 9140933577,hp,"hp laptop with 2gb RAM, 17-inch screen, ryzen 5 processor, and rtx 2060 GPU",macos,2gb,17,ryzen 5,rtx 2060,42330,no
+user9287,+91 9218990311,hp,"hp laptop with 4gb RAM, 14-inch screen, i5 processor, and rtx 3070 GPU",linux,4gb,14,i5,rtx 3070,54000,no
+user6421,+91 9161236886,acer,"acer laptop with 4gb RAM, 16-inch screen, ryzen 3 processor, and gtx 1050 GPU",macos,4gb,16,ryzen 3,gtx 1050,38098,no
+user7990,+91 8164681276,apple,"apple laptop with 32gb RAM, 17-inch screen, i5 processor, and rtx 3080 GPU",macos,32gb,17,i5,rtx 3080,221311,no
+user1366,+91 9420899480,hp,"hp laptop with 2gb RAM, 15-inch screen, i5 processor, and gtx 1650 GPU",linux,2gb,15,i5,gtx 1650,34226,no
+user6871,+91 9642253597,hp,"hp laptop with 16gb RAM, 14-inch screen, i3 processor, and rtx 3070 GPU",macos,16gb,14,i3,rtx 3070,116289,yes
+user2459,+91 7243400005,lenovo,"lenovo laptop with 32gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3060 GPU",windows,32gb,16,ryzen 3,rtx 3060,255597,no
+user9026,+91 8654532922,apple,"apple laptop with 4gb RAM, 13-inch screen, ryzen 3 processor, and gtx 1650 GPU",macos,4gb,13,ryzen 3,gtx 1650,159000,yes
+user2482,+91 9037038184,hp,"hp laptop with 4gb RAM, 17-inch screen, i5 processor, and gtx 1050 GPU",windows,4gb,17,i5,gtx 1050,53044,no
+user6713,+91 9321536457,hp,"hp laptop with 8gb RAM, 15-inch screen, ryzen 7 processor, and gtx 1050 GPU",windows,8gb,15,ryzen 7,gtx 1050,64923,yes
+user6029,+91 7114192399,lenovo,"lenovo laptop with 32gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1650 GPU",linux,32gb,17,ryzen 3,gtx 1650,186149,yes
+user8655,+91 9935541425,mi,"mi laptop with 4gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3080 GPU",macos,4gb,15,ryzen 3,rtx 3080,62788,yes
+user9733,+91 9897634608,mi,"mi laptop with 32gb RAM, 17-inch screen, ryzen 9 processor, and gtx 1050 GPU",linux,32gb,17,ryzen 9,gtx 1050,269454,yes
+user6941,+91 8217339703,asus,"asus laptop with 8gb RAM, 15-inch screen, i3 processor, and rtx 3080 GPU",linux,8gb,15,i3,rtx 3080,123208,no
+user4514,+91 8446937331,hp,"hp laptop with 4gb RAM, 13-inch screen, i9 processor, and gtx 1050 GPU",linux,4gb,13,i9,gtx 1050,53784,yes
+user1580,+91 8195486303,apple,"apple laptop with 4gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3060 GPU",macos,4gb,15,ryzen 7,rtx 3060,169000,yes
+user7077,+91 8689649733,lenovo,"lenovo laptop with 4gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3070 GPU",linux,4gb,16,ryzen 3,rtx 3070,46736,no
+user1471,+91 9761725689,asus,"asus laptop with 4gb RAM, 16-inch screen, i7 processor, and gtx 1650 GPU",windows,4gb,16,i7,gtx 1650,49697,no
+user6388,+91 9567271375,acer,"acer laptop with 4gb RAM, 16-inch screen, i3 processor, and rtx 2060 GPU",windows,4gb,16,i3,rtx 2060,49694,no
+user1696,+91 8107843197,apple,"apple laptop with 2gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,2gb,13,ryzen 7,rtx 3080,171000,no
+user3581,+91 7777432303,mi,"mi laptop with 4gb RAM, 17-inch screen, ryzen 3 processor, and rtx 2060 GPU",windows,4gb,17,ryzen 3,rtx 2060,46855,no
+user8753,+91 7038009926,acer,"acer laptop with 32gb RAM, 15-inch screen, ryzen 9 processor, and rtx 3060 GPU",windows,32gb,15,ryzen 9,rtx 3060,263642,no
+user1801,+91 7083201704,apple,"apple laptop with 8gb RAM, 17-inch screen, ryzen 5 processor, and rtx 2060 GPU",macos,8gb,17,ryzen 5,rtx 2060,167000,yes
+user5516,+91 8838118571,asus,"asus laptop with 8gb RAM, 15-inch screen, i5 processor, and gtx 1050 GPU",linux,8gb,15,i5,gtx 1050,67337,no
+user4382,+91 9293071784,hp,"hp laptop with 2gb RAM, 14-inch screen, i7 processor, and gtx 1050 GPU",linux,2gb,14,i7,gtx 1050,36143,no
+user7147,+91 9485014388,mi,"mi laptop with 32gb RAM, 16-inch screen, ryzen 7 processor, and rtx 3080 GPU",windows,32gb,16,ryzen 7,rtx 3080,201711,no
+user4719,+91 7300071337,mi,"mi laptop with 2gb RAM, 16-inch screen, i7 processor, and rtx 3070 GPU",windows,2gb,16,i7,rtx 3070,43780,no
+user3139,+91 8115053142,lenovo,"lenovo laptop with 2gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3080 GPU",windows,2gb,15,ryzen 3,rtx 3080,44100,no
+user8099,+91 9550670408,mi,"mi laptop with 4gb RAM, 16-inch screen, i7 processor, and rtx 3080 GPU",macos,4gb,16,i7,rtx 3080,54489,no
+user7118,+91 9465788668,apple,"apple laptop with 4gb RAM, 16-inch screen, i7 processor, and rtx 3070 GPU",macos,4gb,16,i7,rtx 3070,173000,yes
+user8507,+91 8088505945,asus,"asus laptop with 8gb RAM, 14-inch screen, ryzen 3 processor, and rtx 3070 GPU",macos,8gb,14,ryzen 3,rtx 3070,103139,yes
+user5359,+91 7116226885,acer,"acer laptop with 4gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3080 GPU",windows,4gb,14,ryzen 9,rtx 3080,64918,no
+user2597,+91 9674983110,asus,"asus laptop with 4gb RAM, 17-inch screen, i9 processor, and gtx 1050 GPU",macos,4gb,17,i9,gtx 1050,54093,no
+user9965,+91 9313432895,mi,"mi laptop with 8gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3070 GPU",macos,8gb,16,ryzen 3,rtx 3070,90735,no
+user4767,+91 9487509954,apple,"apple laptop with 16gb RAM, 14-inch screen, ryzen 3 processor, and rtx 2060 GPU",macos,16gb,14,ryzen 3,rtx 2060,168827,no
+user2079,+91 9727171278,asus,"asus laptop with 32gb RAM, 13-inch screen, i5 processor, and gtx 1050 GPU",linux,32gb,13,i5,gtx 1050,167156,no
+user9761,+91 9871005617,asus,"asus laptop with 4gb RAM, 16-inch screen, ryzen 9 processor, and gtx 1650 GPU",windows,4gb,16,ryzen 9,gtx 1650,46023,no
+user9101,+91 7378447218,lenovo,"lenovo laptop with 32gb RAM, 14-inch screen, ryzen 9 processor, and gtx 1050 GPU",linux,32gb,14,ryzen 9,gtx 1050,253095,no
+user8385,+91 7519271100,hp,"hp laptop with 8gb RAM, 17-inch screen, ryzen 3 processor, and rtx 3080 GPU",linux,8gb,17,ryzen 3,rtx 3080,67539,no
+user3933,+91 8073541663,lenovo,"lenovo laptop with 16gb RAM, 17-inch screen, i3 processor, and rtx 3080 GPU",linux,16gb,17,i3,rtx 3080,110693,yes
+user6276,+91 7068898105,asus,"asus laptop with 4gb RAM, 14-inch screen, i7 processor, and rtx 3060 GPU",linux,4gb,14,i7,rtx 3060,49117,yes
+user1956,+91 9340575934,asus,"asus laptop with 2gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3070 GPU",windows,2gb,13,ryzen 9,rtx 3070,43257,no
+user5545,+91 8523124346,acer,"acer laptop with 16gb RAM, 15-inch screen, ryzen 5 processor, and rtx 3070 GPU",linux,16gb,15,ryzen 5,rtx 3070,157790,no
+user7559,+91 9310536313,lenovo,"lenovo laptop with 4gb RAM, 14-inch screen, ryzen 9 processor, and gtx 1650 GPU",macos,4gb,14,ryzen 9,gtx 1650,54352,no
+user9415,+91 9333523549,lenovo,"lenovo laptop with 32gb RAM, 13-inch screen, ryzen 5 processor, and rtx 3070 GPU",macos,32gb,13,ryzen 5,rtx 3070,229046,no
+user4717,+91 7220161264,apple,"apple laptop with 32gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,32gb,17,ryzen 7,rtx 3080,276947,yes
+user7487,+91 8532436952,hp,"hp laptop with 4gb RAM, 16-inch screen, ryzen 3 processor, and gtx 1650 GPU",linux,4gb,16,ryzen 3,gtx 1650,44617,no
+user2157,+91 8304298745,lenovo,"lenovo laptop with 16gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,16gb,17,ryzen 5,rtx 3080,142363,no
+user1432,+91 9366754411,lenovo,"lenovo laptop with 4gb RAM, 16-inch screen, i3 processor, and rtx 3070 GPU",macos,4gb,16,i3,rtx 3070,62367,yes
+user8790,+91 9663965850,lenovo,"lenovo laptop with 2gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3080 GPU",linux,2gb,14,ryzen 9,rtx 3080,47989,no
+user6843,+91 9937906256,asus,"asus laptop with 16gb RAM, 15-inch screen, ryzen 9 processor, and rtx 2060 GPU",windows,16gb,15,ryzen 9,rtx 2060,170078,yes
+user1535,+91 8099457952,apple,"apple laptop with 2gb RAM, 17-inch screen, ryzen 5 processor, and gtx 1050 GPU",macos,2gb,17,ryzen 5,gtx 1050,163000,no
+user1871,+91 9249565332,lenovo,"lenovo laptop with 4gb RAM, 17-inch screen, i5 processor, and rtx 3080 GPU",linux,4gb,17,i5,rtx 3080,60396,no
+user4342,+91 9158007594,hp,"hp laptop with 8gb RAM, 15-inch screen, i9 processor, and rtx 3080 GPU",linux,8gb,15,i9,rtx 3080,83779,yes
+user9380,+91 9921867866,asus,"asus laptop with 2gb RAM, 14-inch screen, ryzen 3 processor, and rtx 3080 GPU",windows,2gb,14,ryzen 3,rtx 3080,43257,yes
+user4351,+91 8063288068,hp,"hp laptop with 16gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3080 GPU",linux,16gb,17,ryzen 7,rtx 3080,181285,no
+user6928,+91 8739545607,asus,"asus laptop with 32gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,32gb,15,ryzen 7,rtx 3080,292321,no
+user9358,+91 7987345460,apple,"apple laptop with 32gb RAM, 17-inch screen, i7 processor, and rtx 3080 GPU",macos,32gb,17,i7,rtx 3080,254793,no
+user3140,+91 7389531289,acer,"acer laptop with 8gb RAM, 13-inch screen, i9 processor, and rtx 3060 GPU",windows,8gb,13,i9,rtx 3060,71952,no
+user3345,+91 9379849218,lenovo,"lenovo laptop with 32gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3060 GPU",windows,32gb,16,ryzen 9,rtx 3060,178264,yes
+user4292,+91 7323337744,hp,"hp laptop with 4gb RAM, 15-inch screen, i5 processor, and gtx 1650 GPU",macos,4gb,15,i5,gtx 1650,44902,yes
+user3258,+91 8238843576,apple,"apple laptop with 2gb RAM, 15-inch screen, i7 processor, and rtx 3060 GPU",macos,2gb,15,i7,rtx 3060,170000,no
+user1385,+91 8051137660,asus,"asus laptop with 16gb RAM, 13-inch screen, i5 processor, and gtx 1050 GPU",macos,16gb,13,i5,gtx 1050,105746,yes
+user8788,+91 9455073112,hp,"hp laptop with 8gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3070 GPU",linux,8gb,15,ryzen 7,rtx 3070,66569,yes
+user3551,+91 8049586246,asus,"asus laptop with 4gb RAM, 15-inch screen, ryzen 9 processor, and rtx 2060 GPU",linux,4gb,15,ryzen 9,rtx 2060,63521,yes
+user3664,+91 9975574732,mi,"mi laptop with 32gb RAM, 15-inch screen, ryzen 5 processor, and rtx 3060 GPU",linux,32gb,15,ryzen 5,rtx 3060,184891,yes
+user7340,+91 7861284886,acer,"acer laptop with 16gb RAM, 16-inch screen, ryzen 3 processor, and gtx 1650 GPU",windows,16gb,16,ryzen 3,gtx 1650,138928,no
+user3682,+91 9463038104,acer,"acer laptop with 32gb RAM, 14-inch screen, ryzen 5 processor, and gtx 1050 GPU",macos,32gb,14,ryzen 5,gtx 1050,254295,no
+user4334,+91 7522449878,apple,"apple laptop with 4gb RAM, 14-inch screen, i5 processor, and rtx 3060 GPU",macos,4gb,14,i5,rtx 3060,167000,yes
+user8242,+91 8589485189,lenovo,"lenovo laptop with 16gb RAM, 16-inch screen, i7 processor, and rtx 3080 GPU",macos,16gb,16,i7,rtx 3080,152803,no
+user7070,+91 8373204817,apple,"apple laptop with 4gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3070 GPU",macos,4gb,16,ryzen 3,rtx 3070,168000,yes
+user4323,+91 9971346710,lenovo,"lenovo laptop with 2gb RAM, 15-inch screen, i5 processor, and rtx 3070 GPU",windows,2gb,15,i5,rtx 3070,41073,no
+user8360,+91 8611100520,apple,"apple laptop with 8gb RAM, 16-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,8gb,16,ryzen 5,rtx 3080,172000,no
+user1347,+91 9498075340,apple,"apple laptop with 2gb RAM, 15-inch screen, ryzen 5 processor, and rtx 3060 GPU",macos,2gb,15,ryzen 5,rtx 3060,167000,yes
+user2702,+91 9142117061,lenovo,"lenovo laptop with 32gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3070 GPU",windows,32gb,17,ryzen 7,rtx 3070,214006,no
+user7528,+91 8388036743,mi,"mi laptop with 32gb RAM, 15-inch screen, i9 processor, and rtx 3080 GPU",linux,32gb,15,i9,rtx 3080,193846,yes
+user6724,+91 7981714770,apple,"apple laptop with 2gb RAM, 16-inch screen, i7 processor, and rtx 3070 GPU",macos,2gb,16,i7,rtx 3070,173000,no
+user6460,+91 8590180695,hp,"hp laptop with 8gb RAM, 15-inch screen, i5 processor, and rtx 3080 GPU",macos,8gb,15,i5,rtx 3080,79390,no
+user3202,+91 9786127422,acer,"acer laptop with 4gb RAM, 16-inch screen, ryzen 5 processor, and rtx 3080 GPU",linux,4gb,16,ryzen 5,rtx 3080,51544,yes
+user9658,+91 8149005640,lenovo,"lenovo laptop with 8gb RAM, 15-inch screen, i5 processor, and rtx 3080 GPU",macos,8gb,15,i5,rtx 3080,105123,yes
+user2431,+91 9999031654,acer,"acer laptop with 8gb RAM, 15-inch screen, i7 processor, and rtx 3060 GPU",linux,8gb,15,i7,rtx 3060,99295,no
+user1955,+91 8357350932,mi,"mi laptop with 32gb RAM, 17-inch screen, i3 processor, and rtx 3080 GPU",windows,32gb,17,i3,rtx 3080,247442,yes
+user7289,+91 7757183261,asus,"asus laptop with 8gb RAM, 16-inch screen, ryzen 3 processor, and rtx 2060 GPU",linux,8gb,16,ryzen 3,rtx 2060,96058,no
+user9876,+91 9549458078,hp,"hp laptop with 4gb RAM, 13-inch screen, i9 processor, and gtx 1050 GPU",linux,4gb,13,i9,gtx 1050,58950,yes
+user3194,+91 7327257831,apple,"apple laptop with 4gb RAM, 14-inch screen, ryzen 5 processor, and gtx 1650 GPU",macos,4gb,14,ryzen 5,gtx 1650,162000,yes
+user1729,+91 8662065435,acer,"acer laptop with 8gb RAM, 16-inch screen, ryzen 9 processor, and rtx 2060 GPU",windows,8gb,16,ryzen 9,rtx 2060,134448,no
+user1923,+91 7623703085,lenovo,"lenovo laptop with 16gb RAM, 15-inch screen, ryzen 5 processor, and rtx 2060 GPU",macos,16gb,15,ryzen 5,rtx 2060,78900,yes
+user5449,+91 8173375024,lenovo,"lenovo laptop with 32gb RAM, 15-inch screen, ryzen 9 processor, and gtx 1050 GPU",linux,32gb,15,ryzen 9,gtx 1050,241888,no
+user1105,+91 8235369427,mi,"mi laptop with 16gb RAM, 17-inch screen, i9 processor, and rtx 3080 GPU",macos,16gb,17,i9,rtx 3080,135362,no
+user2685,+91 9699988854,acer,"acer laptop with 32gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,32gb,13,ryzen 3,rtx 3060,178542,yes
+user4464,+91 9534776865,lenovo,"lenovo laptop with 32gb RAM, 17-inch screen, ryzen 9 processor, and rtx 2060 GPU",macos,32gb,17,ryzen 9,rtx 2060,176143,yes
+user5432,+91 9958488839,acer,"acer laptop with 16gb RAM, 14-inch screen, i7 processor, and rtx 3070 GPU",macos,16gb,14,i7,rtx 3070,179996,no
+user6726,+91 8160928100,hp,"hp laptop with 16gb RAM, 16-inch screen, i3 processor, and gtx 1650 GPU",linux,16gb,16,i3,gtx 1650,77669,no
+user1927,+91 9382905471,asus,"asus laptop with 8gb RAM, 17-inch screen, i9 processor, and rtx 2060 GPU",linux,8gb,17,i9,rtx 2060,124385,no
+user8384,+91 8416819317,hp,"hp laptop with 32gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3060 GPU",macos,32gb,14,ryzen 9,rtx 3060,270322,yes
+user6806,+91 7868408786,acer,"acer laptop with 16gb RAM, 13-inch screen, i5 processor, and rtx 3060 GPU",macos,16gb,13,i5,rtx 3060,157091,no
+user9771,+91 7461304597,apple,"apple laptop with 8gb RAM, 15-inch screen, ryzen 3 processor, and gtx 1050 GPU",macos,8gb,15,ryzen 3,gtx 1050,159000,no
+user9998,+91 9633999097,lenovo,"lenovo laptop with 8gb RAM, 13-inch screen, ryzen 9 processor, and rtx 2060 GPU",windows,8gb,13,ryzen 9,rtx 2060,78155,no
+user1913,+91 8974602572,asus,"asus laptop with 2gb RAM, 13-inch screen, i5 processor, and gtx 1050 GPU",macos,2gb,13,i5,gtx 1050,34801,yes
+user9158,+91 7314795293,apple,"apple laptop with 16gb RAM, 15-inch screen, i5 processor, and rtx 3060 GPU",macos,16gb,15,i5,rtx 3060,168000,no
+user2652,+91 9515167054,acer,"acer laptop with 8gb RAM, 16-inch screen, ryzen 9 processor, and rtx 2060 GPU",macos,8gb,16,ryzen 9,rtx 2060,69876,no
+user6909,+91 9380744670,hp,"hp laptop with 16gb RAM, 13-inch screen, i9 processor, and rtx 3060 GPU",macos,16gb,13,i9,rtx 3060,102555,no
+user6424,+91 8799798485,asus,"asus laptop with 32gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3070 GPU",windows,32gb,14,ryzen 5,rtx 3070,267345,yes
+user6759,+91 8622910850,asus,"asus laptop with 4gb RAM, 17-inch screen, ryzen 5 processor, and gtx 1650 GPU",macos,4gb,17,ryzen 5,gtx 1650,43548,no
+user4789,+91 8340091689,hp,"hp laptop with 8gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3070 GPU",macos,8gb,14,ryzen 9,rtx 3070,77468,no
+user5570,+91 9072793334,lenovo,"lenovo laptop with 2gb RAM, 13-inch screen, ryzen 5 processor, and rtx 3070 GPU",linux,2gb,13,ryzen 5,rtx 3070,40852,no
+user6964,+91 8592051938,hp,"hp laptop with 16gb RAM, 17-inch screen, ryzen 7 processor, and rtx 2060 GPU",macos,16gb,17,ryzen 7,rtx 2060,131906,yes
+user7777,+91 9086004147,asus,"asus laptop with 8gb RAM, 16-inch screen, i3 processor, and gtx 1050 GPU",windows,8gb,16,i3,gtx 1050,81966,yes
+user8272,+91 9015011520,apple,"apple laptop with 4gb RAM, 14-inch screen, i5 processor, and rtx 2060 GPU",macos,4gb,14,i5,rtx 2060,165000,yes
+user7459,+91 8996000808,mi,"mi laptop with 32gb RAM, 15-inch screen, ryzen 5 processor, and rtx 3060 GPU",windows,32gb,15,ryzen 5,rtx 3060,249057,yes
+user1743,+91 8019752685,acer,"acer laptop with 16gb RAM, 14-inch screen, ryzen 9 processor, and rtx 2060 GPU",linux,16gb,14,ryzen 9,rtx 2060,141410,yes
+user7715,+91 7604388521,mi,"mi laptop with 8gb RAM, 15-inch screen, ryzen 3 processor, and rtx 2060 GPU",windows,8gb,15,ryzen 3,rtx 2060,71697,no
+user3260,+91 7253702480,apple,"apple laptop with 8gb RAM, 17-inch screen, i5 processor, and rtx 3060 GPU",macos,8gb,17,i5,rtx 3060,170000,no
+user2945,+91 8250907715,mi,"mi laptop with 32gb RAM, 15-inch screen, i5 processor, and rtx 3060 GPU",linux,32gb,15,i5,rtx 3060,192382,yes
+user3826,+91 9193167856,hp,"hp laptop with 2gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3060 GPU",windows,2gb,17,ryzen 5,rtx 3060,43872,no
+user8822,+91 9357288678,mi,"mi laptop with 8gb RAM, 15-inch screen, ryzen 9 processor, and gtx 1650 GPU",windows,8gb,15,ryzen 9,gtx 1650,101326,yes
+user3141,+91 9171488644,asus,"asus laptop with 8gb RAM, 16-inch screen, i3 processor, and rtx 3060 GPU",windows,8gb,16,i3,rtx 3060,81063,no
+user2984,+91 8553115681,lenovo,"lenovo laptop with 32gb RAM, 15-inch screen, i9 processor, and gtx 1050 GPU",macos,32gb,15,i9,gtx 1050,253748,yes
+user1978,+91 8934429335,hp,"hp laptop with 16gb RAM, 16-inch screen, ryzen 5 processor, and rtx 3080 GPU",linux,16gb,16,ryzen 5,rtx 3080,122246,yes
+user8630,+91 9409199244,mi,"mi laptop with 32gb RAM, 16-inch screen, ryzen 7 processor, and rtx 3070 GPU",macos,32gb,16,ryzen 7,rtx 3070,193967,no
+user1519,+91 9916275651,asus,"asus laptop with 4gb RAM, 15-inch screen, i9 processor, and rtx 2060 GPU",windows,4gb,15,i9,rtx 2060,50519,yes
+user9795,+91 8359021497,asus,"asus laptop with 16gb RAM, 13-inch screen, i7 processor, and gtx 1050 GPU",windows,16gb,13,i7,gtx 1050,110670,yes
+user8444,+91 9690936569,mi,"mi laptop with 8gb RAM, 16-inch screen, ryzen 9 processor, and gtx 1650 GPU",windows,8gb,16,ryzen 9,gtx 1650,107639,no
+user3784,+91 9086075587,hp,"hp laptop with 4gb RAM, 15-inch screen, i3 processor, and rtx 3080 GPU",windows,4gb,15,i3,rtx 3080,59214,no
+user5238,+91 8735487414,acer,"acer laptop with 2gb RAM, 14-inch screen, i5 processor, and rtx 3070 GPU",linux,2gb,14,i5,rtx 3070,41100,no
+user6011,+91 8470300768,asus,"asus laptop with 32gb RAM, 17-inch screen, ryzen 9 processor, and gtx 1650 GPU",macos,32gb,17,ryzen 9,gtx 1650,226030,yes
+user7628,+91 9073497716,acer,"acer laptop with 8gb RAM, 16-inch screen, i5 processor, and rtx 3060 GPU",linux,8gb,16,i5,rtx 3060,131726,no
+user3552,+91 7296846854,apple,"apple laptop with 32gb RAM, 14-inch screen, i3 processor, and rtx 3070 GPU",macos,32gb,14,i3,rtx 3070,178926,yes
+user6413,+91 7808262505,acer,"acer laptop with 4gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3060 GPU",windows,4gb,16,ryzen 9,rtx 3060,49969,yes
+user1089,+91 7130363529,mi,"mi laptop with 16gb RAM, 14-inch screen, ryzen 5 processor, and rtx 2060 GPU",macos,16gb,14,ryzen 5,rtx 2060,141594,no
+user5264,+91 8839705327,acer,"acer laptop with 32gb RAM, 17-inch screen, i9 processor, and rtx 3070 GPU",windows,32gb,17,i9,rtx 3070,195731,no
+user3293,+91 9418321536,mi,"mi laptop with 4gb RAM, 17-inch screen, ryzen 3 processor, and rtx 3080 GPU",linux,4gb,17,ryzen 3,rtx 3080,57631,no
+user4579,+91 8747626588,apple,"apple laptop with 16gb RAM, 14-inch screen, ryzen 5 processor, and gtx 1050 GPU",macos,16gb,14,ryzen 5,gtx 1050,160000,yes
+user2677,+91 7299275854,hp,"hp laptop with 2gb RAM, 16-inch screen, i7 processor, and gtx 1050 GPU",macos,2gb,16,i7,gtx 1050,38203,yes
+user9252,+91 8098972102,hp,"hp laptop with 8gb RAM, 15-inch screen, i7 processor, and gtx 1050 GPU",windows,8gb,15,i7,gtx 1050,70496,yes
+user1282,+91 7638387339,acer,"acer laptop with 2gb RAM, 14-inch screen, i9 processor, and rtx 2060 GPU",windows,2gb,14,i9,rtx 2060,40972,no
+user7080,+91 9035963921,hp,"hp laptop with 2gb RAM, 15-inch screen, ryzen 7 processor, and rtx 2060 GPU",linux,2gb,15,ryzen 7,rtx 2060,38398,yes
+user3574,+91 8182779505,mi,"mi laptop with 8gb RAM, 14-inch screen, ryzen 7 processor, and rtx 3080 GPU",windows,8gb,14,ryzen 7,rtx 3080,115373,no
+user8772,+91 7394907707,lenovo,"lenovo laptop with 8gb RAM, 13-inch screen, i5 processor, and rtx 2060 GPU",linux,8gb,13,i5,rtx 2060,59951,no
+user9647,+91 8932670492,hp,"hp laptop with 8gb RAM, 16-inch screen, ryzen 5 processor, and rtx 2060 GPU",macos,8gb,16,ryzen 5,rtx 2060,73450,no
+user3948,+91 9125939214,apple,"apple laptop with 4gb RAM, 13-inch screen, ryzen 9 processor, and gtx 1050 GPU",macos,4gb,13,ryzen 9,gtx 1050,163000,yes
+user9748,+91 9642585927,hp,"hp laptop with 8gb RAM, 15-inch screen, i5 processor, and rtx 3080 GPU",linux,8gb,15,i5,rtx 3080,60660,no
+user6504,+91 7086993866,acer,"acer laptop with 32gb RAM, 15-inch screen, ryzen 9 processor, and rtx 2060 GPU",linux,32gb,15,ryzen 9,rtx 2060,205130,yes
+user3748,+91 9319490736,lenovo,"lenovo laptop with 4gb RAM, 14-inch screen, i7 processor, and rtx 3060 GPU",windows,4gb,14,i7,rtx 3060,55485,no
+user5199,+91 8724225896,lenovo,"lenovo laptop with 4gb RAM, 17-inch screen, i9 processor, and rtx 3070 GPU",windows,4gb,17,i9,rtx 3070,64025,no
+user9512,+91 7899067906,lenovo,"lenovo laptop with 4gb RAM, 16-inch screen, ryzen 5 processor, and gtx 1650 GPU",windows,4gb,16,ryzen 5,gtx 1650,57409,yes
+user1341,+91 7183880713,mi,"mi laptop with 2gb RAM, 17-inch screen, i5 processor, and rtx 2060 GPU",linux,2gb,17,i5,rtx 2060,39655,yes
+user4155,+91 9358506813,mi,"mi laptop with 2gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3060 GPU",linux,2gb,14,ryzen 5,rtx 3060,37933,no
+user9412,+91 9877075876,lenovo,"lenovo laptop with 8gb RAM, 17-inch screen, i3 processor, and rtx 3080 GPU",windows,8gb,17,i3,rtx 3080,73455,yes
+user6621,+91 8619445387,hp,"hp laptop with 8gb RAM, 15-inch screen, i7 processor, and rtx 3080 GPU",linux,8gb,15,i7,rtx 3080,122199,yes
+user8893,+91 8682665152,acer,"acer laptop with 4gb RAM, 13-inch screen, i9 processor, and rtx 3070 GPU",linux,4gb,13,i9,rtx 3070,55865,no
+user7367,+91 9313691254,acer,"acer laptop with 4gb RAM, 14-inch screen, i7 processor, and rtx 3060 GPU",linux,4gb,14,i7,rtx 3060,61357,yes
+user4015,+91 9042298505,acer,"acer laptop with 8gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3080 GPU",windows,8gb,13,ryzen 3,rtx 3080,112976,yes
+user3947,+91 7081084200,lenovo,"lenovo laptop with 16gb RAM, 14-inch screen, ryzen 9 processor, and rtx 2060 GPU",linux,16gb,14,ryzen 9,rtx 2060,134628,yes
+user9468,+91 7933200821,hp,"hp laptop with 8gb RAM, 14-inch screen, i9 processor, and gtx 1050 GPU",macos,8gb,14,i9,gtx 1050,53847,yes
+user2639,+91 7733730629,apple,"apple laptop with 2gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,2gb,13,ryzen 3,rtx 3060,163000,yes
+user4353,+91 8888130897,hp,"hp laptop with 16gb RAM, 17-inch screen, i7 processor, and rtx 3080 GPU",linux,16gb,17,i7,rtx 3080,179404,yes
+user6874,+91 7971991331,hp,"hp laptop with 16gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3070 GPU",macos,16gb,16,ryzen 9,rtx 3070,104177,yes
+user5855,+91 7032918181,mi,"mi laptop with 4gb RAM, 13-inch screen, ryzen 3 processor, and rtx 2060 GPU",macos,4gb,13,ryzen 3,rtx 2060,45166,no
+user3132,+91 7325812196,apple,"apple laptop with 8gb RAM, 17-inch screen, ryzen 3 processor, and rtx 3070 GPU",macos,8gb,17,ryzen 3,rtx 3070,169000,yes
+user2222,+91 7931363843,asus,"asus laptop with 4gb RAM, 16-inch screen, i5 processor, and rtx 3070 GPU",linux,4gb,16,i5,rtx 3070,50031,no
+user7980,+91 8055953478,acer,"acer laptop with 2gb RAM, 14-inch screen, i3 processor, and rtx 3070 GPU",macos,2gb,14,i3,rtx 3070,40806,no
+user8236,+91 9670646835,hp,"hp laptop with 4gb RAM, 16-inch screen, i9 processor, and rtx 3070 GPU",linux,4gb,16,i9,rtx 3070,57182,yes
+user7594,+91 9209599806,asus,"asus laptop with 4gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,4gb,14,ryzen 5,rtx 3080,53264,no
+user5403,+91 8665152100,lenovo,"lenovo laptop with 4gb RAM, 14-inch screen, i3 processor, and gtx 1050 GPU",linux,4gb,14,i3,gtx 1050,41915,yes
+user6280,+91 7584879057,lenovo,"lenovo laptop with 32gb RAM, 16-inch screen, i9 processor, and rtx 3070 GPU",windows,32gb,16,i9,rtx 3070,268816,no
+user6167,+91 8132279873,asus,"asus laptop with 16gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3070 GPU",macos,16gb,13,ryzen 3,rtx 3070,94344,yes
+user8471,+91 7109246441,mi,"mi laptop with 8gb RAM, 14-inch screen, i5 processor, and rtx 2060 GPU",windows,8gb,14,i5,rtx 2060,91281,yes
+user9171,+91 8567209200,mi,"mi laptop with 16gb RAM, 15-inch screen, ryzen 3 processor, and rtx 2060 GPU",macos,16gb,15,ryzen 3,rtx 2060,163105,yes
+user9608,+91 9846546196,lenovo,"lenovo laptop with 2gb RAM, 17-inch screen, i5 processor, and rtx 2060 GPU",linux,2gb,17,i5,rtx 2060,40575,no
+user2917,+91 9522293792,mi,"mi laptop with 16gb RAM, 13-inch screen, ryzen 5 processor, and rtx 3080 GPU",windows,16gb,13,ryzen 5,rtx 3080,143674,yes
+user7964,+91 7559307198,acer,"acer laptop with 4gb RAM, 14-inch screen, ryzen 5 processor, and rtx 2060 GPU",windows,4gb,14,ryzen 5,rtx 2060,46766,no
+user7566,+91 8501679385,lenovo,"lenovo laptop with 4gb RAM, 13-inch screen, ryzen 5 processor, and rtx 2060 GPU",windows,4gb,13,ryzen 5,rtx 2060,49920,yes
+user3710,+91 8741183178,hp,"hp laptop with 8gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3070 GPU",macos,8gb,15,ryzen 3,rtx 3070,57253,yes
+user5129,+91 7922854491,lenovo,"lenovo laptop with 4gb RAM, 14-inch screen, i5 processor, and gtx 1050 GPU",windows,4gb,14,i5,gtx 1050,44881,no
+user9518,+91 8036444084,lenovo,"lenovo laptop with 32gb RAM, 16-inch screen, ryzen 3 processor, and gtx 1650 GPU",linux,32gb,16,ryzen 3,gtx 1650,264803,yes
+user2432,+91 8805047593,lenovo,"lenovo laptop with 8gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3060 GPU",windows,8gb,15,ryzen 3,rtx 3060,123071,no
+user4779,+91 9686308058,apple,"apple laptop with 8gb RAM, 17-inch screen, ryzen 3 processor, and rtx 3080 GPU",macos,8gb,17,ryzen 3,rtx 3080,171000,no
+user4522,+91 9016673025,apple,"apple laptop with 16gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3060 GPU",macos,16gb,16,ryzen 9,rtx 3060,172000,yes
+user8069,+91 8424447733,lenovo,"lenovo laptop with 8gb RAM, 16-inch screen, ryzen 7 processor, and rtx 3080 GPU",windows,8gb,16,ryzen 7,rtx 3080,67177,yes
+user8918,+91 7424854958,asus,"asus laptop with 32gb RAM, 14-inch screen, i7 processor, and rtx 3080 GPU",linux,32gb,14,i7,rtx 3080,257774,no
+user6983,+91 7444638969,asus,"asus laptop with 2gb RAM, 14-inch screen, i7 processor, and rtx 2060 GPU",linux,2gb,14,i7,rtx 2060,42907,no
+user9994,+91 7912466715,hp,"hp laptop with 32gb RAM, 13-inch screen, i5 processor, and rtx 3060 GPU",windows,32gb,13,i5,rtx 3060,282508,no
+user2810,+91 7585089550,mi,"mi laptop with 2gb RAM, 14-inch screen, i3 processor, and gtx 1650 GPU",linux,2gb,14,i3,gtx 1650,32514,no
+user7195,+91 9808702978,acer,"acer laptop with 8gb RAM, 15-inch screen, i9 processor, and gtx 1650 GPU",macos,8gb,15,i9,gtx 1650,131276,no
+user2532,+91 9920496533,acer,"acer laptop with 2gb RAM, 14-inch screen, ryzen 7 processor, and rtx 2060 GPU",windows,2gb,14,ryzen 7,rtx 2060,40803,yes
+user2039,+91 7980262903,hp,"hp laptop with 16gb RAM, 17-inch screen, i5 processor, and rtx 3080 GPU",windows,16gb,17,i5,rtx 3080,173472,yes
+user5978,+91 9472110336,lenovo,"lenovo laptop with 16gb RAM, 15-inch screen, i7 processor, and rtx 2060 GPU",macos,16gb,15,i7,rtx 2060,110950,no
+user5938,+91 7969222395,lenovo,"lenovo laptop with 2gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,2gb,16,ryzen 3,rtx 3060,41168,yes
+user3343,+91 9453448869,apple,"apple laptop with 16gb RAM, 17-inch screen, i9 processor, and rtx 3060 GPU",macos,16gb,17,i9,rtx 3060,174000,no
+user1948,+91 9955513576,hp,"hp laptop with 2gb RAM, 13-inch screen, i3 processor, and rtx 3080 GPU",macos,2gb,13,i3,rtx 3080,44269,no
+user2040,+91 9323091930,apple,"apple laptop with 32gb RAM, 14-inch screen, ryzen 9 processor, and rtx 2060 GPU",macos,32gb,14,ryzen 9,rtx 2060,274353,no
+user4300,+91 9518896422,apple,"apple laptop with 4gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,4gb,13,ryzen 3,rtx 3060,163000,yes
+user3791,+91 7693514034,mi,"mi laptop with 32gb RAM, 13-inch screen, i7 processor, and rtx 3060 GPU",linux,32gb,13,i7,rtx 3060,282160,yes
+user6661,+91 8631127233,lenovo,"lenovo laptop with 2gb RAM, 16-inch screen, i5 processor, and rtx 3070 GPU",linux,2gb,16,i5,rtx 3070,47387,yes
+user7413,+91 8333308623,lenovo,"lenovo laptop with 8gb RAM, 13-inch screen, i3 processor, and gtx 1650 GPU",linux,8gb,13,i3,gtx 1650,84390,yes
+user6961,+91 9172665823,apple,"apple laptop with 16gb RAM, 17-inch screen, i7 processor, and rtx 3070 GPU",macos,16gb,17,i7,rtx 3070,174000,yes
+user4427,+91 9337561381,asus,"asus laptop with 16gb RAM, 16-inch screen, i3 processor, and rtx 3060 GPU",linux,16gb,16,i3,rtx 3060,121018,no
+user9339,+91 7833390204,lenovo,"lenovo laptop with 2gb RAM, 14-inch screen, i3 processor, and rtx 3060 GPU",linux,2gb,14,i3,rtx 3060,38084,yes
+user7778,+91 7524567941,apple,"apple laptop with 8gb RAM, 17-inch screen, i5 processor, and rtx 3070 GPU",macos,8gb,17,i5,rtx 3070,172000,no
+user8893,+91 7781318212,asus,"asus laptop with 16gb RAM, 15-inch screen, ryzen 3 processor, and rtx 2060 GPU",linux,16gb,15,ryzen 3,rtx 2060,113039,yes
+user1342,+91 8725190735,acer,"acer laptop with 8gb RAM, 17-inch screen, i9 processor, and gtx 1650 GPU",macos,8gb,17,i9,gtx 1650,83229,yes
+user9204,+91 8160071244,asus,"asus laptop with 32gb RAM, 16-inch screen, ryzen 7 processor, and gtx 1650 GPU",windows,32gb,16,ryzen 7,gtx 1650,254427,no
+user9659,+91 7133923471,hp,"hp laptop with 16gb RAM, 13-inch screen, i9 processor, and rtx 3060 GPU",linux,16gb,13,i9,rtx 3060,135817,yes
+user8987,+91 8405132722,lenovo,"lenovo laptop with 2gb RAM, 13-inch screen, i9 processor, and rtx 3080 GPU",windows,2gb,13,i9,rtx 3080,45902,no
+user3175,+91 7128003327,apple,"apple laptop with 4gb RAM, 14-inch screen, i3 processor, and rtx 3070 GPU",macos,4gb,14,i3,rtx 3070,167000,no
+user5035,+91 8777933142,asus,"asus laptop with 2gb RAM, 16-inch screen, ryzen 9 processor, and rtx 2060 GPU",linux,2gb,16,ryzen 9,rtx 2060,45826,no
+user8485,+91 9404761124,lenovo,"lenovo laptop with 32gb RAM, 17-inch screen, i7 processor, and rtx 2060 GPU",windows,32gb,17,i7,rtx 2060,196049,no
+user8011,+91 8727544439,mi,"mi laptop with 2gb RAM, 13-inch screen, i3 processor, and gtx 1650 GPU",macos,2gb,13,i3,gtx 1650,32503,no
+user7872,+91 7918621831,lenovo,"lenovo laptop with 32gb RAM, 17-inch screen, ryzen 9 processor, and rtx 3080 GPU",linux,32gb,17,ryzen 9,rtx 3080,222236,yes
+user8789,+91 7913847798,acer,"acer laptop with 8gb RAM, 14-inch screen, i7 processor, and rtx 3070 GPU",linux,8gb,14,i7,rtx 3070,126900,no
+user9419,+91 7020768880,acer,"acer laptop with 2gb RAM, 17-inch screen, i5 processor, and rtx 2060 GPU",macos,2gb,17,i5,rtx 2060,41094,no
+user1480,+91 9716511086,acer,"acer laptop with 2gb RAM, 14-inch screen, ryzen 9 processor, and gtx 1050 GPU",windows,2gb,14,ryzen 9,gtx 1050,34074,no
+user3350,+91 9237909732,apple,"apple laptop with 16gb RAM, 16-inch screen, i3 processor, and rtx 3070 GPU",macos,16gb,16,i3,rtx 3070,169000,yes
+user6605,+91 9797049879,apple,"apple laptop with 16gb RAM, 17-inch screen, i5 processor, and gtx 1050 GPU",macos,16gb,17,i5,gtx 1050,165905,no
+user6105,+91 8471425951,acer,"acer laptop with 8gb RAM, 14-inch screen, ryzen 3 processor, and gtx 1650 GPU",linux,8gb,14,ryzen 3,gtx 1650,58309,yes
+user3937,+91 9597720843,acer,"acer laptop with 32gb RAM, 13-inch screen, i3 processor, and gtx 1650 GPU",windows,32gb,13,i3,gtx 1650,243044,no
+user1506,+91 7136898861,acer,"acer laptop with 16gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3080 GPU",linux,16gb,13,ryzen 3,rtx 3080,77367,yes
+user1581,+91 7411360769,acer,"acer laptop with 16gb RAM, 17-inch screen, i5 processor, and rtx 3080 GPU",windows,16gb,17,i5,rtx 3080,103302,no
+user6259,+91 8387835370,acer,"acer laptop with 16gb RAM, 15-inch screen, i9 processor, and rtx 3080 GPU",windows,16gb,15,i9,rtx 3080,157050,no
+user7299,+91 9545685015,asus,"asus laptop with 2gb RAM, 16-inch screen, i7 processor, and gtx 1050 GPU",macos,2gb,16,i7,gtx 1050,41563,no
+user7748,+91 9834153819,apple,"apple laptop with 8gb RAM, 14-inch screen, i3 processor, and rtx 3070 GPU",macos,8gb,14,i3,rtx 3070,167000,yes
+user5752,+91 8782630067,hp,"hp laptop with 4gb RAM, 13-inch screen, ryzen 9 processor, and gtx 1650 GPU",macos,4gb,13,ryzen 9,gtx 1650,50513,yes
+user9081,+91 9451713781,hp,"hp laptop with 16gb RAM, 16-inch screen, ryzen 3 processor, and gtx 1650 GPU",macos,16gb,16,ryzen 3,gtx 1650,159762,yes
+user4302,+91 8261209763,hp,"hp laptop with 2gb RAM, 16-inch screen, i5 processor, and rtx 3060 GPU",linux,2gb,16,i5,rtx 3060,43269,no
+user1410,+91 9788716009,apple,"apple laptop with 4gb RAM, 15-inch screen, i7 processor, and gtx 1050 GPU",macos,4gb,15,i7,gtx 1050,164000,no
+user9801,+91 9478931208,mi,"mi laptop with 2gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3060 GPU",windows,2gb,15,ryzen 7,rtx 3060,41398,yes
+user9844,+91 9907705848,mi,"mi laptop with 16gb RAM, 13-inch screen, ryzen 3 processor, and gtx 1050 GPU",windows,16gb,13,ryzen 3,gtx 1050,70830,yes
+user1455,+91 8436861764,acer,"acer laptop with 32gb RAM, 17-inch screen, ryzen 9 processor, and gtx 1650 GPU",windows,32gb,17,ryzen 9,gtx 1650,286986,yes
+user8137,+91 9596070494,asus,"asus laptop with 4gb RAM, 17-inch screen, ryzen 9 processor, and rtx 2060 GPU",windows,4gb,17,ryzen 9,rtx 2060,63497,yes
+user9342,+91 9575477318,apple,"apple laptop with 8gb RAM, 14-inch screen, ryzen 3 processor, and gtx 1650 GPU",macos,8gb,14,ryzen 3,gtx 1650,160000,yes
+user6580,+91 9695804939,lenovo,"lenovo laptop with 8gb RAM, 17-inch screen, ryzen 3 processor, and rtx 3070 GPU",windows,8gb,17,ryzen 3,rtx 3070,107843,no
+user6431,+91 8819263787,asus,"asus laptop with 32gb RAM, 15-inch screen, ryzen 3 processor, and gtx 1050 GPU",windows,32gb,15,ryzen 3,gtx 1050,173037,yes
+user7609,+91 7779559883,lenovo,"lenovo laptop with 32gb RAM, 15-inch screen, i7 processor, and rtx 3080 GPU",windows,32gb,15,i7,rtx 3080,257577,yes
+user1130,+91 8358158275,hp,"hp laptop with 2gb RAM, 16-inch screen, i5 processor, and rtx 3060 GPU",linux,2gb,16,i5,rtx 3060,40560,yes
+user4819,+91 8736470629,hp,"hp laptop with 32gb RAM, 17-inch screen, i3 processor, and rtx 3070 GPU",windows,32gb,17,i3,rtx 3070,269938,no
+user7961,+91 7801958367,acer,"acer laptop with 16gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3070 GPU",linux,16gb,17,ryzen 7,rtx 3070,179103,no
+user5101,+91 7509690196,apple,"apple laptop with 8gb RAM, 16-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,8gb,16,ryzen 5,rtx 3080,172000,yes
+user5991,+91 7185636374,hp,"hp laptop with 32gb RAM, 16-inch screen, ryzen 5 processor, and gtx 1050 GPU",linux,32gb,16,ryzen 5,gtx 1050,240748,no
+user6865,+91 8805254213,lenovo,"lenovo laptop with 8gb RAM, 16-inch screen, i3 processor, and gtx 1650 GPU",macos,8gb,16,i3,gtx 1650,72685,yes
+user3971,+91 8416559029,hp,"hp laptop with 16gb RAM, 14-inch screen, ryzen 3 processor, and rtx 3080 GPU",linux,16gb,14,ryzen 3,rtx 3080,118740,no
+user9175,+91 9764522847,acer,"acer laptop with 4gb RAM, 13-inch screen, ryzen 9 processor, and gtx 1650 GPU",macos,4gb,13,ryzen 9,gtx 1650,50705,yes
+user6344,+91 8320856769,asus,"asus laptop with 32gb RAM, 14-inch screen, i5 processor, and rtx 3060 GPU",linux,32gb,14,i5,rtx 3060,228322,yes
+user9783,+91 7982553439,lenovo,"lenovo laptop with 16gb RAM, 17-inch screen, i5 processor, and rtx 3060 GPU",macos,16gb,17,i5,rtx 3060,95229,yes
+user8528,+91 8615793113,hp,"hp laptop with 4gb RAM, 13-inch screen, i5 processor, and gtx 1050 GPU",macos,4gb,13,i5,gtx 1050,47978,yes
+user8539,+91 9327030286,acer,"acer laptop with 8gb RAM, 17-inch screen, i5 processor, and rtx 3070 GPU",linux,8gb,17,i5,rtx 3070,102503,yes
+user9418,+91 9443443001,mi,"mi laptop with 4gb RAM, 15-inch screen, i5 processor, and rtx 3060 GPU",windows,4gb,15,i5,rtx 3060,46879,no
+user7308,+91 9587763621,asus,"asus laptop with 2gb RAM, 14-inch screen, ryzen 3 processor, and rtx 3080 GPU",windows,2gb,14,ryzen 3,rtx 3080,42636,no
+user2692,+91 9966226879,acer,"acer laptop with 8gb RAM, 14-inch screen, i9 processor, and gtx 1650 GPU",linux,8gb,14,i9,gtx 1650,54563,yes
+user1404,+91 7768331982,mi,"mi laptop with 4gb RAM, 13-inch screen, ryzen 9 processor, and gtx 1050 GPU",linux,4gb,13,ryzen 9,gtx 1050,48067,yes
+user4866,+91 8610461760,acer,"acer laptop with 4gb RAM, 17-inch screen, i7 processor, and rtx 2060 GPU",macos,4gb,17,i7,rtx 2060,47493,no
+user3376,+91 9271285569,lenovo,"lenovo laptop with 32gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3080 GPU",linux,32gb,13,ryzen 9,rtx 3080,225116,yes
+user4261,+91 9341288201,asus,"asus laptop with 32gb RAM, 14-inch screen, ryzen 3 processor, and rtx 3070 GPU",macos,32gb,14,ryzen 3,rtx 3070,211757,yes
+user5593,+91 9201349645,apple,"apple laptop with 8gb RAM, 14-inch screen, i3 processor, and gtx 1050 GPU",macos,8gb,14,i3,gtx 1050,159000,yes
+user8227,+91 7776659337,acer,"acer laptop with 8gb RAM, 13-inch screen, i7 processor, and rtx 3080 GPU",macos,8gb,13,i7,rtx 3080,132659,yes
+user2778,+91 8227940906,acer,"acer laptop with 2gb RAM, 17-inch screen, i3 processor, and gtx 1050 GPU",macos,2gb,17,i3,gtx 1050,36308,no
+user6681,+91 7135716202,hp,"hp laptop with 32gb RAM, 14-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,32gb,14,ryzen 7,rtx 3080,186297,yes
+user8149,+91 7140841959,lenovo,"lenovo laptop with 32gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3070 GPU",windows,32gb,13,ryzen 9,rtx 3070,281790,yes
+user9695,+91 8677232249,mi,"mi laptop with 8gb RAM, 14-inch screen, i3 processor, and gtx 1050 GPU",linux,8gb,14,i3,gtx 1050,102209,yes
+user5763,+91 9875496311,hp,"hp laptop with 4gb RAM, 16-inch screen, i9 processor, and gtx 1650 GPU",linux,4gb,16,i9,gtx 1650,58893,yes
+user3428,+91 7968869870,mi,"mi laptop with 4gb RAM, 13-inch screen, ryzen 9 processor, and rtx 2060 GPU",macos,4gb,13,ryzen 9,rtx 2060,51905,no
+user7202,+91 7436947038,lenovo,"lenovo laptop with 8gb RAM, 13-inch screen, ryzen 5 processor, and rtx 3070 GPU",windows,8gb,13,ryzen 5,rtx 3070,112055,yes
+user6093,+91 7356501322,acer,"acer laptop with 4gb RAM, 15-inch screen, ryzen 9 processor, and rtx 3080 GPU",linux,4gb,15,ryzen 9,rtx 3080,63652,yes
+user2961,+91 7993762264,lenovo,"lenovo laptop with 32gb RAM, 16-inch screen, i3 processor, and rtx 2060 GPU",linux,32gb,16,i3,rtx 2060,187366,yes
+user2120,+91 7015234522,apple,"apple laptop with 16gb RAM, 16-inch screen, i9 processor, and rtx 3070 GPU",macos,16gb,16,i9,rtx 3070,175000,no
+user8248,+91 7819352840,mi,"mi laptop with 4gb RAM, 13-inch screen, i7 processor, and rtx 3070 GPU",macos,4gb,13,i7,rtx 3070,54028,no
+user9773,+91 7824317620,acer,"acer laptop with 16gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3070 GPU",linux,16gb,15,ryzen 7,rtx 3070,175057,no
+user1744,+91 9353183687,hp,"hp laptop with 16gb RAM, 13-inch screen, i3 processor, and rtx 3070 GPU",windows,16gb,13,i3,rtx 3070,76567,no
+user7875,+91 8584557074,lenovo,"lenovo laptop with 4gb RAM, 13-inch screen, i7 processor, and rtx 3080 GPU",windows,4gb,13,i7,rtx 3080,49082,yes
+user2546,+91 7327057018,lenovo,"lenovo laptop with 8gb RAM, 14-inch screen, i9 processor, and rtx 2060 GPU",linux,8gb,14,i9,rtx 2060,89004,no
+user4438,+91 7872934617,acer,"acer laptop with 8gb RAM, 17-inch screen, i9 processor, and rtx 3070 GPU",linux,8gb,17,i9,rtx 3070,112424,yes
+user3532,+91 9332005025,mi,"mi laptop with 2gb RAM, 16-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,2gb,16,ryzen 7,rtx 3080,45260,no
+user3814,+91 8677699623,apple,"apple laptop with 8gb RAM, 15-inch screen, ryzen 3 processor, and gtx 1650 GPU",macos,8gb,15,ryzen 3,gtx 1650,161000,yes
+user7648,+91 9405736754,acer,"acer laptop with 32gb RAM, 14-inch screen, ryzen 9 processor, and rtx 2060 GPU",windows,32gb,14,ryzen 9,rtx 2060,225318,yes
+user2891,+91 7662730719,acer,"acer laptop with 4gb RAM, 13-inch screen, ryzen 9 processor, and rtx 2060 GPU",windows,4gb,13,ryzen 9,rtx 2060,57586,yes
+user9832,+91 9803478644,apple,"apple laptop with 4gb RAM, 15-inch screen, i7 processor, and rtx 3070 GPU",macos,4gb,15,i7,rtx 3070,172000,no
+user6590,+91 8919604306,asus,"asus laptop with 32gb RAM, 16-inch screen, ryzen 7 processor, and rtx 3060 GPU",windows,32gb,16,ryzen 7,rtx 3060,284351,yes
+user6337,+91 7693565707,apple,"apple laptop with 16gb RAM, 14-inch screen, i9 processor, and rtx 3080 GPU",macos,16gb,14,i9,rtx 3080,175000,no
+user8831,+91 9304145843,acer,"acer laptop with 32gb RAM, 14-inch screen, ryzen 5 processor, and rtx 2060 GPU",linux,32gb,14,ryzen 5,rtx 2060,235470,no
+user9067,+91 8911633107,acer,"acer laptop with 8gb RAM, 14-inch screen, i5 processor, and rtx 3060 GPU",macos,8gb,14,i5,rtx 3060,67617,no
+user4859,+91 8232758403,asus,"asus laptop with 16gb RAM, 15-inch screen, i5 processor, and rtx 3060 GPU",windows,16gb,15,i5,rtx 3060,132967,yes
+user1347,+91 8778078024,lenovo,"lenovo laptop with 2gb RAM, 16-inch screen, ryzen 5 processor, and gtx 1050 GPU",windows,2gb,16,ryzen 5,gtx 1050,37699,no
+user6927,+91 7913980794,apple,"apple laptop with 32gb RAM, 17-inch screen, i7 processor, and gtx 1650 GPU",macos,32gb,17,i7,gtx 1650,208758,no
+user8458,+91 7051924977,acer,"acer laptop with 8gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3070 GPU",windows,8gb,15,ryzen 3,rtx 3070,89342,yes
+user2084,+91 7837747271,mi,"mi laptop with 8gb RAM, 17-inch screen, i3 processor, and rtx 3070 GPU",macos,8gb,17,i3,rtx 3070,90244,yes
+user2508,+91 9701828297,apple,"apple laptop with 4gb RAM, 17-inch screen, i5 processor, and gtx 1050 GPU",macos,4gb,17,i5,gtx 1050,164000,yes
+user9726,+91 9608600593,mi,"mi laptop with 32gb RAM, 17-inch screen, ryzen 9 processor, and gtx 1050 GPU",macos,32gb,17,ryzen 9,gtx 1050,215784,no
+user4307,+91 9412845335,hp,"hp laptop with 2gb RAM, 17-inch screen, i9 processor, and gtx 1650 GPU",windows,2gb,17,i9,gtx 1650,44061,yes
+user1916,+91 7191653351,hp,"hp laptop with 4gb RAM, 16-inch screen, ryzen 3 processor, and gtx 1050 GPU",linux,4gb,16,ryzen 3,gtx 1050,45899,no
+user4680,+91 8948466749,acer,"acer laptop with 32gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3060 GPU",linux,32gb,17,ryzen 5,rtx 3060,190884,no
+user8502,+91 9293073118,asus,"asus laptop with 8gb RAM, 17-inch screen, i3 processor, and rtx 3070 GPU",windows,8gb,17,i3,rtx 3070,89439,no
+user3105,+91 7399807640,apple,"apple laptop with 4gb RAM, 16-inch screen, i7 processor, and gtx 1050 GPU",macos,4gb,16,i7,gtx 1050,165000,no
+user5565,+91 7145101649,apple,"apple laptop with 8gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3080 GPU",macos,8gb,15,ryzen 3,rtx 3080,169000,no
+user9866,+91 9331818480,apple,"apple laptop with 2gb RAM, 16-inch screen, ryzen 7 processor, and rtx 2060 GPU",macos,2gb,16,ryzen 7,rtx 2060,168000,no
+user6110,+91 7006499486,mi,"mi laptop with 16gb RAM, 17-inch screen, i7 processor, and rtx 3060 GPU",windows,16gb,17,i7,rtx 3060,143463,yes
+user7520,+91 9136976423,lenovo,"lenovo laptop with 2gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3060 GPU",macos,2gb,13,ryzen 9,rtx 3060,43016,yes
+user2355,+91 8534653950,apple,"apple laptop with 2gb RAM, 13-inch screen, i7 processor, and rtx 3070 GPU",macos,2gb,13,i7,rtx 3070,170000,yes
+user6494,+91 7738822607,asus,"asus laptop with 2gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3080 GPU",windows,2gb,13,ryzen 9,rtx 3080,44192,yes
+user4483,+91 9453407571,hp,"hp laptop with 4gb RAM, 14-inch screen, i7 processor, and rtx 3080 GPU",windows,4gb,14,i7,rtx 3080,67037,no
+user3729,+91 7356614896,mi,"mi laptop with 4gb RAM, 16-inch screen, ryzen 7 processor, and gtx 1050 GPU",windows,4gb,16,ryzen 7,gtx 1050,42804,yes
+user3569,+91 8590380439,apple,"apple laptop with 32gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,32gb,15,ryzen 3,rtx 3060,201834,yes
+user6590,+91 8613172124,acer,"acer laptop with 4gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3080 GPU",linux,4gb,17,ryzen 7,rtx 3080,53570,yes
+user2206,+91 7870360323,mi,"mi laptop with 2gb RAM, 17-inch screen, ryzen 3 processor, and rtx 3080 GPU",macos,2gb,17,ryzen 3,rtx 3080,43584,no
+user3951,+91 7659284452,mi,"mi laptop with 16gb RAM, 15-inch screen, ryzen 9 processor, and rtx 3070 GPU",macos,16gb,15,ryzen 9,rtx 3070,115268,yes
+user6324,+91 7986847313,hp,"hp laptop with 4gb RAM, 14-inch screen, ryzen 7 processor, and rtx 3080 GPU",windows,4gb,14,ryzen 7,rtx 3080,62656,yes
+user1035,+91 8488872344,apple,"apple laptop with 16gb RAM, 14-inch screen, i7 processor, and gtx 1050 GPU",macos,16gb,14,i7,gtx 1050,163701,yes
+user5154,+91 9415003318,acer,"acer laptop with 32gb RAM, 17-inch screen, i5 processor, and rtx 3060 GPU",linux,32gb,17,i5,rtx 3060,273474,no
+user1622,+91 7118365606,mi,"mi laptop with 32gb RAM, 15-inch screen, ryzen 5 processor, and gtx 1650 GPU",macos,32gb,15,ryzen 5,gtx 1650,212601,no
+user3144,+91 9874156563,asus,"asus laptop with 32gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3080 GPU",linux,32gb,17,ryzen 5,rtx 3080,247423,no
+user1192,+91 8042429131,acer,"acer laptop with 2gb RAM, 13-inch screen, i9 processor, and gtx 1050 GPU",windows,2gb,13,i9,gtx 1050,40041,no
+user4195,+91 8838104333,acer,"acer laptop with 32gb RAM, 16-inch screen, i7 processor, and rtx 3080 GPU",macos,32gb,16,i7,rtx 3080,287442,no
+user9318,+91 7835579170,apple,"apple laptop with 16gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3080 GPU",macos,16gb,13,ryzen 9,rtx 3080,173000,no
+user5777,+91 9631839684,acer,"acer laptop with 2gb RAM, 15-inch screen, ryzen 5 processor, and rtx 3070 GPU",windows,2gb,15,ryzen 5,rtx 3070,43660,no
+user3831,+91 7071769430,apple,"apple laptop with 4gb RAM, 17-inch screen, i9 processor, and gtx 1650 GPU",macos,4gb,17,i9,gtx 1650,170000,no
+user1612,+91 7559841046,apple,"apple laptop with 8gb RAM, 15-inch screen, ryzen 5 processor, and gtx 1650 GPU",macos,8gb,15,ryzen 5,gtx 1650,163000,no
+user9965,+91 8639306073,lenovo,"lenovo laptop with 16gb RAM, 13-inch screen, i9 processor, and gtx 1050 GPU",windows,16gb,13,i9,gtx 1050,137929,no
+user7398,+91 9767122643,hp,"hp laptop with 2gb RAM, 14-inch screen, i3 processor, and rtx 3080 GPU",linux,2gb,14,i3,rtx 3080,43359,no
+user5615,+91 8391213454,mi,"mi laptop with 4gb RAM, 14-inch screen, i7 processor, and rtx 3060 GPU",linux,4gb,14,i7,rtx 3060,63912,yes
+user6528,+91 7303950955,hp,"hp laptop with 2gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3070 GPU",macos,2gb,13,ryzen 7,rtx 3070,41049,no
+user2481,+91 9902119404,acer,"acer laptop with 4gb RAM, 14-inch screen, ryzen 7 processor, and rtx 2060 GPU",linux,4gb,14,ryzen 7,rtx 2060,60375,no
+user3013,+91 8696793051,lenovo,"lenovo laptop with 8gb RAM, 16-inch screen, i5 processor, and gtx 1650 GPU",linux,8gb,16,i5,gtx 1650,57191,no
+user1366,+91 8146928136,mi,"mi laptop with 8gb RAM, 14-inch screen, i3 processor, and gtx 1050 GPU",windows,8gb,14,i3,gtx 1050,99295,no
+user1454,+91 9150652827,lenovo,"lenovo laptop with 2gb RAM, 15-inch screen, i3 processor, and gtx 1050 GPU",macos,2gb,15,i3,gtx 1050,30586,no
+user9220,+91 7383636441,apple,"apple laptop with 32gb RAM, 14-inch screen, i9 processor, and gtx 1650 GPU",macos,32gb,14,i9,gtx 1650,185741,no
+user8804,+91 9127381147,asus,"asus laptop with 4gb RAM, 13-inch screen, i7 processor, and gtx 1650 GPU",linux,4gb,13,i7,gtx 1650,54502,no
+user9294,+91 9699027447,hp,"hp laptop with 16gb RAM, 14-inch screen, i7 processor, and gtx 1650 GPU",linux,16gb,14,i7,gtx 1650,115338,no
+user9994,+91 7684416416,acer,"acer laptop with 2gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3080 GPU",linux,2gb,14,ryzen 5,rtx 3080,40399,no
+user7086,+91 9216361402,hp,"hp laptop with 4gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3070 GPU",windows,4gb,15,ryzen 3,rtx 3070,60663,no
+user2087,+91 8545867015,hp,"hp laptop with 2gb RAM, 16-inch screen, ryzen 5 processor, and gtx 1650 GPU",linux,2gb,16,ryzen 5,gtx 1650,37679,yes
+user6687,+91 9674300424,hp,"hp laptop with 32gb RAM, 14-inch screen, i3 processor, and rtx 3070 GPU",linux,32gb,14,i3,rtx 3070,261028,yes
+user8727,+91 7647973779,mi,"mi laptop with 32gb RAM, 13-inch screen, i3 processor, and gtx 1050 GPU",macos,32gb,13,i3,gtx 1050,186881,yes
+user2988,+91 9420509534,asus,"asus laptop with 8gb RAM, 13-inch screen, i3 processor, and gtx 1050 GPU",macos,8gb,13,i3,gtx 1050,60108,no
+user9702,+91 8231810389,acer,"acer laptop with 32gb RAM, 13-inch screen, ryzen 7 processor, and gtx 1050 GPU",linux,32gb,13,ryzen 7,gtx 1050,187152,no
+user5278,+91 8378705373,hp,"hp laptop with 16gb RAM, 13-inch screen, i5 processor, and rtx 3080 GPU",macos,16gb,13,i5,rtx 3080,115474,yes
+user5257,+91 7984595393,asus,"asus laptop with 32gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3070 GPU",linux,32gb,14,ryzen 5,rtx 3070,184375,yes
+user6094,+91 8981393100,apple,"apple laptop with 2gb RAM, 17-inch screen, i5 processor, and rtx 3070 GPU",macos,2gb,17,i5,rtx 3070,172000,no
+user9454,+91 9337369653,mi,"mi laptop with 4gb RAM, 15-inch screen, ryzen 3 processor, and rtx 2060 GPU",windows,4gb,15,ryzen 3,rtx 2060,50908,no
+user8006,+91 7941465947,apple,"apple laptop with 16gb RAM, 13-inch screen, i3 processor, and rtx 3060 GPU",macos,16gb,13,i3,rtx 3060,164000,yes
+user8249,+91 7950660556,hp,"hp laptop with 4gb RAM, 13-inch screen, ryzen 5 processor, and rtx 3070 GPU",linux,4gb,13,ryzen 5,rtx 3070,46438,no
+user6530,+91 8817951790,acer,"acer laptop with 16gb RAM, 17-inch screen, ryzen 5 processor, and gtx 1050 GPU",linux,16gb,17,ryzen 5,gtx 1050,103148,no
+user1845,+91 7305736976,hp,"hp laptop with 16gb RAM, 13-inch screen, i3 processor, and rtx 3070 GPU",macos,16gb,13,i3,rtx 3070,106586,no
+user9365,+91 8095648791,mi,"mi laptop with 32gb RAM, 15-inch screen, ryzen 5 processor, and gtx 1650 GPU",windows,32gb,15,ryzen 5,gtx 1650,227727,no
+user3394,+91 8232781896,mi,"mi laptop with 32gb RAM, 15-inch screen, i9 processor, and rtx 2060 GPU",linux,32gb,15,i9,rtx 2060,258079,yes
+user8150,+91 8959673939,lenovo,"lenovo laptop with 8gb RAM, 16-inch screen, i7 processor, and rtx 3060 GPU",windows,8gb,16,i7,rtx 3060,73031,yes
+user7742,+91 7508667756,hp,"hp laptop with 4gb RAM, 13-inch screen, i9 processor, and rtx 3070 GPU",macos,4gb,13,i9,rtx 3070,61609,yes
+user2652,+91 8822360535,hp,"hp laptop with 4gb RAM, 13-inch screen, ryzen 7 processor, and gtx 1650 GPU",windows,4gb,13,ryzen 7,gtx 1650,50002,no
+user7983,+91 7940785345,hp,"hp laptop with 32gb RAM, 15-inch screen, ryzen 9 processor, and rtx 3070 GPU",macos,32gb,15,ryzen 9,rtx 3070,262298,yes
+user6801,+91 7408680873,mi,"mi laptop with 4gb RAM, 14-inch screen, i7 processor, and rtx 3070 GPU",windows,4gb,14,i7,rtx 3070,50404,yes
+user4096,+91 7772543717,asus,"asus laptop with 4gb RAM, 17-inch screen, i9 processor, and gtx 1050 GPU",macos,4gb,17,i9,gtx 1050,50088,no
+user1234,+91 7408596753,apple,"apple laptop with 32gb RAM, 16-inch screen, ryzen 9 processor, and gtx 1650 GPU",macos,32gb,16,ryzen 9,gtx 1650,219477,yes
+user9607,+91 9418544790,lenovo,"lenovo laptop with 8gb RAM, 17-inch screen, i5 processor, and gtx 1050 GPU",macos,8gb,17,i5,gtx 1050,53811,no
+user7472,+91 7651507802,hp,"hp laptop with 32gb RAM, 16-inch screen, i3 processor, and rtx 3070 GPU",windows,32gb,16,i3,rtx 3070,182712,no
+user5223,+91 7481464819,lenovo,"lenovo laptop with 2gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3070 GPU",windows,2gb,13,ryzen 3,rtx 3070,41130,yes
+user6632,+91 8814116076,lenovo,"lenovo laptop with 8gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3060 GPU",macos,8gb,17,ryzen 7,rtx 3060,58403,yes
+user6449,+91 9034691783,apple,"apple laptop with 32gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,32gb,17,ryzen 5,rtx 3080,192782,no
+user9680,+91 9393021750,hp,"hp laptop with 2gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3080 GPU",macos,2gb,16,ryzen 9,rtx 3080,50103,yes
+user2823,+91 9265501212,acer,"acer laptop with 32gb RAM, 15-inch screen, i7 processor, and rtx 3070 GPU",windows,32gb,15,i7,rtx 3070,208031,no
+user2546,+91 7167810013,hp,"hp laptop with 16gb RAM, 14-inch screen, i9 processor, and gtx 1650 GPU",linux,16gb,14,i9,gtx 1650,110188,yes
+user9047,+91 7217700967,mi,"mi laptop with 16gb RAM, 13-inch screen, i3 processor, and rtx 3060 GPU",macos,16gb,13,i3,rtx 3060,156289,yes
+user1442,+91 7187624276,mi,"mi laptop with 2gb RAM, 15-inch screen, ryzen 9 processor, and rtx 3080 GPU",linux,2gb,15,ryzen 9,rtx 3080,46369,yes
+user8214,+91 8425006946,lenovo,"lenovo laptop with 32gb RAM, 16-inch screen, i7 processor, and rtx 3070 GPU",linux,32gb,16,i7,rtx 3070,265207,yes
+user8207,+91 8975798442,asus,"asus laptop with 2gb RAM, 14-inch screen, i7 processor, and rtx 3070 GPU",linux,2gb,14,i7,rtx 3070,47771,no
+user2332,+91 7771083860,hp,"hp laptop with 4gb RAM, 15-inch screen, i7 processor, and gtx 1650 GPU",macos,4gb,15,i7,gtx 1650,53110,no
+user2105,+91 8229462912,lenovo,"lenovo laptop with 8gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3060 GPU",macos,8gb,17,ryzen 7,rtx 3060,100311,yes
+user5342,+91 7549247994,acer,"acer laptop with 2gb RAM, 17-inch screen, i9 processor, and rtx 3060 GPU",macos,2gb,17,i9,rtx 3060,47189,yes
+user1570,+91 8358009268,acer,"acer laptop with 4gb RAM, 13-inch screen, i5 processor, and rtx 3060 GPU",linux,4gb,13,i5,rtx 3060,47042,no
+user8927,+91 7443410421,hp,"hp laptop with 32gb RAM, 17-inch screen, ryzen 9 processor, and rtx 3080 GPU",windows,32gb,17,ryzen 9,rtx 3080,225235,yes
+user5185,+91 7751536493,lenovo,"lenovo laptop with 4gb RAM, 14-inch screen, i3 processor, and rtx 3080 GPU",macos,4gb,14,i3,rtx 3080,59184,no
+user7871,+91 8933151207,lenovo,"lenovo laptop with 2gb RAM, 13-inch screen, ryzen 7 processor, and rtx 2060 GPU",linux,2gb,13,ryzen 7,rtx 2060,36500,no
+user5811,+91 8871755141,lenovo,"lenovo laptop with 32gb RAM, 17-inch screen, i9 processor, and gtx 1050 GPU",macos,32gb,17,i9,gtx 1050,243827,yes
+user6135,+91 8643545955,lenovo,"lenovo laptop with 16gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3080 GPU",windows,16gb,16,ryzen 3,rtx 3080,105957,yes
+user3726,+91 7261635273,mi,"mi laptop with 4gb RAM, 13-inch screen, i7 processor, and rtx 3070 GPU",macos,4gb,13,i7,rtx 3070,58665,yes
+user2850,+91 7814714302,apple,"apple laptop with 2gb RAM, 13-inch screen, i9 processor, and rtx 3080 GPU",macos,2gb,13,i9,rtx 3080,174000,yes
+user8186,+91 9968606468,hp,"hp laptop with 2gb RAM, 17-inch screen, ryzen 5 processor, and gtx 1650 GPU",macos,2gb,17,ryzen 5,gtx 1650,37597,yes
+user2245,+91 9421679050,apple,"apple laptop with 8gb RAM, 14-inch screen, i3 processor, and gtx 1650 GPU",macos,8gb,14,i3,gtx 1650,161000,yes
+user4058,+91 7966111407,asus,"asus laptop with 8gb RAM, 17-inch screen, i5 processor, and gtx 1650 GPU",linux,8gb,17,i5,gtx 1650,104980,yes
+user3752,+91 8983635092,mi,"mi laptop with 8gb RAM, 13-inch screen, i3 processor, and rtx 2060 GPU",windows,8gb,13,i3,rtx 2060,57418,no
+user4888,+91 9650768447,mi,"mi laptop with 4gb RAM, 15-inch screen, i5 processor, and rtx 3060 GPU",macos,4gb,15,i5,rtx 3060,49197,no
+user9572,+91 7180382672,mi,"mi laptop with 4gb RAM, 15-inch screen, ryzen 9 processor, and rtx 3070 GPU",linux,4gb,15,ryzen 9,rtx 3070,58485,yes
+user4295,+91 9277066139,acer,"acer laptop with 4gb RAM, 14-inch screen, ryzen 3 processor, and gtx 1050 GPU",windows,4gb,14,ryzen 3,gtx 1050,50503,yes
+user9190,+91 9796632524,lenovo,"lenovo laptop with 8gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,8gb,16,ryzen 3,rtx 3060,135377,no
+user5391,+91 8691580686,mi,"mi laptop with 4gb RAM, 14-inch screen, ryzen 5 processor, and gtx 1050 GPU",linux,4gb,14,ryzen 5,gtx 1050,47400,yes
+user1763,+91 9839386507,mi,"mi laptop with 32gb RAM, 16-inch screen, i5 processor, and gtx 1050 GPU",windows,32gb,16,i5,gtx 1050,164908,yes
+user5048,+91 9186331772,apple,"apple laptop with 16gb RAM, 17-inch screen, i3 processor, and rtx 2060 GPU",macos,16gb,17,i3,rtx 2060,166000,no
+user6402,+91 8464854842,acer,"acer laptop with 16gb RAM, 17-inch screen, ryzen 5 processor, and gtx 1650 GPU",linux,16gb,17,ryzen 5,gtx 1650,102690,yes
+user7266,+91 7182057247,asus,"asus laptop with 32gb RAM, 17-inch screen, ryzen 9 processor, and rtx 3080 GPU",windows,32gb,17,ryzen 9,rtx 3080,224703,no
+user2340,+91 9681175290,mi,"mi laptop with 32gb RAM, 16-inch screen, i9 processor, and gtx 1650 GPU",macos,32gb,16,i9,gtx 1650,206689,yes
+user9681,+91 8490185484,hp,"hp laptop with 8gb RAM, 13-inch screen, i7 processor, and gtx 1050 GPU",windows,8gb,13,i7,gtx 1050,86999,no
+user6718,+91 8759330778,lenovo,"lenovo laptop with 4gb RAM, 13-inch screen, i9 processor, and rtx 3060 GPU",linux,4gb,13,i9,rtx 3060,58859,no
+user3497,+91 9451495766,asus,"asus laptop with 8gb RAM, 14-inch screen, i5 processor, and rtx 3070 GPU",linux,8gb,14,i5,rtx 3070,69371,no
+user1046,+91 8988772351,lenovo,"lenovo laptop with 2gb RAM, 17-inch screen, i5 processor, and rtx 3060 GPU",linux,2gb,17,i5,rtx 3060,45974,yes
+user1181,+91 8938964442,mi,"mi laptop with 8gb RAM, 16-inch screen, ryzen 7 processor, and gtx 1650 GPU",linux,8gb,16,ryzen 7,gtx 1650,112513,no
+user9776,+91 7408551566,lenovo,"lenovo laptop with 4gb RAM, 13-inch screen, i3 processor, and rtx 2060 GPU",windows,4gb,13,i3,rtx 2060,41335,no
+user2484,+91 8973330106,acer,"acer laptop with 4gb RAM, 14-inch screen, ryzen 3 processor, and rtx 2060 GPU",windows,4gb,14,ryzen 3,rtx 2060,42238,yes
+user9109,+91 8388092608,mi,"mi laptop with 4gb RAM, 14-inch screen, i5 processor, and gtx 1650 GPU",linux,4gb,14,i5,gtx 1650,50762,no
+user2149,+91 9738061356,acer,"acer laptop with 8gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1650 GPU",windows,8gb,17,ryzen 3,gtx 1650,65922,no
+user4008,+91 9174391681,asus,"asus laptop with 2gb RAM, 13-inch screen, i9 processor, and rtx 3060 GPU",macos,2gb,13,i9,rtx 3060,46623,yes
+user6177,+91 7004598539,acer,"acer laptop with 4gb RAM, 15-inch screen, ryzen 7 processor, and gtx 1650 GPU",macos,4gb,15,ryzen 7,gtx 1650,53908,yes
+user9438,+91 9267796202,asus,"asus laptop with 8gb RAM, 13-inch screen, i7 processor, and gtx 1650 GPU",macos,8gb,13,i7,gtx 1650,88832,yes
+user8880,+91 8210490682,lenovo,"lenovo laptop with 32gb RAM, 14-inch screen, i9 processor, and rtx 3060 GPU",windows,32gb,14,i9,rtx 3060,280360,yes
+user7553,+91 7893596652,hp,"hp laptop with 2gb RAM, 15-inch screen, ryzen 7 processor, and gtx 1050 GPU",windows,2gb,15,ryzen 7,gtx 1050,34918,yes
+user2106,+91 8817512617,acer,"acer laptop with 32gb RAM, 15-inch screen, i3 processor, and rtx 2060 GPU",linux,32gb,15,i3,rtx 2060,213222,yes
+user2609,+91 9814772355,apple,"apple laptop with 4gb RAM, 16-inch screen, i9 processor, and rtx 3060 GPU",macos,4gb,16,i9,rtx 3060,173000,yes
+user8746,+91 9731045094,apple,"apple laptop with 4gb RAM, 17-inch screen, i3 processor, and rtx 3080 GPU",macos,4gb,17,i3,rtx 3080,172000,no
+user4295,+91 7004828660,apple,"apple laptop with 16gb RAM, 15-inch screen, i7 processor, and rtx 3070 GPU",macos,16gb,15,i7,rtx 3070,172000,yes
+user3593,+91 7301016429,hp,"hp laptop with 16gb RAM, 13-inch screen, i3 processor, and gtx 1650 GPU",linux,16gb,13,i3,gtx 1650,133239,no
+user4023,+91 9888526062,mi,"mi laptop with 16gb RAM, 17-inch screen, i3 processor, and rtx 3070 GPU",macos,16gb,17,i3,rtx 3070,164980,no
+user7131,+91 8899233131,asus,"asus laptop with 4gb RAM, 13-inch screen, i7 processor, and rtx 3070 GPU",linux,4gb,13,i7,rtx 3070,64684,no
+user9222,+91 7751944037,acer,"acer laptop with 32gb RAM, 13-inch screen, i7 processor, and rtx 3080 GPU",macos,32gb,13,i7,rtx 3080,185032,no
+user8668,+91 9385934421,asus,"asus laptop with 32gb RAM, 16-inch screen, ryzen 9 processor, and rtx 2060 GPU",windows,32gb,16,ryzen 9,rtx 2060,213905,no
+user3838,+91 9853453655,asus,"asus laptop with 32gb RAM, 15-inch screen, i5 processor, and rtx 3080 GPU",windows,32gb,15,i5,rtx 3080,209732,no
+user5938,+91 7245895141,lenovo,"lenovo laptop with 4gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3060 GPU",linux,4gb,13,ryzen 7,rtx 3060,48532,no
+user2259,+91 7002925000,apple,"apple laptop with 4gb RAM, 14-inch screen, ryzen 7 processor, and rtx 2060 GPU",macos,4gb,14,ryzen 7,rtx 2060,166000,no
+user8734,+91 9405382170,acer,"acer laptop with 16gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1050 GPU",macos,16gb,17,ryzen 3,gtx 1050,167662,no
+user5966,+91 9018590933,apple,"apple laptop with 16gb RAM, 14-inch screen, i5 processor, and rtx 3060 GPU",macos,16gb,14,i5,rtx 3060,167000,yes
+user4762,+91 7658965714,mi,"mi laptop with 4gb RAM, 16-inch screen, ryzen 5 processor, and rtx 3060 GPU",macos,4gb,16,ryzen 5,rtx 3060,56662,yes
+user5789,+91 9699768070,hp,"hp laptop with 4gb RAM, 15-inch screen, ryzen 5 processor, and gtx 1050 GPU",linux,4gb,15,ryzen 5,gtx 1050,40034,no
+user2537,+91 9337249276,asus,"asus laptop with 2gb RAM, 16-inch screen, i5 processor, and gtx 1650 GPU",windows,2gb,16,i5,gtx 1650,39894,no
+user6015,+91 7807937378,acer,"acer laptop with 4gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3070 GPU",macos,4gb,13,ryzen 9,rtx 3070,54340,no
+user8551,+91 9027781055,hp,"hp laptop with 8gb RAM, 15-inch screen, i7 processor, and gtx 1650 GPU",linux,8gb,15,i7,gtx 1650,127569,yes
+user9750,+91 9808882948,apple,"apple laptop with 16gb RAM, 17-inch screen, ryzen 9 processor, and rtx 3060 GPU",macos,16gb,17,ryzen 9,rtx 3060,173000,no
+user4279,+91 8864705140,lenovo,"lenovo laptop with 32gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3060 GPU",linux,32gb,13,ryzen 7,rtx 3060,193914,no
+user9502,+91 7508512594,acer,"acer laptop with 32gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3080 GPU",linux,32gb,17,ryzen 7,rtx 3080,183160,no
+user6460,+91 8425697160,asus,"asus laptop with 4gb RAM, 13-inch screen, ryzen 9 processor, and rtx 2060 GPU",linux,4gb,13,ryzen 9,rtx 2060,53533,no
+user9247,+91 7171351256,apple,"apple laptop with 8gb RAM, 14-inch screen, i9 processor, and gtx 1050 GPU",macos,8gb,14,i9,gtx 1050,165000,no
+user4798,+91 7951367871,hp,"hp laptop with 16gb RAM, 17-inch screen, ryzen 3 processor, and rtx 2060 GPU",linux,16gb,17,ryzen 3,rtx 2060,98513,no
+user9272,+91 7935167407,mi,"mi laptop with 16gb RAM, 17-inch screen, i5 processor, and rtx 2060 GPU",linux,16gb,17,i5,rtx 2060,78878,no
+user7645,+91 9171536741,lenovo,"lenovo laptop with 8gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3060 GPU",windows,8gb,15,ryzen 3,rtx 3060,80792,no
+user2995,+91 8188578375,asus,"asus laptop with 16gb RAM, 17-inch screen, i3 processor, and gtx 1650 GPU",windows,16gb,17,i3,gtx 1650,139947,yes
+user7100,+91 7314358986,hp,"hp laptop with 8gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3080 GPU",macos,8gb,13,ryzen 9,rtx 3080,109910,yes
+user1438,+91 8771371936,mi,"mi laptop with 16gb RAM, 13-inch screen, i3 processor, and gtx 1050 GPU",windows,16gb,13,i3,gtx 1050,154349,yes
+user9897,+91 8205338354,apple,"apple laptop with 2gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3060 GPU",macos,2gb,14,ryzen 9,rtx 3060,170000,no
+user1701,+91 7188373881,mi,"mi laptop with 8gb RAM, 15-inch screen, i7 processor, and gtx 1650 GPU",windows,8gb,15,i7,gtx 1650,63659,no
+user9456,+91 7342017026,hp,"hp laptop with 4gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1050 GPU",macos,4gb,17,ryzen 3,gtx 1050,44654,yes
+user9496,+91 9795461967,acer,"acer laptop with 8gb RAM, 13-inch screen, ryzen 9 processor, and gtx 1050 GPU",macos,8gb,13,ryzen 9,gtx 1050,92422,no
+user6310,+91 8621614995,lenovo,"lenovo laptop with 8gb RAM, 14-inch screen, i3 processor, and gtx 1050 GPU",linux,8gb,14,i3,gtx 1050,83689,yes
+user5665,+91 8583076653,acer,"acer laptop with 2gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3070 GPU",macos,2gb,15,ryzen 7,rtx 3070,46029,yes
+user1435,+91 8174803862,hp,"hp laptop with 8gb RAM, 15-inch screen, i9 processor, and rtx 3060 GPU",windows,8gb,15,i9,rtx 3060,98170,yes
+user4474,+91 9618678442,apple,"apple laptop with 8gb RAM, 17-inch screen, i9 processor, and rtx 2060 GPU",macos,8gb,17,i9,rtx 2060,172000,no
+user4353,+91 9107705041,acer,"acer laptop with 32gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,32gb,14,ryzen 5,rtx 3080,239178,yes
+user2583,+91 7670243153,hp,"hp laptop with 8gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3060 GPU",macos,8gb,17,ryzen 7,rtx 3060,75647,no
+user6258,+91 7352559870,mi,"mi laptop with 2gb RAM, 13-inch screen, ryzen 5 processor, and gtx 1050 GPU",windows,2gb,13,ryzen 5,gtx 1050,33227,yes
+user5304,+91 8160679272,apple,"apple laptop with 8gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3080 GPU",macos,8gb,13,ryzen 9,rtx 3080,173000,no
+user6342,+91 9781344486,hp,"hp laptop with 2gb RAM, 15-inch screen, ryzen 5 processor, and gtx 1050 GPU",windows,2gb,15,ryzen 5,gtx 1050,36783,no
+user8182,+91 9337312964,apple,"apple laptop with 32gb RAM, 16-inch screen, i9 processor, and rtx 3080 GPU",macos,32gb,16,i9,rtx 3080,219726,yes
+user1140,+91 8204690914,asus,"asus laptop with 8gb RAM, 15-inch screen, ryzen 3 processor, and gtx 1650 GPU",windows,8gb,15,ryzen 3,gtx 1650,107910,yes
+user6113,+91 8574799967,hp,"hp laptop with 4gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,4gb,15,ryzen 7,rtx 3080,67578,no
+user7419,+91 7189006216,hp,"hp laptop with 2gb RAM, 14-inch screen, i9 processor, and gtx 1650 GPU",macos,2gb,14,i9,gtx 1650,41149,yes
+user9687,+91 9646194024,asus,"asus laptop with 32gb RAM, 13-inch screen, i5 processor, and rtx 3080 GPU",linux,32gb,13,i5,rtx 3080,219089,no
+user3482,+91 8562697643,acer,"acer laptop with 16gb RAM, 17-inch screen, ryzen 3 processor, and rtx 3080 GPU",windows,16gb,17,ryzen 3,rtx 3080,141080,no
+user7997,+91 9444437098,acer,"acer laptop with 2gb RAM, 17-inch screen, i5 processor, and gtx 1050 GPU",macos,2gb,17,i5,gtx 1050,40226,yes
+user5184,+91 9924972314,hp,"hp laptop with 8gb RAM, 13-inch screen, i7 processor, and gtx 1650 GPU",windows,8gb,13,i7,gtx 1650,73345,no
+user4675,+91 8161501406,asus,"asus laptop with 32gb RAM, 16-inch screen, ryzen 5 processor, and gtx 1650 GPU",linux,32gb,16,ryzen 5,gtx 1650,207362,no
+user1913,+91 7944208062,acer,"acer laptop with 2gb RAM, 16-inch screen, i3 processor, and rtx 3060 GPU",windows,2gb,16,i3,rtx 3060,38394,no
+user2671,+91 9765784750,apple,"apple laptop with 16gb RAM, 14-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,16gb,14,ryzen 7,rtx 3080,172000,yes
+user4511,+91 8744625515,mi,"mi laptop with 32gb RAM, 14-inch screen, i7 processor, and rtx 2060 GPU",linux,32gb,14,i7,rtx 2060,258469,yes
+user4823,+91 7301561605,acer,"acer laptop with 16gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3080 GPU",linux,16gb,16,ryzen 3,rtx 3080,120393,no
+user9002,+91 7609735356,apple,"apple laptop with 2gb RAM, 17-inch screen, i9 processor, and rtx 2060 GPU",macos,2gb,17,i9,rtx 2060,172000,yes
+user9338,+91 7234120626,hp,"hp laptop with 2gb RAM, 14-inch screen, i9 processor, and gtx 1650 GPU",macos,2gb,14,i9,gtx 1650,42874,yes
+user8932,+91 9021555879,asus,"asus laptop with 32gb RAM, 16-inch screen, i9 processor, and rtx 2060 GPU",windows,32gb,16,i9,rtx 2060,289933,yes
+user5552,+91 9091856358,asus,"asus laptop with 8gb RAM, 17-inch screen, ryzen 3 processor, and rtx 2060 GPU",linux,8gb,17,ryzen 3,rtx 2060,109822,yes
+user6892,+91 8105419215,asus,"asus laptop with 2gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3080 GPU",linux,2gb,14,ryzen 9,rtx 3080,45912,yes
+user2088,+91 7000328472,acer,"acer laptop with 8gb RAM, 13-inch screen, i3 processor, and rtx 2060 GPU",windows,8gb,13,i3,rtx 2060,112912,yes
+user1511,+91 7166175135,acer,"acer laptop with 32gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3080 GPU",macos,32gb,16,ryzen 9,rtx 3080,292221,yes
+user2147,+91 8689877043,mi,"mi laptop with 4gb RAM, 14-inch screen, ryzen 7 processor, and rtx 2060 GPU",windows,4gb,14,ryzen 7,rtx 2060,59901,yes
+user6100,+91 9452706099,acer,"acer laptop with 16gb RAM, 14-inch screen, ryzen 7 processor, and gtx 1650 GPU",linux,16gb,14,ryzen 7,gtx 1650,95230,no
+user6678,+91 8729374208,lenovo,"lenovo laptop with 4gb RAM, 13-inch screen, i7 processor, and rtx 3080 GPU",macos,4gb,13,i7,rtx 3080,56190,no
+user6860,+91 7483668549,lenovo,"lenovo laptop with 16gb RAM, 16-inch screen, i7 processor, and rtx 3060 GPU",windows,16gb,16,i7,rtx 3060,132337,yes
+user7117,+91 7191465938,lenovo,"lenovo laptop with 32gb RAM, 14-inch screen, i3 processor, and gtx 1050 GPU",macos,32gb,14,i3,gtx 1050,252530,yes
+user1904,+91 7746038090,asus,"asus laptop with 16gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1650 GPU",linux,16gb,17,ryzen 3,gtx 1650,152263,yes
+user8270,+91 7217895155,hp,"hp laptop with 16gb RAM, 15-inch screen, i3 processor, and rtx 3080 GPU",windows,16gb,15,i3,rtx 3080,112654,yes
+user7785,+91 8702767713,asus,"asus laptop with 4gb RAM, 17-inch screen, ryzen 9 processor, and gtx 1050 GPU",windows,4gb,17,ryzen 9,gtx 1050,54944,yes
+user6059,+91 7543839582,mi,"mi laptop with 2gb RAM, 14-inch screen, ryzen 3 processor, and rtx 3070 GPU",linux,2gb,14,ryzen 3,rtx 3070,37369,no
+user7612,+91 9299129156,acer,"acer laptop with 16gb RAM, 17-inch screen, i7 processor, and rtx 3060 GPU",linux,16gb,17,i7,rtx 3060,135845,no
+user3761,+91 7463742464,lenovo,"lenovo laptop with 16gb RAM, 15-inch screen, i3 processor, and rtx 3080 GPU",windows,16gb,15,i3,rtx 3080,134194,yes
+user1314,+91 7464079439,asus,"asus laptop with 16gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3070 GPU",windows,16gb,13,ryzen 9,rtx 3070,101288,no
+user5670,+91 9732967441,mi,"mi laptop with 4gb RAM, 14-inch screen, ryzen 9 processor, and rtx 2060 GPU",windows,4gb,14,ryzen 9,rtx 2060,52294,yes
+user1221,+91 7665195687,apple,"apple laptop with 32gb RAM, 13-inch screen, i3 processor, and rtx 3080 GPU",macos,32gb,13,i3,rtx 3080,252062,yes
+user2313,+91 7052561585,acer,"acer laptop with 8gb RAM, 15-inch screen, i5 processor, and rtx 3070 GPU",windows,8gb,15,i5,rtx 3070,63353,no
+user4577,+91 7344171555,apple,"apple laptop with 16gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,16gb,13,ryzen 3,rtx 3060,163000,no
+user5600,+91 8258722527,hp,"hp laptop with 8gb RAM, 13-inch screen, ryzen 7 processor, and rtx 2060 GPU",macos,8gb,13,ryzen 7,rtx 2060,98817,no
+user7765,+91 8457936168,lenovo,"lenovo laptop with 16gb RAM, 15-inch screen, i9 processor, and rtx 3080 GPU",linux,16gb,15,i9,rtx 3080,171496,no
+user1049,+91 7610462092,apple,"apple laptop with 16gb RAM, 16-inch screen, ryzen 7 processor, and rtx 3070 GPU",macos,16gb,16,ryzen 7,rtx 3070,172000,no
+user2723,+91 8116171688,apple,"apple laptop with 2gb RAM, 16-inch screen, i3 processor, and rtx 3080 GPU",macos,2gb,16,i3,rtx 3080,171000,no
+user2643,+91 8747305578,lenovo,"lenovo laptop with 8gb RAM, 17-inch screen, i7 processor, and rtx 3080 GPU",linux,8gb,17,i7,rtx 3080,103325,no
+user2609,+91 8750573454,acer,"acer laptop with 4gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,4gb,17,ryzen 7,rtx 3080,61618,no
+user1673,+91 7418670286,hp,"hp laptop with 32gb RAM, 17-inch screen, i7 processor, and rtx 3060 GPU",linux,32gb,17,i7,rtx 3060,192806,yes
+user5201,+91 9663978888,hp,"hp laptop with 8gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3080 GPU",windows,8gb,13,ryzen 3,rtx 3080,95611,yes
+user4985,+91 8567551009,apple,"apple laptop with 4gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,4gb,15,ryzen 7,rtx 3080,173000,no
+user8858,+91 8363767669,lenovo,"lenovo laptop with 4gb RAM, 13-inch screen, i9 processor, and rtx 3060 GPU",windows,4gb,13,i9,rtx 3060,47565,no
+user4497,+91 7629094313,mi,"mi laptop with 2gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1650 GPU",windows,2gb,17,ryzen 3,gtx 1650,34194,yes
+user8972,+91 8346863417,apple,"apple laptop with 8gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3070 GPU",macos,8gb,16,ryzen 9,rtx 3070,174000,no
+user7549,+91 8215158234,acer,"acer laptop with 4gb RAM, 16-inch screen, i5 processor, and rtx 3070 GPU",linux,4gb,16,i5,rtx 3070,64235,yes
+user1713,+91 7664869663,acer,"acer laptop with 2gb RAM, 15-inch screen, i3 processor, and rtx 3070 GPU",linux,2gb,15,i3,rtx 3070,42188,yes
+user9206,+91 9553394935,mi,"mi laptop with 16gb RAM, 17-inch screen, i9 processor, and rtx 2060 GPU",linux,16gb,17,i9,rtx 2060,128600,yes
+user3026,+91 9246232765,mi,"mi laptop with 16gb RAM, 15-inch screen, i7 processor, and rtx 3060 GPU",linux,16gb,15,i7,rtx 3060,99484,yes
+user9588,+91 7813521977,mi,"mi laptop with 4gb RAM, 13-inch screen, i7 processor, and rtx 3080 GPU",linux,4gb,13,i7,rtx 3080,57295,yes
+user9723,+91 7618850697,acer,"acer laptop with 2gb RAM, 13-inch screen, i7 processor, and rtx 3070 GPU",macos,2gb,13,i7,rtx 3070,40930,no
+user7062,+91 8000719724,apple,"apple laptop with 32gb RAM, 15-inch screen, i9 processor, and rtx 3060 GPU",macos,32gb,15,i9,rtx 3060,217360,yes
+user1871,+91 9613458659,apple,"apple laptop with 4gb RAM, 16-inch screen, i5 processor, and rtx 3060 GPU",macos,4gb,16,i5,rtx 3060,169000,yes
+user7265,+91 9119407308,hp,"hp laptop with 2gb RAM, 14-inch screen, ryzen 3 processor, and rtx 3060 GPU",linux,2gb,14,ryzen 3,rtx 3060,36113,no
+user9225,+91 8884951614,apple,"apple laptop with 2gb RAM, 14-inch screen, i9 processor, and gtx 1050 GPU",macos,2gb,14,i9,gtx 1050,165000,yes
+user3264,+91 7039809852,lenovo,"lenovo laptop with 4gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3070 GPU",macos,4gb,14,ryzen 5,rtx 3070,61686,no
+user8034,+91 9219156396,mi,"mi laptop with 16gb RAM, 13-inch screen, i7 processor, and rtx 3060 GPU",windows,16gb,13,i7,rtx 3060,175164,yes
+user2702,+91 8825078790,lenovo,"lenovo laptop with 32gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1050 GPU",macos,32gb,17,ryzen 3,gtx 1050,227899,no
+user4831,+91 9422237238,asus,"asus laptop with 4gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,4gb,13,ryzen 7,rtx 3080,50983,no
+user7900,+91 9156760966,mi,"mi laptop with 4gb RAM, 17-inch screen, ryzen 9 processor, and gtx 1650 GPU",macos,4gb,17,ryzen 9,gtx 1650,51868,yes
+user5206,+91 7484513687,asus,"asus laptop with 32gb RAM, 13-inch screen, i7 processor, and gtx 1650 GPU",macos,32gb,13,i7,gtx 1650,258691,yes
+user4476,+91 7622275708,mi,"mi laptop with 4gb RAM, 14-inch screen, i3 processor, and gtx 1650 GPU",windows,4gb,14,i3,gtx 1650,48675,no
+user1917,+91 7557788579,hp,"hp laptop with 2gb RAM, 17-inch screen, i7 processor, and rtx 3080 GPU",linux,2gb,17,i7,rtx 3080,47422,yes
+user9893,+91 8831161083,acer,"acer laptop with 32gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3080 GPU",linux,32gb,14,ryzen 5,rtx 3080,248787,no
+user5969,+91 8312894363,lenovo,"lenovo laptop with 2gb RAM, 15-inch screen, ryzen 5 processor, and rtx 2060 GPU",macos,2gb,15,ryzen 5,rtx 2060,36807,no
+user3205,+91 7350152166,mi,"mi laptop with 2gb RAM, 16-inch screen, ryzen 7 processor, and rtx 3070 GPU",linux,2gb,16,ryzen 7,rtx 3070,48460,yes
+user8123,+91 7948371575,acer,"acer laptop with 16gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3080 GPU",linux,16gb,16,ryzen 3,rtx 3080,116493,no
+user9891,+91 8245231475,acer,"acer laptop with 2gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,2gb,15,ryzen 3,rtx 3060,39881,yes
+user9379,+91 8770697128,mi,"mi laptop with 4gb RAM, 16-inch screen, i5 processor, and rtx 3080 GPU",windows,4gb,16,i5,rtx 3080,59825,no
+user1256,+91 7629093122,hp,"hp laptop with 16gb RAM, 13-inch screen, ryzen 5 processor, and rtx 3070 GPU",windows,16gb,13,ryzen 5,rtx 3070,170424,no
+user1276,+91 7017942089,acer,"acer laptop with 8gb RAM, 17-inch screen, i5 processor, and rtx 2060 GPU",windows,8gb,17,i5,rtx 2060,104946,yes
+user1531,+91 7660257399,asus,"asus laptop with 2gb RAM, 15-inch screen, ryzen 9 processor, and rtx 3060 GPU",macos,2gb,15,ryzen 9,rtx 3060,43769,yes
+user7679,+91 7499747973,hp,"hp laptop with 32gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3070 GPU",linux,32gb,16,ryzen 3,rtx 3070,247091,no
+user7679,+91 7443840036,acer,"acer laptop with 4gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3060 GPU",windows,4gb,17,ryzen 7,rtx 3060,60572,yes
+user4144,+91 9437860070,hp,"hp laptop with 16gb RAM, 17-inch screen, ryzen 9 processor, and rtx 2060 GPU",windows,16gb,17,ryzen 9,rtx 2060,103914,no
+user4054,+91 9124416528,lenovo,"lenovo laptop with 4gb RAM, 17-inch screen, i3 processor, and rtx 2060 GPU",linux,4gb,17,i3,rtx 2060,46608,no
+user4968,+91 7860294667,mi,"mi laptop with 32gb RAM, 13-inch screen, i5 processor, and gtx 1650 GPU",macos,32gb,13,i5,gtx 1650,267100,yes
+user1690,+91 7830860422,acer,"acer laptop with 2gb RAM, 13-inch screen, i5 processor, and rtx 3070 GPU",linux,2gb,13,i5,rtx 3070,38321,yes
+user1476,+91 9307027894,hp,"hp laptop with 16gb RAM, 13-inch screen, ryzen 5 processor, and rtx 2060 GPU",windows,16gb,13,ryzen 5,rtx 2060,131897,no
+user9500,+91 9719866420,asus,"asus laptop with 2gb RAM, 16-inch screen, i9 processor, and rtx 3060 GPU",macos,2gb,16,i9,rtx 3060,44548,no
+user5047,+91 8128409424,lenovo,"lenovo laptop with 8gb RAM, 17-inch screen, i5 processor, and rtx 3060 GPU",linux,8gb,17,i5,rtx 3060,62766,no
+user9214,+91 8751147348,asus,"asus laptop with 2gb RAM, 17-inch screen, i3 processor, and rtx 3060 GPU",linux,2gb,17,i3,rtx 3060,42402,no
+user7806,+91 9356046078,hp,"hp laptop with 32gb RAM, 16-inch screen, i5 processor, and rtx 3060 GPU",linux,32gb,16,i5,rtx 3060,285760,no
+user4591,+91 7995652679,acer,"acer laptop with 4gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3060 GPU",windows,4gb,16,ryzen 3,rtx 3060,53934,yes
+user1273,+91 7545079900,hp,"hp laptop with 32gb RAM, 17-inch screen, i9 processor, and gtx 1050 GPU",windows,32gb,17,i9,gtx 1050,239482,yes
+user6026,+91 8178302758,acer,"acer laptop with 8gb RAM, 15-inch screen, ryzen 5 processor, and rtx 2060 GPU",windows,8gb,15,ryzen 5,rtx 2060,103274,yes
+user5550,+91 9938104291,mi,"mi laptop with 4gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,4gb,17,ryzen 5,rtx 3080,63636,no
+user5663,+91 9152525112,hp,"hp laptop with 4gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3060 GPU",macos,4gb,14,ryzen 9,rtx 3060,54088,yes
+user5136,+91 8751923409,lenovo,"lenovo laptop with 32gb RAM, 16-inch screen, ryzen 5 processor, and rtx 3060 GPU",linux,32gb,16,ryzen 5,rtx 3060,243444,yes
+user2138,+91 9748357995,lenovo,"lenovo laptop with 4gb RAM, 16-inch screen, ryzen 9 processor, and gtx 1050 GPU",macos,4gb,16,ryzen 9,gtx 1050,49463,no
+user2977,+91 9251191631,acer,"acer laptop with 8gb RAM, 15-inch screen, i9 processor, and rtx 3080 GPU",macos,8gb,15,i9,rtx 3080,106106,no
+user3878,+91 7852755363,apple,"apple laptop with 32gb RAM, 13-inch screen, i9 processor, and rtx 3080 GPU",macos,32gb,13,i9,rtx 3080,238349,yes
+user4120,+91 9623549694,asus,"asus laptop with 8gb RAM, 17-inch screen, ryzen 9 processor, and rtx 3080 GPU",windows,8gb,17,ryzen 9,rtx 3080,72175,yes
+user4720,+91 7124251219,mi,"mi laptop with 4gb RAM, 14-inch screen, ryzen 3 processor, and gtx 1650 GPU",macos,4gb,14,ryzen 3,gtx 1650,46700,yes
+user3326,+91 7445928611,acer,"acer laptop with 32gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3070 GPU",macos,32gb,17,ryzen 5,rtx 3070,241688,no
+user4944,+91 7097503783,mi,"mi laptop with 16gb RAM, 15-inch screen, ryzen 7 processor, and gtx 1050 GPU",macos,16gb,15,ryzen 7,gtx 1050,116239,no
+user5649,+91 9661187435,lenovo,"lenovo laptop with 32gb RAM, 13-inch screen, i3 processor, and rtx 3080 GPU",linux,32gb,13,i3,rtx 3080,188253,no
+user8620,+91 9887300320,hp,"hp laptop with 8gb RAM, 14-inch screen, i7 processor, and rtx 3070 GPU",linux,8gb,14,i7,rtx 3070,92696,no
+user9384,+91 7852562542,hp,"hp laptop with 4gb RAM, 14-inch screen, i3 processor, and gtx 1050 GPU",macos,4gb,14,i3,gtx 1050,53804,yes
+user8226,+91 9957319773,mi,"mi laptop with 32gb RAM, 17-inch screen, i7 processor, and gtx 1650 GPU",windows,32gb,17,i7,gtx 1650,261779,no
+user6679,+91 7546628543,apple,"apple laptop with 16gb RAM, 14-inch screen, i3 processor, and rtx 3060 GPU",macos,16gb,14,i3,rtx 3060,165000,yes
+user5554,+91 9470012344,hp,"hp laptop with 16gb RAM, 16-inch screen, ryzen 5 processor, and gtx 1650 GPU",macos,16gb,16,ryzen 5,gtx 1650,143998,no
+user1695,+91 8790517069,mi,"mi laptop with 2gb RAM, 16-inch screen, i7 processor, and gtx 1650 GPU",linux,2gb,16,i7,gtx 1650,37758,yes
+user3296,+91 7872914725,mi,"mi laptop with 32gb RAM, 14-inch screen, i5 processor, and gtx 1050 GPU",macos,32gb,14,i5,gtx 1050,280382,no
+user9444,+91 9116784042,acer,"acer laptop with 32gb RAM, 15-inch screen, ryzen 3 processor, and rtx 2060 GPU",windows,32gb,15,ryzen 3,rtx 2060,205092,yes
+user7470,+91 7350741217,apple,"apple laptop with 8gb RAM, 13-inch screen, i5 processor, and rtx 2060 GPU",macos,8gb,13,i5,rtx 2060,164000,yes
+user6510,+91 8073309036,hp,"hp laptop with 8gb RAM, 16-inch screen, i9 processor, and gtx 1650 GPU",linux,8gb,16,i9,gtx 1650,62508,yes
+user1079,+91 7671549514,lenovo,"lenovo laptop with 4gb RAM, 17-inch screen, ryzen 9 processor, and gtx 1050 GPU",windows,4gb,17,ryzen 9,gtx 1050,48210,no
+user5101,+91 8329860041,mi,"mi laptop with 16gb RAM, 15-inch screen, i3 processor, and gtx 1650 GPU",windows,16gb,15,i3,gtx 1650,126502,yes
+user1583,+91 9146161630,asus,"asus laptop with 4gb RAM, 15-inch screen, i7 processor, and rtx 3080 GPU",macos,4gb,15,i7,rtx 3080,60609,yes
+user1627,+91 8099629302,acer,"acer laptop with 8gb RAM, 17-inch screen, ryzen 7 processor, and gtx 1050 GPU",windows,8gb,17,ryzen 7,gtx 1050,79299,no
+user2170,+91 8081526681,acer,"acer laptop with 8gb RAM, 13-inch screen, i3 processor, and gtx 1650 GPU",windows,8gb,13,i3,gtx 1650,124627,no
+user7981,+91 8758010020,mi,"mi laptop with 2gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3060 GPU",windows,2gb,16,ryzen 9,rtx 3060,45590,no
+user2017,+91 9457069897,apple,"apple laptop with 16gb RAM, 17-inch screen, ryzen 3 processor, and rtx 3080 GPU",macos,16gb,17,ryzen 3,rtx 3080,171000,yes
+user4299,+91 7575233391,mi,"mi laptop with 2gb RAM, 17-inch screen, i9 processor, and gtx 1050 GPU",macos,2gb,17,i9,gtx 1050,43698,yes
+user6141,+91 8723539795,lenovo,"lenovo laptop with 2gb RAM, 17-inch screen, i5 processor, and gtx 1050 GPU",macos,2gb,17,i5,gtx 1050,35041,no
+user4713,+91 7272664122,asus,"asus laptop with 4gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3070 GPU",macos,4gb,16,ryzen 3,rtx 3070,56655,yes
+user3455,+91 8590293852,apple,"apple laptop with 8gb RAM, 13-inch screen, i5 processor, and rtx 2060 GPU",macos,8gb,13,i5,rtx 2060,164000,no
+user6877,+91 8739377635,hp,"hp laptop with 2gb RAM, 16-inch screen, i9 processor, and gtx 1650 GPU",linux,2gb,16,i9,gtx 1650,41808,no
+user7215,+91 8739439959,acer,"acer laptop with 2gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3060 GPU",linux,2gb,13,ryzen 9,rtx 3060,40611,yes
+user2023,+91 8472570761,mi,"mi laptop with 32gb RAM, 14-inch screen, i9 processor, and rtx 2060 GPU",windows,32gb,14,i9,rtx 2060,199999,no
+user2619,+91 9432235393,acer,"acer laptop with 4gb RAM, 13-inch screen, i3 processor, and gtx 1650 GPU",macos,4gb,13,i3,gtx 1650,54507,yes
+user9790,+91 9341203939,acer,"acer laptop with 16gb RAM, 14-inch screen, i3 processor, and gtx 1650 GPU",linux,16gb,14,i3,gtx 1650,87635,no
+user8173,+91 8867180174,asus,"asus laptop with 8gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3070 GPU",linux,8gb,13,ryzen 3,rtx 3070,134548,no
+user7213,+91 7830189028,lenovo,"lenovo laptop with 2gb RAM, 14-inch screen, ryzen 3 processor, and gtx 1650 GPU",windows,2gb,14,ryzen 3,gtx 1650,33349,yes
+user5636,+91 8205447845,asus,"asus laptop with 4gb RAM, 15-inch screen, i3 processor, and rtx 2060 GPU",macos,4gb,15,i3,rtx 2060,41492,yes
+user9894,+91 7026185802,mi,"mi laptop with 16gb RAM, 14-inch screen, ryzen 3 processor, and rtx 3070 GPU",windows,16gb,14,ryzen 3,rtx 3070,118259,no
+user1678,+91 8128190562,hp,"hp laptop with 32gb RAM, 16-inch screen, i3 processor, and rtx 2060 GPU",windows,32gb,16,i3,rtx 2060,188122,no
+user4876,+91 9307625924,acer,"acer laptop with 4gb RAM, 13-inch screen, i7 processor, and gtx 1650 GPU",windows,4gb,13,i7,gtx 1650,50157,no
+user5853,+91 8113921936,asus,"asus laptop with 4gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3070 GPU",linux,4gb,14,ryzen 9,rtx 3070,66652,no
+user4099,+91 8181110044,mi,"mi laptop with 16gb RAM, 13-inch screen, i9 processor, and rtx 3080 GPU",macos,16gb,13,i9,rtx 3080,113000,yes
+user6987,+91 8538762850,acer,"acer laptop with 4gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3060 GPU",linux,4gb,13,ryzen 7,rtx 3060,59938,no
+user3987,+91 9758000067,lenovo,"lenovo laptop with 32gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3070 GPU",linux,32gb,17,ryzen 7,rtx 3070,204627,no
+user9207,+91 7192791538,mi,"mi laptop with 4gb RAM, 16-inch screen, ryzen 5 processor, and rtx 2060 GPU",macos,4gb,16,ryzen 5,rtx 2060,50536,no
+user7016,+91 8621776119,mi,"mi laptop with 16gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3060 GPU",windows,16gb,13,ryzen 7,rtx 3060,81252,yes
+user6300,+91 7886633235,apple,"apple laptop with 2gb RAM, 14-inch screen, ryzen 3 processor, and rtx 2060 GPU",macos,2gb,14,ryzen 3,rtx 2060,162000,no
+user6058,+91 9583728061,asus,"asus laptop with 8gb RAM, 16-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,8gb,16,ryzen 7,rtx 3080,72344,yes
+user2893,+91 8928670273,mi,"mi laptop with 16gb RAM, 14-inch screen, ryzen 5 processor, and gtx 1650 GPU",linux,16gb,14,ryzen 5,gtx 1650,100993,no
+user5664,+91 7262986947,apple,"apple laptop with 32gb RAM, 16-inch screen, i3 processor, and rtx 3060 GPU",macos,32gb,16,i3,rtx 3060,260798,no
+user5058,+91 7274850242,lenovo,"lenovo laptop with 4gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3080 GPU",windows,4gb,13,ryzen 9,rtx 3080,65359,yes
+user7683,+91 8879892688,acer,"acer laptop with 16gb RAM, 17-inch screen, i7 processor, and rtx 3070 GPU",linux,16gb,17,i7,rtx 3070,98586,no
+user4129,+91 9124651416,apple,"apple laptop with 4gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3070 GPU",macos,4gb,17,ryzen 5,rtx 3070,171000,no
+user4155,+91 7534986531,apple,"apple laptop with 4gb RAM, 17-inch screen, i3 processor, and gtx 1050 GPU",macos,4gb,17,i3,gtx 1050,162000,no
+user5583,+91 8167396426,apple,"apple laptop with 8gb RAM, 14-inch screen, i9 processor, and gtx 1050 GPU",macos,8gb,14,i9,gtx 1050,165000,no
+user5126,+91 8908042442,mi,"mi laptop with 4gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3060 GPU",macos,4gb,14,ryzen 9,rtx 3060,59212,no
+user3742,+91 8592014212,asus,"asus laptop with 8gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3080 GPU",windows,8gb,13,ryzen 7,rtx 3080,65234,yes
+user4141,+91 7756742119,asus,"asus laptop with 4gb RAM, 17-inch screen, ryzen 7 processor, and gtx 1650 GPU",windows,4gb,17,ryzen 7,gtx 1650,53450,yes
+user3676,+91 9909263503,mi,"mi laptop with 32gb RAM, 14-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,32gb,14,ryzen 3,rtx 3060,200563,yes
+user1319,+91 7542811544,mi,"mi laptop with 32gb RAM, 16-inch screen, i9 processor, and rtx 3080 GPU",windows,32gb,16,i9,rtx 3080,283980,no
+user9098,+91 9545397986,lenovo,"lenovo laptop with 2gb RAM, 16-inch screen, i7 processor, and rtx 3060 GPU",windows,2gb,16,i7,rtx 3060,44805,no
+user7353,+91 8670310128,mi,"mi laptop with 2gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3060 GPU",windows,2gb,13,ryzen 9,rtx 3060,43990,no
+user4116,+91 8550972356,lenovo,"lenovo laptop with 2gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3080 GPU",windows,2gb,17,ryzen 7,rtx 3080,51935,yes
+user1596,+91 9774486242,asus,"asus laptop with 16gb RAM, 15-inch screen, i7 processor, and gtx 1050 GPU",macos,16gb,15,i7,gtx 1050,152718,yes
+user1498,+91 8250071222,asus,"asus laptop with 4gb RAM, 15-inch screen, i9 processor, and rtx 3070 GPU",linux,4gb,15,i9,rtx 3070,68070,no
+user6509,+91 9588656030,asus,"asus laptop with 32gb RAM, 16-inch screen, i3 processor, and rtx 2060 GPU",linux,32gb,16,i3,rtx 2060,276347,no
+user1351,+91 8052216271,lenovo,"lenovo laptop with 8gb RAM, 16-inch screen, ryzen 7 processor, and gtx 1050 GPU",macos,8gb,16,ryzen 7,gtx 1050,58731,yes
+user5961,+91 7042372229,mi,"mi laptop with 4gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1650 GPU",linux,4gb,17,ryzen 3,gtx 1650,41553,yes
+user8220,+91 8352084190,asus,"asus laptop with 8gb RAM, 13-inch screen, i5 processor, and rtx 3060 GPU",macos,8gb,13,i5,rtx 3060,78753,yes
+user6555,+91 7521869563,hp,"hp laptop with 32gb RAM, 16-inch screen, ryzen 7 processor, and rtx 3070 GPU",macos,32gb,16,ryzen 7,rtx 3070,261259,yes
+user2265,+91 7164060928,acer,"acer laptop with 8gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1650 GPU",windows,8gb,17,ryzen 3,gtx 1650,95711,yes
+user4637,+91 8982437013,mi,"mi laptop with 4gb RAM, 15-inch screen, ryzen 9 processor, and rtx 3080 GPU",linux,4gb,15,ryzen 9,rtx 3080,62959,no
+user2653,+91 9212417586,mi,"mi laptop with 2gb RAM, 14-inch screen, ryzen 3 processor, and rtx 2060 GPU",windows,2gb,14,ryzen 3,rtx 2060,34760,yes
+user1269,+91 8650661309,mi,"mi laptop with 2gb RAM, 17-inch screen, ryzen 7 processor, and rtx 2060 GPU",windows,2gb,17,ryzen 7,rtx 2060,42049,yes
+user5065,+91 7110530400,hp,"hp laptop with 2gb RAM, 17-inch screen, i9 processor, and rtx 3070 GPU",macos,2gb,17,i9,rtx 3070,49493,no
+user9558,+91 8305150924,asus,"asus laptop with 4gb RAM, 14-inch screen, i7 processor, and gtx 1050 GPU",linux,4gb,14,i7,gtx 1050,51725,no
+user4728,+91 9490811831,asus,"asus laptop with 4gb RAM, 14-inch screen, ryzen 7 processor, and rtx 2060 GPU",linux,4gb,14,ryzen 7,rtx 2060,50640,yes
+user9380,+91 7889632260,mi,"mi laptop with 2gb RAM, 15-inch screen, ryzen 9 processor, and gtx 1050 GPU",linux,2gb,15,ryzen 9,gtx 1050,37008,yes
+user5653,+91 7545334698,mi,"mi laptop with 16gb RAM, 13-inch screen, i3 processor, and rtx 2060 GPU",windows,16gb,13,i3,rtx 2060,127190,yes
+user4475,+91 9493250685,lenovo,"lenovo laptop with 16gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3060 GPU",windows,16gb,16,ryzen 9,rtx 3060,120369,no
+user1421,+91 8206649933,hp,"hp laptop with 2gb RAM, 17-inch screen, ryzen 3 processor, and rtx 2060 GPU",linux,2gb,17,ryzen 3,rtx 2060,41269,no
+user4512,+91 9916266657,mi,"mi laptop with 16gb RAM, 16-inch screen, i5 processor, and rtx 3080 GPU",macos,16gb,16,i5,rtx 3080,91766,no
+user2140,+91 7374118187,acer,"acer laptop with 8gb RAM, 16-inch screen, i9 processor, and rtx 3070 GPU",macos,8gb,16,i9,rtx 3070,144394,no
+user9248,+91 7043843122,asus,"asus laptop with 16gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3070 GPU",linux,16gb,14,ryzen 5,rtx 3070,133658,no
+user3324,+91 9298558755,asus,"asus laptop with 4gb RAM, 16-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,4gb,16,ryzen 5,rtx 3080,63292,yes
+user5324,+91 9565821043,mi,"mi laptop with 32gb RAM, 16-inch screen, ryzen 5 processor, and rtx 3060 GPU",macos,32gb,16,ryzen 5,rtx 3060,209394,yes
+user9656,+91 9978085564,mi,"mi laptop with 16gb RAM, 17-inch screen, ryzen 5 processor, and rtx 2060 GPU",linux,16gb,17,ryzen 5,rtx 2060,171092,yes
+user9762,+91 9016645983,lenovo,"lenovo laptop with 2gb RAM, 16-inch screen, i5 processor, and rtx 3070 GPU",linux,2gb,16,i5,rtx 3070,47880,yes
+user5355,+91 8437529022,apple,"apple laptop with 4gb RAM, 16-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,4gb,16,ryzen 7,rtx 3080,174000,yes
+user9176,+91 8826975794,asus,"asus laptop with 32gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3060 GPU",macos,32gb,14,ryzen 5,rtx 3060,229279,no
+user8414,+91 8298985862,apple,"apple laptop with 4gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3070 GPU",macos,4gb,17,ryzen 7,rtx 3070,173000,yes
+user6292,+91 9404967921,hp,"hp laptop with 16gb RAM, 13-inch screen, ryzen 7 processor, and gtx 1650 GPU",linux,16gb,13,ryzen 7,gtx 1650,100542,no
+user2537,+91 7745202059,asus,"asus laptop with 8gb RAM, 14-inch screen, i9 processor, and gtx 1650 GPU",windows,8gb,14,i9,gtx 1650,124675,yes
+user3162,+91 9169105581,hp,"hp laptop with 2gb RAM, 13-inch screen, i3 processor, and rtx 3070 GPU",macos,2gb,13,i3,rtx 3070,42467,no
+user3071,+91 7631875493,apple,"apple laptop with 4gb RAM, 17-inch screen, ryzen 9 processor, and rtx 3060 GPU",macos,4gb,17,ryzen 9,rtx 3060,173000,no
+user2124,+91 8523205606,asus,"asus laptop with 32gb RAM, 15-inch screen, i9 processor, and gtx 1650 GPU",linux,32gb,15,i9,gtx 1650,208027,no
+user7912,+91 8024990720,acer,"acer laptop with 4gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3060 GPU",windows,4gb,14,ryzen 9,rtx 3060,60055,no
+user9511,+91 7981254788,hp,"hp laptop with 2gb RAM, 16-inch screen, ryzen 9 processor, and rtx 2060 GPU",macos,2gb,16,ryzen 9,rtx 2060,45664,yes
+user8531,+91 9199731152,asus,"asus laptop with 4gb RAM, 14-inch screen, i7 processor, and gtx 1650 GPU",macos,4gb,14,i7,gtx 1650,48804,no
+user5627,+91 9883524086,apple,"apple laptop with 32gb RAM, 17-inch screen, i5 processor, and rtx 3070 GPU",macos,32gb,17,i5,rtx 3070,194677,no
+user1490,+91 7751142735,hp,"hp laptop with 4gb RAM, 15-inch screen, i9 processor, and rtx 3080 GPU",macos,4gb,15,i9,rtx 3080,66615,yes
+user7749,+91 9627093844,lenovo,"lenovo laptop with 8gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3060 GPU",windows,8gb,14,ryzen 9,rtx 3060,79654,yes
+user9541,+91 9974914044,asus,"asus laptop with 32gb RAM, 16-inch screen, ryzen 5 processor, and gtx 1050 GPU",linux,32gb,16,ryzen 5,gtx 1050,265840,yes
+user7575,+91 7678714227,apple,"apple laptop with 8gb RAM, 16-inch screen, i9 processor, and rtx 3070 GPU",macos,8gb,16,i9,rtx 3070,175000,yes
+user2132,+91 9747809087,apple,"apple laptop with 16gb RAM, 14-inch screen, i9 processor, and rtx 3060 GPU",macos,16gb,14,i9,rtx 3060,171000,no
+user2867,+91 7476057875,asus,"asus laptop with 4gb RAM, 15-inch screen, i7 processor, and rtx 3060 GPU",macos,4gb,15,i7,rtx 3060,61473,yes
+user3211,+91 9740050345,mi,"mi laptop with 8gb RAM, 17-inch screen, i5 processor, and gtx 1650 GPU",macos,8gb,17,i5,gtx 1650,64869,yes
+user3992,+91 9995041179,mi,"mi laptop with 8gb RAM, 16-inch screen, i7 processor, and gtx 1050 GPU",macos,8gb,16,i7,gtx 1050,90347,yes
+user3781,+91 9886636724,asus,"asus laptop with 4gb RAM, 14-inch screen, i7 processor, and rtx 3080 GPU",macos,4gb,14,i7,rtx 3080,63507,no
+user8264,+91 8284301581,lenovo,"lenovo laptop with 2gb RAM, 15-inch screen, ryzen 9 processor, and rtx 3060 GPU",macos,2gb,15,ryzen 9,rtx 3060,44568,yes
+user8975,+91 8068041222,acer,"acer laptop with 8gb RAM, 15-inch screen, ryzen 9 processor, and rtx 2060 GPU",windows,8gb,15,ryzen 9,rtx 2060,126560,yes
+user3210,+91 8261133187,apple,"apple laptop with 2gb RAM, 15-inch screen, i9 processor, and gtx 1050 GPU",macos,2gb,15,i9,gtx 1050,166000,no
+user8187,+91 7344598280,apple,"apple laptop with 32gb RAM, 15-inch screen, i5 processor, and rtx 3070 GPU",macos,32gb,15,i5,rtx 3070,257273,no
+user9495,+91 7752545101,hp,"hp laptop with 2gb RAM, 16-inch screen, i5 processor, and gtx 1650 GPU",macos,2gb,16,i5,gtx 1650,37771,yes
+user1170,+91 7587542807,asus,"asus laptop with 16gb RAM, 14-inch screen, i3 processor, and rtx 2060 GPU",windows,16gb,14,i3,rtx 2060,91975,no
+user5445,+91 9069420161,lenovo,"lenovo laptop with 4gb RAM, 13-inch screen, i5 processor, and rtx 3070 GPU",linux,4gb,13,i5,rtx 3070,60060,yes
+user8340,+91 9624043876,hp,"hp laptop with 8gb RAM, 16-inch screen, i3 processor, and rtx 3070 GPU",macos,8gb,16,i3,rtx 3070,72696,yes
+user7770,+91 8809980500,hp,"hp laptop with 8gb RAM, 16-inch screen, ryzen 7 processor, and gtx 1650 GPU",windows,8gb,16,ryzen 7,gtx 1650,116635,yes
+user8917,+91 7244954740,hp,"hp laptop with 8gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3070 GPU",macos,8gb,16,ryzen 3,rtx 3070,85526,no
+user6385,+91 8513151807,lenovo,"lenovo laptop with 4gb RAM, 15-inch screen, ryzen 9 processor, and rtx 3080 GPU",macos,4gb,15,ryzen 9,rtx 3080,62032,no
+user9631,+91 7058679034,asus,"asus laptop with 2gb RAM, 17-inch screen, ryzen 7 processor, and gtx 1650 GPU",macos,2gb,17,ryzen 7,gtx 1650,43578,no
+user5510,+91 8565960926,apple,"apple laptop with 8gb RAM, 17-inch screen, ryzen 5 processor, and gtx 1650 GPU",macos,8gb,17,ryzen 5,gtx 1650,165000,no
+user8511,+91 8462666220,mi,"mi laptop with 32gb RAM, 15-inch screen, ryzen 7 processor, and rtx 2060 GPU",windows,32gb,15,ryzen 7,rtx 2060,267488,yes
+user4066,+91 7538104284,apple,"apple laptop with 8gb RAM, 14-inch screen, i5 processor, and rtx 2060 GPU",macos,8gb,14,i5,rtx 2060,165000,yes
+user5210,+91 7239183023,apple,"apple laptop with 4gb RAM, 17-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,4gb,17,ryzen 3,rtx 3060,167000,yes
+user6102,+91 8894169148,mi,"mi laptop with 16gb RAM, 16-inch screen, i3 processor, and gtx 1650 GPU",linux,16gb,16,i3,gtx 1650,111371,yes
+user5419,+91 9529149276,mi,"mi laptop with 16gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3080 GPU",macos,16gb,14,ryzen 9,rtx 3080,148304,yes
+user8089,+91 9006138625,lenovo,"lenovo laptop with 32gb RAM, 13-inch screen, i3 processor, and gtx 1650 GPU",windows,32gb,13,i3,gtx 1650,221097,yes
+user7829,+91 9818920708,asus,"asus laptop with 4gb RAM, 14-inch screen, i7 processor, and rtx 2060 GPU",windows,4gb,14,i7,rtx 2060,54535,yes
+user3646,+91 8569108384,apple,"apple laptop with 16gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3070 GPU",macos,16gb,17,ryzen 5,rtx 3070,171000,yes
+user4016,+91 9726544417,hp,"hp laptop with 32gb RAM, 13-inch screen, ryzen 9 processor, and gtx 1650 GPU",macos,32gb,13,ryzen 9,gtx 1650,270491,no
+user5598,+91 9669586240,asus,"asus laptop with 16gb RAM, 13-inch screen, i5 processor, and gtx 1650 GPU",linux,16gb,13,i5,gtx 1650,74909,yes
+user8385,+91 8029957857,apple,"apple laptop with 32gb RAM, 15-inch screen, i7 processor, and gtx 1650 GPU",macos,32gb,15,i7,gtx 1650,261975,no
+user8002,+91 8362449158,hp,"hp laptop with 16gb RAM, 15-inch screen, i3 processor, and gtx 1650 GPU",macos,16gb,15,i3,gtx 1650,113293,yes
+user9500,+91 8903259814,acer,"acer laptop with 32gb RAM, 15-inch screen, i5 processor, and rtx 3060 GPU",windows,32gb,15,i5,rtx 3060,274882,yes
+user7713,+91 8250952865,asus,"asus laptop with 4gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3080 GPU",linux,4gb,14,ryzen 5,rtx 3080,61929,yes
+user3122,+91 9274972094,mi,"mi laptop with 16gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3080 GPU",windows,16gb,14,ryzen 9,rtx 3080,86376,yes
+user1940,+91 8781643458,hp,"hp laptop with 32gb RAM, 16-inch screen, ryzen 9 processor, and gtx 1650 GPU",macos,32gb,16,ryzen 9,gtx 1650,225034,no
+user7003,+91 8706713370,mi,"mi laptop with 32gb RAM, 14-inch screen, i5 processor, and gtx 1650 GPU",macos,32gb,14,i5,gtx 1650,226834,no
+user8652,+91 7633467252,acer,"acer laptop with 2gb RAM, 15-inch screen, i3 processor, and rtx 3080 GPU",linux,2gb,15,i3,rtx 3080,42132,yes
+user7746,+91 7380650998,mi,"mi laptop with 16gb RAM, 17-inch screen, ryzen 5 processor, and rtx 2060 GPU",macos,16gb,17,ryzen 5,rtx 2060,147014,yes
+user7678,+91 9703928461,hp,"hp laptop with 2gb RAM, 14-inch screen, i7 processor, and gtx 1050 GPU",macos,2gb,14,i7,gtx 1050,38021,no
+user2681,+91 7095419853,hp,"hp laptop with 2gb RAM, 15-inch screen, i9 processor, and gtx 1650 GPU",macos,2gb,15,i9,gtx 1650,42503,no
+user3065,+91 9501154232,asus,"asus laptop with 2gb RAM, 17-inch screen, i5 processor, and gtx 1650 GPU",windows,2gb,17,i5,gtx 1650,36363,yes
+user4370,+91 7386817445,mi,"mi laptop with 16gb RAM, 17-inch screen, i3 processor, and rtx 3060 GPU",linux,16gb,17,i3,rtx 3060,87265,no
+user2779,+91 8758312872,hp,"hp laptop with 4gb RAM, 13-inch screen, ryzen 7 processor, and gtx 1050 GPU",macos,4gb,13,ryzen 7,gtx 1050,48660,no
+user1162,+91 7318432880,hp,"hp laptop with 2gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3080 GPU",linux,2gb,17,ryzen 5,rtx 3080,44444,yes
+user7654,+91 8692414024,lenovo,"lenovo laptop with 2gb RAM, 15-inch screen, ryzen 9 processor, and rtx 3060 GPU",macos,2gb,15,ryzen 9,rtx 3060,41490,no
+user2981,+91 7365264133,apple,"apple laptop with 8gb RAM, 15-inch screen, i3 processor, and gtx 1650 GPU",macos,8gb,15,i3,gtx 1650,162000,no
+user6012,+91 9002132307,acer,"acer laptop with 16gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3060 GPU",windows,16gb,14,ryzen 9,rtx 3060,84929,no
+user2227,+91 8178548851,asus,"asus laptop with 16gb RAM, 16-inch screen, i9 processor, and rtx 3060 GPU",macos,16gb,16,i9,rtx 3060,106268,no
+user5366,+91 9113084039,hp,"hp laptop with 4gb RAM, 14-inch screen, i7 processor, and rtx 3060 GPU",linux,4gb,14,i7,rtx 3060,57888,no
+user4404,+91 7478689052,mi,"mi laptop with 2gb RAM, 17-inch screen, i9 processor, and gtx 1650 GPU",windows,2gb,17,i9,gtx 1650,43714,no
+user9448,+91 9960302791,hp,"hp laptop with 2gb RAM, 17-inch screen, i5 processor, and rtx 3060 GPU",linux,2gb,17,i5,rtx 3060,41488,no
+user1837,+91 9733524631,apple,"apple laptop with 16gb RAM, 15-inch screen, i9 processor, and rtx 3080 GPU",macos,16gb,15,i9,rtx 3080,176000,no
+user7402,+91 7512127254,apple,"apple laptop with 8gb RAM, 15-inch screen, i9 processor, and rtx 3080 GPU",macos,8gb,15,i9,rtx 3080,176000,no
+user9274,+91 9880645970,hp,"hp laptop with 8gb RAM, 16-inch screen, i5 processor, and rtx 3060 GPU",macos,8gb,16,i5,rtx 3060,85804,no
+user7622,+91 7863423434,lenovo,"lenovo laptop with 16gb RAM, 15-inch screen, i3 processor, and gtx 1650 GPU",windows,16gb,15,i3,gtx 1650,155903,no
+user7996,+91 9206020052,mi,"mi laptop with 16gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,16gb,15,ryzen 3,rtx 3060,137944,yes
+user5411,+91 8363598292,acer,"acer laptop with 32gb RAM, 14-inch screen, i7 processor, and gtx 1050 GPU",linux,32gb,14,i7,gtx 1050,281964,no
+user8301,+91 8632451246,asus,"asus laptop with 8gb RAM, 16-inch screen, i5 processor, and rtx 3060 GPU",windows,8gb,16,i5,rtx 3060,82677,no
+user7173,+91 7149107146,mi,"mi laptop with 4gb RAM, 17-inch screen, i3 processor, and rtx 3070 GPU",macos,4gb,17,i3,rtx 3070,56554,no
+user7630,+91 9296852542,mi,"mi laptop with 8gb RAM, 13-inch screen, i7 processor, and rtx 3060 GPU",windows,8gb,13,i7,rtx 3060,96813,no
+user7401,+91 7141173952,hp,"hp laptop with 16gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3060 GPU",macos,16gb,14,ryzen 9,rtx 3060,140831,yes
+user1532,+91 8377543644,acer,"acer laptop with 16gb RAM, 16-inch screen, ryzen 3 processor, and rtx 2060 GPU",linux,16gb,16,ryzen 3,rtx 2060,96359,yes
+user7633,+91 9913335002,lenovo,"lenovo laptop with 8gb RAM, 13-inch screen, i5 processor, and gtx 1050 GPU",linux,8gb,13,i5,gtx 1050,123106,yes
+user8253,+91 8049300360,asus,"asus laptop with 8gb RAM, 17-inch screen, i7 processor, and rtx 2060 GPU",linux,8gb,17,i7,rtx 2060,136255,no
+user1165,+91 8193689995,hp,"hp laptop with 8gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3060 GPU",windows,8gb,17,ryzen 7,rtx 3060,67466,no
+user5836,+91 9587289732,acer,"acer laptop with 4gb RAM, 15-inch screen, ryzen 3 processor, and gtx 1650 GPU",windows,4gb,15,ryzen 3,gtx 1650,42279,yes
+user2717,+91 8292593501,lenovo,"lenovo laptop with 32gb RAM, 13-inch screen, ryzen 7 processor, and rtx 2060 GPU",macos,32gb,13,ryzen 7,rtx 2060,221791,no
+user1778,+91 8379129859,asus,"asus laptop with 4gb RAM, 15-inch screen, ryzen 9 processor, and rtx 2060 GPU",macos,4gb,15,ryzen 9,rtx 2060,63662,no
+user4623,+91 7721905075,apple,"apple laptop with 2gb RAM, 13-inch screen, i3 processor, and rtx 3070 GPU",macos,2gb,13,i3,rtx 3070,166000,yes
+user3755,+91 8605173332,hp,"hp laptop with 16gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3070 GPU",windows,16gb,14,ryzen 9,rtx 3070,129305,no
+user2214,+91 9665114348,asus,"asus laptop with 32gb RAM, 17-inch screen, ryzen 7 processor, and rtx 2060 GPU",windows,32gb,17,ryzen 7,rtx 2060,184101,yes
+user6014,+91 9993121000,mi,"mi laptop with 2gb RAM, 13-inch screen, i5 processor, and gtx 1650 GPU",linux,2gb,13,i5,gtx 1650,37608,no
+user4777,+91 8205628825,asus,"asus laptop with 8gb RAM, 17-inch screen, i3 processor, and rtx 2060 GPU",linux,8gb,17,i3,rtx 2060,102305,yes
+user3684,+91 8905038131,acer,"acer laptop with 2gb RAM, 15-inch screen, i7 processor, and rtx 2060 GPU",linux,2gb,15,i7,rtx 2060,42350,yes
+user9321,+91 8552380950,hp,"hp laptop with 2gb RAM, 13-inch screen, i5 processor, and rtx 3070 GPU",linux,2gb,13,i5,rtx 3070,44660,no
+user1237,+91 8154055017,hp,"hp laptop with 16gb RAM, 14-inch screen, i7 processor, and rtx 3060 GPU",macos,16gb,14,i7,rtx 3060,128808,yes
+user4407,+91 9724336033,apple,"apple laptop with 8gb RAM, 16-inch screen, i7 processor, and rtx 3080 GPU",macos,8gb,16,i7,rtx 3080,175000,no
+user6214,+91 8859964793,apple,"apple laptop with 8gb RAM, 16-inch screen, i3 processor, and gtx 1650 GPU",macos,8gb,16,i3,gtx 1650,163000,yes
+user3754,+91 9980980124,acer,"acer laptop with 2gb RAM, 16-inch screen, ryzen 9 processor, and rtx 2060 GPU",linux,2gb,16,ryzen 9,rtx 2060,42288,yes
+user5725,+91 7434379013,apple,"apple laptop with 4gb RAM, 13-inch screen, i9 processor, and gtx 1650 GPU",macos,4gb,13,i9,gtx 1650,166000,no
+user6460,+91 8170291521,apple,"apple laptop with 8gb RAM, 17-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,8gb,17,ryzen 3,rtx 3060,167000,yes
+user6734,+91 9226323790,mi,"mi laptop with 32gb RAM, 16-inch screen, ryzen 7 processor, and rtx 2060 GPU",windows,32gb,16,ryzen 7,rtx 2060,180907,yes
+user7038,+91 7129634707,lenovo,"lenovo laptop with 2gb RAM, 16-inch screen, ryzen 5 processor, and gtx 1650 GPU",linux,2gb,16,ryzen 5,gtx 1650,38530,yes
+user8806,+91 8637477349,asus,"asus laptop with 32gb RAM, 17-inch screen, ryzen 9 processor, and rtx 3070 GPU",macos,32gb,17,ryzen 9,rtx 3070,252121,no
+user2501,+91 8159135601,apple,"apple laptop with 8gb RAM, 17-inch screen, ryzen 5 processor, and gtx 1650 GPU",macos,8gb,17,ryzen 5,gtx 1650,165000,yes
+user4411,+91 7074965762,mi,"mi laptop with 2gb RAM, 17-inch screen, i5 processor, and gtx 1650 GPU",linux,2gb,17,i5,gtx 1650,39564,yes
+user5187,+91 7330655932,hp,"hp laptop with 16gb RAM, 13-inch screen, i5 processor, and gtx 1650 GPU",macos,16gb,13,i5,gtx 1650,157845,yes
+user5567,+91 9995107438,acer,"acer laptop with 4gb RAM, 13-inch screen, ryzen 5 processor, and rtx 2060 GPU",linux,4gb,13,ryzen 5,rtx 2060,56740,no
+user2116,+91 7911729441,acer,"acer laptop with 2gb RAM, 13-inch screen, ryzen 3 processor, and gtx 1650 GPU",windows,2gb,13,ryzen 3,gtx 1650,35331,no
+user1024,+91 8464382007,asus,"asus laptop with 4gb RAM, 17-inch screen, i3 processor, and gtx 1050 GPU",windows,4gb,17,i3,gtx 1050,51339,yes
+user8088,+91 8229268050,mi,"mi laptop with 8gb RAM, 15-inch screen, i3 processor, and rtx 3060 GPU",linux,8gb,15,i3,rtx 3060,126263,yes
+user2068,+91 7113291461,acer,"acer laptop with 16gb RAM, 13-inch screen, i7 processor, and gtx 1050 GPU",linux,16gb,13,i7,gtx 1050,137618,no
+user9094,+91 7973806830,apple,"apple laptop with 32gb RAM, 17-inch screen, ryzen 9 processor, and gtx 1650 GPU",macos,32gb,17,ryzen 9,gtx 1650,212492,no
+user6924,+91 9409956946,apple,"apple laptop with 32gb RAM, 17-inch screen, ryzen 9 processor, and rtx 2060 GPU",macos,32gb,17,ryzen 9,rtx 2060,251988,yes
+user5208,+91 7615638889,acer,"acer laptop with 16gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3070 GPU",linux,16gb,16,ryzen 9,rtx 3070,85059,yes
+user8483,+91 9205359420,asus,"asus laptop with 4gb RAM, 13-inch screen, ryzen 7 processor, and gtx 1650 GPU",macos,4gb,13,ryzen 7,gtx 1650,43648,no
+user2023,+91 9039580929,lenovo,"lenovo laptop with 4gb RAM, 16-inch screen, i3 processor, and rtx 3070 GPU",macos,4gb,16,i3,rtx 3070,58626,yes
+user1343,+91 7605058554,acer,"acer laptop with 4gb RAM, 13-inch screen, i5 processor, and gtx 1050 GPU",macos,4gb,13,i5,gtx 1050,53381,yes
+user8904,+91 9174662617,apple,"apple laptop with 16gb RAM, 15-inch screen, i9 processor, and rtx 3080 GPU",macos,16gb,15,i9,rtx 3080,185226,yes
+user1405,+91 9648838731,mi,"mi laptop with 2gb RAM, 17-inch screen, ryzen 7 processor, and gtx 1050 GPU",macos,2gb,17,ryzen 7,gtx 1050,40943,yes
+user8212,+91 8491222994,mi,"mi laptop with 8gb RAM, 16-inch screen, i9 processor, and rtx 3070 GPU",windows,8gb,16,i9,rtx 3070,110048,no
+user5203,+91 8315982089,hp,"hp laptop with 2gb RAM, 15-inch screen, i5 processor, and rtx 3060 GPU",linux,2gb,15,i5,rtx 3060,42167,yes
+user1470,+91 8388089740,apple,"apple laptop with 32gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3060 GPU",macos,32gb,17,ryzen 5,rtx 3060,235720,no
+user8647,+91 7032269694,mi,"mi laptop with 32gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3060 GPU",windows,32gb,13,ryzen 3,rtx 3060,241090,no
+user7538,+91 8587448686,hp,"hp laptop with 4gb RAM, 14-inch screen, ryzen 3 processor, and rtx 3070 GPU",windows,4gb,14,ryzen 3,rtx 3070,49338,no
+user9329,+91 8336439450,acer,"acer laptop with 8gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3060 GPU",windows,8gb,13,ryzen 7,rtx 3060,107319,no
+user5812,+91 8233048099,apple,"apple laptop with 32gb RAM, 15-inch screen, i3 processor, and rtx 3060 GPU",macos,32gb,15,i3,rtx 3060,275348,no
+user8151,+91 9595372054,lenovo,"lenovo laptop with 4gb RAM, 17-inch screen, i7 processor, and rtx 3060 GPU",macos,4gb,17,i7,rtx 3060,60319,no
+user9774,+91 8780924228,acer,"acer laptop with 8gb RAM, 14-inch screen, i7 processor, and rtx 3080 GPU",linux,8gb,14,i7,rtx 3080,63461,no
+user7978,+91 8929119664,asus,"asus laptop with 16gb RAM, 15-inch screen, i7 processor, and rtx 3080 GPU",windows,16gb,15,i7,rtx 3080,104642,yes
+user8999,+91 8272894621,acer,"acer laptop with 32gb RAM, 15-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,32gb,15,ryzen 5,rtx 3080,289643,yes
+user8413,+91 8275432956,apple,"apple laptop with 32gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3070 GPU",macos,32gb,13,ryzen 3,rtx 3070,203647,no
+user2369,+91 9821059370,apple,"apple laptop with 32gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3070 GPU",macos,32gb,16,ryzen 9,rtx 3070,195456,no
+user9675,+91 7209704145,apple,"apple laptop with 8gb RAM, 16-inch screen, i9 processor, and gtx 1650 GPU",macos,8gb,16,i9,gtx 1650,169000,no
+user1691,+91 8429456837,hp,"hp laptop with 8gb RAM, 15-inch screen, i7 processor, and gtx 1050 GPU",macos,8gb,15,i7,gtx 1050,57618,yes
+user3524,+91 8070635666,acer,"acer laptop with 4gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3060 GPU",windows,4gb,16,ryzen 3,rtx 3060,51867,yes
+user5861,+91 8919758418,asus,"asus laptop with 2gb RAM, 14-inch screen, ryzen 3 processor, and rtx 2060 GPU",linux,2gb,14,ryzen 3,rtx 2060,38039,yes
+user3392,+91 9192032230,apple,"apple laptop with 32gb RAM, 13-inch screen, ryzen 5 processor, and gtx 1650 GPU",macos,32gb,13,ryzen 5,gtx 1650,182203,yes
+user4356,+91 8154457113,acer,"acer laptop with 2gb RAM, 14-inch screen, i9 processor, and rtx 3080 GPU",linux,2gb,14,i9,rtx 3080,46920,yes
+user3255,+91 8832931011,hp,"hp laptop with 32gb RAM, 14-inch screen, i5 processor, and rtx 2060 GPU",linux,32gb,14,i5,rtx 2060,216097,no
+user1023,+91 9719713171,acer,"acer laptop with 4gb RAM, 13-inch screen, ryzen 9 processor, and rtx 2060 GPU",macos,4gb,13,ryzen 9,rtx 2060,56437,no
+user6065,+91 8584552811,asus,"asus laptop with 2gb RAM, 15-inch screen, ryzen 5 processor, and gtx 1050 GPU",macos,2gb,15,ryzen 5,gtx 1050,35503,no
+user3694,+91 8775849619,acer,"acer laptop with 4gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3060 GPU",linux,4gb,15,ryzen 7,rtx 3060,48103,no
+user7649,+91 7687492605,lenovo,"lenovo laptop with 8gb RAM, 13-inch screen, i5 processor, and gtx 1650 GPU",macos,8gb,13,i5,gtx 1650,100662,yes
+user5821,+91 9175536803,hp,"hp laptop with 4gb RAM, 15-inch screen, ryzen 5 processor, and rtx 2060 GPU",linux,4gb,15,ryzen 5,rtx 2060,52625,yes
+user4648,+91 9413098224,mi,"mi laptop with 4gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3080 GPU",windows,4gb,13,ryzen 7,rtx 3080,62326,no
+user7478,+91 7248523052,lenovo,"lenovo laptop with 8gb RAM, 16-inch screen, i7 processor, and rtx 3070 GPU",linux,8gb,16,i7,rtx 3070,61303,no
+user3060,+91 8670096760,acer,"acer laptop with 2gb RAM, 15-inch screen, ryzen 3 processor, and gtx 1050 GPU",macos,2gb,15,ryzen 3,gtx 1050,32336,yes
+user7872,+91 8827222518,lenovo,"lenovo laptop with 2gb RAM, 15-inch screen, i7 processor, and rtx 3070 GPU",windows,2gb,15,i7,rtx 3070,44911,yes
+user4674,+91 7810125788,lenovo,"lenovo laptop with 8gb RAM, 17-inch screen, ryzen 7 processor, and rtx 3080 GPU",linux,8gb,17,ryzen 7,rtx 3080,91388,yes
+user6932,+91 9089527274,asus,"asus laptop with 16gb RAM, 16-inch screen, i3 processor, and gtx 1650 GPU",macos,16gb,16,i3,gtx 1650,154744,yes
+user8031,+91 8328298672,lenovo,"lenovo laptop with 4gb RAM, 15-inch screen, i9 processor, and gtx 1650 GPU",macos,4gb,15,i9,gtx 1650,57239,yes
+user2955,+91 8879023356,acer,"acer laptop with 32gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3080 GPU",windows,32gb,14,ryzen 5,rtx 3080,227360,no
+user9178,+91 8005003181,acer,"acer laptop with 32gb RAM, 13-inch screen, i9 processor, and gtx 1650 GPU",macos,32gb,13,i9,gtx 1650,246004,yes
+user1792,+91 8359710271,apple,"apple laptop with 8gb RAM, 17-inch screen, ryzen 5 processor, and gtx 1050 GPU",macos,8gb,17,ryzen 5,gtx 1050,163000,yes
+user4202,+91 9206348207,lenovo,"lenovo laptop with 8gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1650 GPU",linux,8gb,17,ryzen 3,gtx 1650,127322,yes
+user3694,+91 7113775647,acer,"acer laptop with 2gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,2gb,17,ryzen 5,rtx 3080,49316,no
+user4129,+91 9163482089,hp,"hp laptop with 16gb RAM, 15-inch screen, ryzen 3 processor, and rtx 2060 GPU",macos,16gb,15,ryzen 3,rtx 2060,82843,yes
+user7093,+91 8290359566,hp,"hp laptop with 4gb RAM, 17-inch screen, ryzen 5 processor, and gtx 1050 GPU",macos,4gb,17,ryzen 5,gtx 1050,43438,yes
+user1832,+91 8052350055,hp,"hp laptop with 4gb RAM, 15-inch screen, i7 processor, and rtx 3060 GPU",macos,4gb,15,i7,rtx 3060,61772,yes
+user5969,+91 8203004782,mi,"mi laptop with 4gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3080 GPU",macos,4gb,13,ryzen 7,rtx 3080,50642,no
+user3503,+91 7787418175,lenovo,"lenovo laptop with 8gb RAM, 14-inch screen, i7 processor, and rtx 3060 GPU",windows,8gb,14,i7,rtx 3060,84835,yes
+user8938,+91 7175732417,lenovo,"lenovo laptop with 4gb RAM, 16-inch screen, ryzen 7 processor, and rtx 2060 GPU",windows,4gb,16,ryzen 7,rtx 2060,49347,no
+user9941,+91 9139855987,apple,"apple laptop with 16gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,16gb,14,ryzen 5,rtx 3080,170000,yes
+user1041,+91 9553028706,mi,"mi laptop with 2gb RAM, 13-inch screen, i5 processor, and gtx 1050 GPU",macos,2gb,13,i5,gtx 1050,35567,no
+user2048,+91 9666788566,lenovo,"lenovo laptop with 4gb RAM, 17-inch screen, i9 processor, and gtx 1050 GPU",windows,4gb,17,i9,gtx 1050,46332,no
+user5075,+91 7401262706,apple,"apple laptop with 2gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3060 GPU",macos,2gb,13,ryzen 7,rtx 3060,167000,yes
+user8734,+91 7271920440,lenovo,"lenovo laptop with 8gb RAM, 14-inch screen, i3 processor, and rtx 3080 GPU",windows,8gb,14,i3,rtx 3080,66422,yes
+user8764,+91 7613292992,acer,"acer laptop with 16gb RAM, 13-inch screen, ryzen 9 processor, and rtx 2060 GPU",macos,16gb,13,ryzen 9,rtx 2060,97050,yes
+user7951,+91 7468170777,lenovo,"lenovo laptop with 16gb RAM, 13-inch screen, i9 processor, and gtx 1650 GPU",macos,16gb,13,i9,gtx 1650,90686,no
+user7434,+91 9038513612,apple,"apple laptop with 32gb RAM, 17-inch screen, ryzen 9 processor, and gtx 1050 GPU",macos,32gb,17,ryzen 9,gtx 1050,176138,no
+user2112,+91 9710118066,mi,"mi laptop with 16gb RAM, 14-inch screen, ryzen 9 processor, and rtx 3070 GPU",macos,16gb,14,ryzen 9,rtx 3070,181974,no
+user4236,+91 9501695049,asus,"asus laptop with 32gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3060 GPU",windows,32gb,15,ryzen 7,rtx 3060,273375,no
+user7975,+91 8589804554,mi,"mi laptop with 4gb RAM, 15-inch screen, ryzen 5 processor, and rtx 3070 GPU",linux,4gb,15,ryzen 5,rtx 3070,49399,no
+user7465,+91 7085917480,asus,"asus laptop with 4gb RAM, 13-inch screen, i7 processor, and gtx 1650 GPU",macos,4gb,13,i7,gtx 1650,56598,yes
+user4853,+91 7069286465,acer,"acer laptop with 8gb RAM, 13-inch screen, i5 processor, and rtx 3070 GPU",windows,8gb,13,i5,rtx 3070,125200,no
+user6455,+91 9357542326,acer,"acer laptop with 2gb RAM, 16-inch screen, i7 processor, and gtx 1650 GPU",macos,2gb,16,i7,gtx 1650,43853,yes
+user5819,+91 9333619669,hp,"hp laptop with 2gb RAM, 13-inch screen, ryzen 9 processor, and gtx 1050 GPU",linux,2gb,13,ryzen 9,gtx 1050,37215,yes
+user7872,+91 9750077473,hp,"hp laptop with 16gb RAM, 16-inch screen, i3 processor, and rtx 2060 GPU",macos,16gb,16,i3,rtx 2060,162065,no
+user9120,+91 8001864994,lenovo,"lenovo laptop with 32gb RAM, 15-inch screen, i9 processor, and rtx 3080 GPU",macos,32gb,15,i9,rtx 3080,261502,no
+user7200,+91 9443170299,apple,"apple laptop with 2gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1050 GPU",macos,2gb,17,ryzen 3,gtx 1050,161000,no
+user7929,+91 9963315149,acer,"acer laptop with 32gb RAM, 16-inch screen, ryzen 9 processor, and rtx 2060 GPU",macos,32gb,16,ryzen 9,rtx 2060,219505,no
+user5338,+91 7868099325,mi,"mi laptop with 4gb RAM, 16-inch screen, i5 processor, and gtx 1650 GPU",windows,4gb,16,i5,gtx 1650,50554,no
+user3091,+91 9312617064,asus,"asus laptop with 16gb RAM, 17-inch screen, ryzen 7 processor, and gtx 1050 GPU",windows,16gb,17,ryzen 7,gtx 1050,97856,yes
+user2431,+91 9307874992,lenovo,"lenovo laptop with 32gb RAM, 17-inch screen, ryzen 9 processor, and rtx 2060 GPU",linux,32gb,17,ryzen 9,rtx 2060,194451,no
+user4931,+91 8819954480,lenovo,"lenovo laptop with 4gb RAM, 17-inch screen, ryzen 9 processor, and rtx 2060 GPU",windows,4gb,17,ryzen 9,rtx 2060,56357,no
+user5303,+91 7466548586,acer,"acer laptop with 2gb RAM, 16-inch screen, i7 processor, and gtx 1050 GPU",windows,2gb,16,i7,gtx 1050,36650,no
+user7066,+91 9857897885,apple,"apple laptop with 16gb RAM, 15-inch screen, ryzen 3 processor, and gtx 1050 GPU",macos,16gb,15,ryzen 3,gtx 1050,159000,no
+user3249,+91 8155402816,acer,"acer laptop with 8gb RAM, 17-inch screen, ryzen 5 processor, and gtx 1050 GPU",windows,8gb,17,ryzen 5,gtx 1050,88741,no
+user8500,+91 8772131339,apple,"apple laptop with 32gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1650 GPU",macos,32gb,17,ryzen 3,gtx 1650,274577,no
+user7944,+91 9138009460,acer,"acer laptop with 2gb RAM, 17-inch screen, ryzen 3 processor, and rtx 3080 GPU",linux,2gb,17,ryzen 3,rtx 3080,44266,yes
+user5025,+91 9669390256,apple,"apple laptop with 8gb RAM, 14-inch screen, i9 processor, and rtx 3080 GPU",macos,8gb,14,i9,rtx 3080,175000,no
+user5569,+91 8399911959,apple,"apple laptop with 16gb RAM, 16-inch screen, i3 processor, and rtx 3070 GPU",macos,16gb,16,i3,rtx 3070,169000,no
+user1888,+91 7909251147,lenovo,"lenovo laptop with 8gb RAM, 14-inch screen, ryzen 9 processor, and rtx 2060 GPU",linux,8gb,14,ryzen 9,rtx 2060,106162,no
+user8789,+91 7227624457,acer,"acer laptop with 2gb RAM, 13-inch screen, ryzen 7 processor, and gtx 1650 GPU",macos,2gb,13,ryzen 7,gtx 1650,37363,yes
+user2953,+91 8784849302,lenovo,"lenovo laptop with 8gb RAM, 13-inch screen, i9 processor, and rtx 3060 GPU",linux,8gb,13,i9,rtx 3060,106657,no
+user3043,+91 9036951081,mi,"mi laptop with 16gb RAM, 13-inch screen, i3 processor, and rtx 2060 GPU",windows,16gb,13,i3,rtx 2060,76559,no
+user2189,+91 9053350582,asus,"asus laptop with 2gb RAM, 17-inch screen, ryzen 3 processor, and rtx 3060 GPU",linux,2gb,17,ryzen 3,rtx 3060,39266,no
+user1210,+91 9922755780,apple,"apple laptop with 4gb RAM, 13-inch screen, ryzen 3 processor, and gtx 1650 GPU",macos,4gb,13,ryzen 3,gtx 1650,159000,no
+user8162,+91 9425716833,apple,"apple laptop with 32gb RAM, 17-inch screen, i5 processor, and rtx 3060 GPU",macos,32gb,17,i5,rtx 3060,207411,yes
+user3079,+91 8230578172,asus,"asus laptop with 16gb RAM, 14-inch screen, ryzen 5 processor, and rtx 2060 GPU",windows,16gb,14,ryzen 5,rtx 2060,108741,no
+user6225,+91 9761573810,hp,"hp laptop with 8gb RAM, 17-inch screen, i9 processor, and gtx 1050 GPU",windows,8gb,17,i9,gtx 1050,110196,no
+user3406,+91 7993963630,mi,"mi laptop with 16gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1050 GPU",linux,16gb,17,ryzen 3,gtx 1050,136294,yes
+user8642,+91 7305847994,acer,"acer laptop with 32gb RAM, 16-inch screen, ryzen 7 processor, and rtx 3060 GPU",linux,32gb,16,ryzen 7,rtx 3060,209559,yes
+user4856,+91 9544290153,acer,"acer laptop with 4gb RAM, 13-inch screen, i5 processor, and gtx 1650 GPU",windows,4gb,13,i5,gtx 1650,48399,no
+user1291,+91 9220201384,mi,"mi laptop with 8gb RAM, 17-inch screen, ryzen 3 processor, and rtx 2060 GPU",macos,8gb,17,ryzen 3,rtx 2060,109961,yes
+user3312,+91 8327728782,lenovo,"lenovo laptop with 4gb RAM, 14-inch screen, ryzen 7 processor, and rtx 3060 GPU",macos,4gb,14,ryzen 7,rtx 3060,50053,no
+user9801,+91 8718254966,hp,"hp laptop with 4gb RAM, 16-inch screen, i5 processor, and gtx 1050 GPU",macos,4gb,16,i5,gtx 1050,53521,no
+user5295,+91 8806663476,lenovo,"lenovo laptop with 4gb RAM, 16-inch screen, ryzen 7 processor, and gtx 1050 GPU",windows,4gb,16,ryzen 7,gtx 1050,52810,yes
+user2612,+91 8332153081,hp,"hp laptop with 8gb RAM, 15-inch screen, ryzen 5 processor, and rtx 3070 GPU",windows,8gb,15,ryzen 5,rtx 3070,127371,no
+user5187,+91 8873486719,asus,"asus laptop with 4gb RAM, 13-inch screen, i7 processor, and gtx 1050 GPU",linux,4gb,13,i7,gtx 1050,43122,yes
+user9834,+91 9495543589,asus,"asus laptop with 8gb RAM, 14-inch screen, i3 processor, and rtx 3060 GPU",macos,8gb,14,i3,rtx 3060,84943,yes
+user7393,+91 8281494412,acer,"acer laptop with 2gb RAM, 13-inch screen, i3 processor, and gtx 1050 GPU",linux,2gb,13,i3,gtx 1050,34706,yes
+user6049,+91 7569415421,hp,"hp laptop with 32gb RAM, 14-inch screen, i9 processor, and rtx 3080 GPU",macos,32gb,14,i9,rtx 3080,229381,yes
+user9898,+91 9311953791,lenovo,"lenovo laptop with 16gb RAM, 13-inch screen, ryzen 5 processor, and rtx 3080 GPU",linux,16gb,13,ryzen 5,rtx 3080,151302,yes
+user1792,+91 9384718207,asus,"asus laptop with 4gb RAM, 17-inch screen, i7 processor, and rtx 3070 GPU",windows,4gb,17,i7,rtx 3070,56771,no
+user4011,+91 8093061966,mi,"mi laptop with 8gb RAM, 14-inch screen, ryzen 7 processor, and gtx 1050 GPU",windows,8gb,14,ryzen 7,gtx 1050,121345,yes
+user8474,+91 9667863886,acer,"acer laptop with 8gb RAM, 13-inch screen, i5 processor, and rtx 3080 GPU",linux,8gb,13,i5,rtx 3080,124839,no
+user6120,+91 9083050193,mi,"mi laptop with 32gb RAM, 15-inch screen, i9 processor, and gtx 1050 GPU",windows,32gb,15,i9,gtx 1050,256285,no
+user4297,+91 8626928464,asus,"asus laptop with 8gb RAM, 13-inch screen, i9 processor, and rtx 3080 GPU",macos,8gb,13,i9,rtx 3080,131063,yes
+user1763,+91 8979156569,mi,"mi laptop with 32gb RAM, 17-inch screen, i9 processor, and gtx 1050 GPU",macos,32gb,17,i9,gtx 1050,231883,no
+user4699,+91 9760980024,asus,"asus laptop with 2gb RAM, 14-inch screen, ryzen 5 processor, and gtx 1650 GPU",windows,2gb,14,ryzen 5,gtx 1650,36283,no
+user2870,+91 9786305917,acer,"acer laptop with 16gb RAM, 15-inch screen, ryzen 7 processor, and rtx 2060 GPU",macos,16gb,15,ryzen 7,rtx 2060,118323,no
+user3266,+91 9476185319,apple,"apple laptop with 16gb RAM, 13-inch screen, ryzen 9 processor, and rtx 2060 GPU",macos,16gb,13,ryzen 9,rtx 2060,167000,no
+user5315,+91 7391718171,apple,"apple laptop with 2gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3080 GPU",macos,2gb,13,ryzen 3,rtx 3080,167000,yes
+user2764,+91 7382141885,asus,"asus laptop with 2gb RAM, 13-inch screen, ryzen 3 processor, and rtx 3070 GPU",macos,2gb,13,ryzen 3,rtx 3070,36456,no
+user8597,+91 8536858772,hp,"hp laptop with 8gb RAM, 15-inch screen, i9 processor, and rtx 3080 GPU",linux,8gb,15,i9,rtx 3080,110707,no
+user8721,+91 8498634360,hp,"hp laptop with 32gb RAM, 14-inch screen, i7 processor, and rtx 3060 GPU",linux,32gb,14,i7,rtx 3060,284794,no
+user7438,+91 7984623104,asus,"asus laptop with 2gb RAM, 14-inch screen, ryzen 5 processor, and gtx 1050 GPU",linux,2gb,14,ryzen 5,gtx 1050,33886,no
+user7236,+91 9879253711,hp,"hp laptop with 2gb RAM, 15-inch screen, ryzen 7 processor, and gtx 1050 GPU",macos,2gb,15,ryzen 7,gtx 1050,37624,no
+user1907,+91 7912256055,apple,"apple laptop with 2gb RAM, 13-inch screen, i5 processor, and rtx 3060 GPU",macos,2gb,13,i5,rtx 3060,166000,no
+user7809,+91 8426120783,mi,"mi laptop with 32gb RAM, 17-inch screen, i5 processor, and rtx 3070 GPU",windows,32gb,17,i5,rtx 3070,287116,no
+user9571,+91 7352151998,mi,"mi laptop with 16gb RAM, 17-inch screen, i3 processor, and rtx 3080 GPU",linux,16gb,17,i3,rtx 3080,111434,no
+user5008,+91 7612561979,asus,"asus laptop with 8gb RAM, 16-inch screen, ryzen 3 processor, and rtx 2060 GPU",macos,8gb,16,ryzen 3,rtx 2060,73194,yes
+user9806,+91 9617078640,mi,"mi laptop with 4gb RAM, 16-inch screen, i9 processor, and rtx 2060 GPU",macos,4gb,16,i9,rtx 2060,56900,yes
+user7583,+91 9426051713,apple,"apple laptop with 16gb RAM, 14-inch screen, ryzen 3 processor, and rtx 3080 GPU",macos,16gb,14,ryzen 3,rtx 3080,168000,no
+user1701,+91 9961105788,asus,"asus laptop with 2gb RAM, 17-inch screen, i3 processor, and rtx 2060 GPU",macos,2gb,17,i3,rtx 2060,40841,no
+user4272,+91 7316274063,lenovo,"lenovo laptop with 8gb RAM, 17-inch screen, i9 processor, and rtx 3070 GPU",macos,8gb,17,i9,rtx 3070,144431,yes
+user5515,+91 7906456463,apple,"apple laptop with 32gb RAM, 15-inch screen, ryzen 3 processor, and rtx 2060 GPU",macos,32gb,15,ryzen 3,rtx 2060,232158,yes
+user8067,+91 9286950496,lenovo,"lenovo laptop with 8gb RAM, 16-inch screen, i3 processor, and rtx 3080 GPU",macos,8gb,16,i3,rtx 3080,70834,yes
+user7245,+91 7072662059,hp,"hp laptop with 32gb RAM, 15-inch screen, i7 processor, and rtx 2060 GPU",windows,32gb,15,i7,rtx 2060,252991,yes
+user5368,+91 9588933607,lenovo,"lenovo laptop with 8gb RAM, 13-inch screen, ryzen 7 processor, and rtx 2060 GPU",macos,8gb,13,ryzen 7,rtx 2060,127184,yes
+user2361,+91 9459753672,apple,"apple laptop with 8gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3070 GPU",macos,8gb,13,ryzen 7,rtx 3070,169000,yes
+user5838,+91 8038033753,apple,"apple laptop with 2gb RAM, 14-inch screen, ryzen 9 processor, and gtx 1650 GPU",macos,2gb,14,ryzen 9,gtx 1650,166000,yes
+user8946,+91 8322453556,hp,"hp laptop with 4gb RAM, 15-inch screen, ryzen 9 processor, and rtx 2060 GPU",linux,4gb,15,ryzen 9,rtx 2060,59724,no
+user1626,+91 7526972601,apple,"apple laptop with 32gb RAM, 16-inch screen, i7 processor, and rtx 3070 GPU",macos,32gb,16,i7,rtx 3070,219045,no
+user9507,+91 9343011153,lenovo,"lenovo laptop with 2gb RAM, 13-inch screen, i9 processor, and rtx 3070 GPU",macos,2gb,13,i9,rtx 3070,47816,no
+user5599,+91 8073703477,hp,"hp laptop with 8gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3070 GPU",windows,8gb,16,ryzen 9,rtx 3070,117977,yes
+user2839,+91 8842299184,mi,"mi laptop with 4gb RAM, 15-inch screen, ryzen 5 processor, and gtx 1650 GPU",macos,4gb,15,ryzen 5,gtx 1650,52611,yes
+user8367,+91 7386102356,acer,"acer laptop with 4gb RAM, 14-inch screen, i3 processor, and rtx 3070 GPU",windows,4gb,14,i3,rtx 3070,44015,no
+user1405,+91 7175378997,acer,"acer laptop with 16gb RAM, 16-inch screen, ryzen 7 processor, and rtx 2060 GPU",linux,16gb,16,ryzen 7,rtx 2060,169942,no
+user1267,+91 7865557481,mi,"mi laptop with 8gb RAM, 13-inch screen, ryzen 9 processor, and rtx 3080 GPU",macos,8gb,13,ryzen 9,rtx 3080,62868,no
+user3527,+91 8828939357,acer,"acer laptop with 32gb RAM, 16-inch screen, ryzen 5 processor, and rtx 3070 GPU",linux,32gb,16,ryzen 5,rtx 3070,192117,no
+user5948,+91 9872411171,asus,"asus laptop with 16gb RAM, 17-inch screen, ryzen 9 processor, and rtx 3070 GPU",windows,16gb,17,ryzen 9,rtx 3070,166097,no
+user1440,+91 9418270374,apple,"apple laptop with 32gb RAM, 15-inch screen, i3 processor, and rtx 3070 GPU",macos,32gb,15,i3,rtx 3070,263075,no
+user5773,+91 7814167419,asus,"asus laptop with 2gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3060 GPU",macos,2gb,13,ryzen 7,rtx 3060,37737,no
+user7236,+91 9360590944,apple,"apple laptop with 8gb RAM, 15-inch screen, i5 processor, and rtx 2060 GPU",macos,8gb,15,i5,rtx 2060,166000,no
+user8482,+91 7596610230,acer,"acer laptop with 8gb RAM, 15-inch screen, i9 processor, and rtx 2060 GPU",macos,8gb,15,i9,rtx 2060,122877,yes
+user3517,+91 7941478561,hp,"hp laptop with 4gb RAM, 13-inch screen, i9 processor, and gtx 1650 GPU",macos,4gb,13,i9,gtx 1650,54794,no
+user7920,+91 7277502564,hp,"hp laptop with 16gb RAM, 14-inch screen, i3 processor, and rtx 2060 GPU",windows,16gb,14,i3,rtx 2060,78791,no
+user7266,+91 7215796949,hp,"hp laptop with 4gb RAM, 17-inch screen, ryzen 3 processor, and gtx 1650 GPU",macos,4gb,17,ryzen 3,gtx 1650,45948,no
+user6011,+91 9773790924,hp,"hp laptop with 2gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3080 GPU",windows,2gb,15,ryzen 7,rtx 3080,46299,no
+user7214,+91 7338773810,acer,"acer laptop with 16gb RAM, 14-inch screen, i9 processor, and gtx 1050 GPU",windows,16gb,14,i9,gtx 1050,112762,yes
+user2927,+91 9695808532,lenovo,"lenovo laptop with 16gb RAM, 16-inch screen, ryzen 3 processor, and rtx 3060 GPU",macos,16gb,16,ryzen 3,rtx 3060,96924,yes
+user8687,+91 8564876555,lenovo,"lenovo laptop with 2gb RAM, 13-inch screen, i5 processor, and rtx 2060 GPU",linux,2gb,13,i5,rtx 2060,40299,yes
+user6172,+91 8865138998,hp,"hp laptop with 2gb RAM, 17-inch screen, i5 processor, and rtx 3080 GPU",windows,2gb,17,i5,rtx 3080,48022,yes
+user9396,+91 9427693741,mi,"mi laptop with 2gb RAM, 15-inch screen, ryzen 3 processor, and rtx 3060 GPU",linux,2gb,15,ryzen 3,rtx 3060,38572,no
+user2176,+91 9895777341,hp,"hp laptop with 8gb RAM, 14-inch screen, i7 processor, and gtx 1650 GPU",macos,8gb,14,i7,gtx 1650,74158,no
+user2386,+91 9741971302,lenovo,"lenovo laptop with 2gb RAM, 13-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,2gb,13,ryzen 5,rtx 3080,43535,yes
+user4693,+91 9109998853,hp,"hp laptop with 32gb RAM, 14-inch screen, ryzen 5 processor, and rtx 3060 GPU",linux,32gb,14,ryzen 5,rtx 3060,285241,no
+user7730,+91 7796964368,hp,"hp laptop with 2gb RAM, 16-inch screen, ryzen 5 processor, and gtx 1050 GPU",linux,2gb,16,ryzen 5,gtx 1050,34048,no
+user1623,+91 9748122398,asus,"asus laptop with 4gb RAM, 14-inch screen, ryzen 7 processor, and gtx 1050 GPU",windows,4gb,14,ryzen 7,gtx 1050,50389,no
+user3876,+91 7157684965,asus,"asus laptop with 32gb RAM, 14-inch screen, i9 processor, and rtx 3060 GPU",windows,32gb,14,i9,rtx 3060,277139,no
+user2692,+91 7101174219,asus,"asus laptop with 32gb RAM, 14-inch screen, ryzen 3 processor, and gtx 1650 GPU",macos,32gb,14,ryzen 3,gtx 1650,181746,no
+user2519,+91 9910156999,hp,"hp laptop with 16gb RAM, 13-inch screen, ryzen 3 processor, and gtx 1650 GPU",macos,16gb,13,ryzen 3,gtx 1650,112984,yes
+user5155,+91 7084683659,acer,"acer laptop with 32gb RAM, 13-inch screen, ryzen 3 processor, and rtx 2060 GPU",windows,32gb,13,ryzen 3,rtx 2060,215847,yes
+user2919,+91 7425239899,apple,"apple laptop with 2gb RAM, 17-inch screen, ryzen 5 processor, and rtx 3080 GPU",macos,2gb,17,ryzen 5,rtx 3080,173000,no
+user1407,+91 7958376615,apple,"apple laptop with 16gb RAM, 14-inch screen, i7 processor, and rtx 2060 GPU",macos,16gb,14,i7,rtx 2060,167000,no
+user3256,+91 8466028405,hp,"hp laptop with 4gb RAM, 14-inch screen, i3 processor, and gtx 1050 GPU",windows,4gb,14,i3,gtx 1050,47645,no
+user9663,+91 7001646561,mi,"mi laptop with 8gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3080 GPU",macos,8gb,16,ryzen 9,rtx 3080,130487,no
+user8811,+91 9001426887,asus,"asus laptop with 16gb RAM, 15-inch screen, ryzen 7 processor, and rtx 3070 GPU",macos,16gb,15,ryzen 7,rtx 3070,179909,no
+user2792,+91 9945937376,apple,"apple laptop with 32gb RAM, 15-inch screen, ryzen 9 processor, and rtx 3080 GPU",macos,32gb,15,ryzen 9,rtx 3080,252462,yes
+user6612,+91 7055743247,mi,"mi laptop with 16gb RAM, 13-inch screen, i7 processor, and gtx 1050 GPU",macos,16gb,13,i7,gtx 1050,132241,no
+user4560,+91 8781930206,lenovo,"lenovo laptop with 8gb RAM, 16-inch screen, i3 processor, and rtx 3070 GPU",macos,8gb,16,i3,rtx 3070,109576,no
+user2314,+91 8945924847,acer,"acer laptop with 4gb RAM, 16-inch screen, ryzen 3 processor, and gtx 1050 GPU",linux,4gb,16,ryzen 3,gtx 1050,54402,no
+user6112,+91 8682814341,hp,"hp laptop with 8gb RAM, 15-inch screen, ryzen 5 processor, and gtx 1650 GPU",macos,8gb,15,ryzen 5,gtx 1650,127999,no
+user2939,+91 8385090453,apple,"apple laptop with 8gb RAM, 16-inch screen, i7 processor, and rtx 3080 GPU",macos,8gb,16,i7,rtx 3080,175000,no
+user9337,+91 8321108168,lenovo,"lenovo laptop with 8gb RAM, 17-inch screen, ryzen 9 processor, and gtx 1650 GPU",macos,8gb,17,ryzen 9,gtx 1650,71382,no
+user8940,+91 8877215975,asus,"asus laptop with 4gb RAM, 16-inch screen, ryzen 9 processor, and rtx 3060 GPU",linux,4gb,16,ryzen 9,rtx 3060,60152,yes
+user2631,+91 9880270737,asus,"asus laptop with 2gb RAM, 16-inch screen, ryzen 5 processor, and rtx 2060 GPU",windows,2gb,16,ryzen 5,rtx 2060,37505,yes
+user8493,+91 8755513107,hp,"hp laptop with 4gb RAM, 15-inch screen, i7 processor, and gtx 1650 GPU",linux,4gb,15,i7,gtx 1650,58221,no
+user9847,+91 9139124311,hp,"hp laptop with 8gb RAM, 16-inch screen, i7 processor, and rtx 3080 GPU",linux,8gb,16,i7,rtx 3080,101939,yes
+user8344,+91 8046917517,hp,"hp laptop with 2gb RAM, 14-inch screen, ryzen 5 processor, and gtx 1650 GPU",linux,2gb,14,ryzen 5,gtx 1650,36751,yes
+user1881,+91 7896552728,mi,"mi laptop with 8gb RAM, 15-inch screen, i7 processor, and rtx 2060 GPU",windows,8gb,15,i7,rtx 2060,128955,yes
+user2947,+91 8358877560,acer,"acer laptop with 16gb RAM, 13-inch screen, ryzen 7 processor, and rtx 3060 GPU",macos,16gb,13,ryzen 7,rtx 3060,166059,no
+user7614,+91 7014450165,asus,"asus laptop with 2gb RAM, 17-inch screen, i7 processor, and rtx 3070 GPU",macos,2gb,17,i7,rtx 3070,45497,no
+user4260,+91 9323418491,lenovo,"lenovo laptop with 16gb RAM, 16-inch screen, i7 processor, and rtx 2060 GPU",windows,16gb,16,i7,rtx 2060,177598,yes
+user1667,+91 9423575079,asus,"asus laptop with 32gb RAM, 14-inch screen, i9 processor, and rtx 2060 GPU",linux,32gb,14,i9,rtx 2060,197721,yes
+user8319,+91 8965442241,lenovo,"lenovo laptop with 32gb RAM, 13-inch screen, ryzen 5 processor, and rtx 2060 GPU",linux,32gb,13,ryzen 5,rtx 2060,201528,yes
+user9124,+91 8866877817,lenovo,"lenovo laptop with 32gb RAM, 14-inch screen, i3 processor, and rtx 3080 GPU",macos,32gb,14,i3,rtx 3080,264592,no

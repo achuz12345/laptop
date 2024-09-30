@@ -49,6 +49,8 @@ urlpatterns = [
     path('admin-reports/', admin_reports, name='admin_reports'),
     path('download-report/', download_csv_report, name='download_csv_report'),
     path('recommendation/', laptop_recommendation, name='recommendation'),
+    path('streamlit/', streamlit_embed, name='streamlit_embed'),
+    
 
 ]
 if settings.DEBUG:

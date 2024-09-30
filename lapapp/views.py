@@ -731,3 +731,8 @@ def laptop_recommendation(request):
         })
     
     return render(request, 'laptop_form.html')
+
+from django.shortcuts import render
+
+def streamlit_embed(request):
+    return render(request, 'streamlit_embed.html')
